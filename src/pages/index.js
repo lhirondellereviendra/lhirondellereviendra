@@ -73,19 +73,21 @@ class IndexPage extends Component{
             <h1 className="title titlewhite is-size-4-mobile"> MES DERNIERS articles </h1>
                 <div className="tile is-ancestor"style={{marginTop:"50px"}}>
 
-                              {posts
-                                .map(({ node: post }) => (
-                              <div className="tile is-4  is-parent">
-                                <a className="has-text-primary" href={post.fields.slug}>
-                                      <div className="tile is-child box" key={post.id}>
-                                          <figure>
-                                              <img  className="imgpost"src={post.frontmatter.urlphoto}/>
-                                          </figure>
-                                          <p className="title is-size-4 is-size-5-mobile">{post.frontmatter.title}</p>
-                                      </div>
-                                </a>
-                                </div>
-                              ))}
+                              {
+                                        posts .map(({ node: post }) => (
+                                          <div className="tile is-4  is-parent">
+                                              <a className="has-text-primary" href={post.fields.slug}>
+                                                    <div className="tile is-child box" key={post.id}>
+                                                        <figure>
+                                                            <img  className="imgpost"src={post.frontmatter.urlphoto}/>
+                                                        </figure>
+                                                        <p className="title is-size-4 is-size-5-mobile">{post.frontmatter.title}</p>
+                                                    </div>
+                                              </a>
+                                          </div>
+                                        ))
+                              }
+                              
 
                 </div>
           </section>
@@ -140,7 +142,7 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(
+    allMarkdownRemark( limit: 3
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
