@@ -1,7 +1,6 @@
 import React, {Component} from 'react' /* eslint-disable */
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
-import TagRoute from '../tags/index.js'
 import Layout from '../components/Layout.js'
 
 
@@ -84,34 +83,26 @@ Blogpage.propTypes = {
 }
 
 export const pageQuery = graphql`
+
 query BlogQuery {
-  site {
-siteMetadata {
-  title
-}
-}
-allMarkdownRemark(
-sort: { order: DESC, fields: [id]},
-filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-) {
-group(field: frontmatter___tags) {
-  fieldValue
-  totalCount
-}
-edges {
-  node {
-    excerpt(pruneLength: 400)
-    id
-    fields {
-      slug
-    }
-    frontmatter {
-      title
-      urlphoto
-      templateKey
+  allMarkdownRemark(
+    sort: { order: DESC, fields: [id]},
+    filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+  ) {
+    edges {
+      node {
+        excerpt(pruneLength: 400)
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          urlphoto
+          templateKey
+        }
+      }
     }
   }
-}
-}
 }
 `

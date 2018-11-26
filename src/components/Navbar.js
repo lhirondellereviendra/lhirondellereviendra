@@ -22,7 +22,7 @@ const Navbar = () => (
           <div className="navbar-end">
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="#about">Me connaitre </a> 
                             <p className="navbar-item-trait"> | </p>                            
-                            <a className="navbar-item is-size-5 " aria-hidden="true" href="#blog" >Mon Blog </a>
+                            <a className="navbar-item is-size-5 " aria-hidden="true" href="/blog" >Mon Blog </a>
                             <p className="navbar-item-trait"> | </p>                            
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="#contact">Me suivre </a>
 
