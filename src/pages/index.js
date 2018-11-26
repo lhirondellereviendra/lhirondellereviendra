@@ -90,7 +90,7 @@ class IndexPage extends Component{
 
 
                 </div>
-                <a class="button is-black button is-medium is-rounded">Voir plus d'articles >></a>
+                <a class="button is-black button is-medium is-rounded" href="/blog">Voir plus d'articles >></a>
 
           </section>
 
