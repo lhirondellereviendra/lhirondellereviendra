@@ -81,15 +81,17 @@ class IndexPage extends Component{
                                                         <figure>
                                                             <img  className="imgpost"src={post.frontmatter.urlphoto}/>
                                                         </figure>
-                                                        <p className="title is-size-4 is-size-5-mobile">{post.frontmatter.title}</p>
+                                                        <p className="title is-size-4 is-size-5-mobile ">{post.frontmatter.title}</p>
                                                     </div>
                                               </a>
                                           </div>
                                         ))
                               }
-                              
+
 
                 </div>
+                <a class="button is-black button is-medium is-rounded">Voir plus d'articles >></a>
+
           </section>
 
 
