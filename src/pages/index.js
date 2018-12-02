@@ -17,13 +17,11 @@ class IndexPage extends Component{
           <Layout/>
 
 
-
           <div>
-          <img src={header} alt="FamilyCoach" />
+          <img src={header} alt="image" />
           </div>
 
           <section className=" section  has-text-centered is-medium">
-            <h1 className="title titleblack is-size-4-mobile"> BIENVENUE SUR MON BLOG </h1>
             <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
             Si je dois décrire ce carnet de bord, je dirai qu’il représente pour moi, un merveilleux cachot dans lequel je viens me reposer de temps à autre pour faire de la lumière sur mes pensées et mettre encore plus de soleil dans mes émotions. Restez avec moi.
             </p>
@@ -38,12 +36,6 @@ class IndexPage extends Component{
                   </div>
               </nav>
           </section>
-          <section className="secteurdark quote">
-                  <p className=" has-text-centered	is-size-5 is-size-6-mobile" >
-                  “La curiosité des enfants est un penchant de la nature qui va comme au-devant de l’instruction ; ne manquez pas d’en profiter.” -De Fenelon
-                  </p>
-          </section>
-
           
 
           <section className=" section  has-text-centered is-medium" id="about">
@@ -95,11 +87,6 @@ class IndexPage extends Component{
           </section>
 
 
-          <section className=" quote">
-                  <p className=" has-text-centered	is-size-5 is-size-6-mobile" >
-                  "L’homme n’est rien sans les hommes, il vient dans leurs mains et s’en va dans leurs mains" -Seydou Badian
-                  </p>
-          </section>
           <section className=" section secteurdark has-text-centered is-medium" id="contact">
             <h1 className="title titlewhite is-size-4-mobile"> ME SUIVRE </h1>
             <a aria-hidden="true" href="https://www.instagram.com/bijoulisa_/"><h1 className="title titlewhite has-text-left is-size-5 ">@bijoulisa_ </h1></a>

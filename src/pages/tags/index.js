@@ -1,10 +1,19 @@
-import React from 'react' /* eslint-disable */
+import React, {Component} from 'react' /* eslint-disable */
 import { kebabCase } from 'lodash'
 import {  graphql } from 'gatsby'
 
-const TagsPage = ({
+/*const TagsPage = ({
   data: { allMarkdownRemark: { group }},
-}) => (
+}) => ( */
+
+
+class TagsPage extends Component{
+  render(){
+    const { data } = this.props
+    const {group} = data.allMarkdownRemark
+
+    return(
+
     <section className="section">
       <div className="container content">
         <div className="columns">
@@ -27,16 +36,12 @@ const TagsPage = ({
       </div>
     </section>
 )
-
+  } 
+}
 export default TagsPage
 
 export const tagPageQuery = graphql`
   query TagsQuery {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(limit: 1000) {
       group(field: frontmatter___tags) {
         fieldValue
