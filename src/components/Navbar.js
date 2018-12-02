@@ -13,18 +13,17 @@ const Navbar = () => (
             </div>
 
 
-
           <div className="navbar-brand" id="navMenu">
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">Facebook </a> 
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/bijoulisa_/" >Instagram </a>
 
           </div>
           <div className="navbar-end">
-                            <a className="navbar-item is-size-5 " aria-hidden="true" href="#about">Me connaitre </a> 
+                            <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/#about">Me connaitre </a> 
                             <p className="navbar-item-trait"> | </p>                            
-                            <a className="navbar-item is-size-5 " aria-hidden="true" href="/blog" >Mon Blog </a>
+                            <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/blog" >Mon Blog </a>
                             <p className="navbar-item-trait"> | </p>                            
-                            <a className="navbar-item is-size-5 " aria-hidden="true" href="#contact">Me suivre </a>
+                            <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/#contact">Me suivre </a>
 
           </div>
           </nav>   
