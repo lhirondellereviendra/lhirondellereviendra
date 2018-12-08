@@ -1,10 +1,13 @@
 import React from 'react'/* eslint-disable */
 import Helmet from 'react-helmet'
+import { kebabCase } from 'lodash'
+
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 class TagRoute extends React.Component {
   render() {
+    const { data } = this.props
     const posts = this.props.data.allMarkdownRemark.edges
 
     const postLinks = posts.map(post => (
@@ -34,6 +37,7 @@ class TagRoute extends React.Component {
       <Layout>
         <section className="section">
           <Helmet title={`${tag} | ${title}`} />
+
           <div className="container content">
             <div className="columns">
               <div
@@ -72,7 +76,8 @@ export const tagPageQuery = graphql`
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
-    ) {
+    )
+      {
       totalCount
       edges {
         node {

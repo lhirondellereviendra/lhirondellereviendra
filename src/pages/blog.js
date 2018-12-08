@@ -9,7 +9,6 @@ class Blogpage extends Component{
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark  
     const {group} = data.allMarkdownRemark
-
     return(
       <div>
 
