@@ -62,6 +62,7 @@ class Blogpage extends Component{
 
 
                 </div>
+         </section>
          <Footer/>
     </div>
     )
