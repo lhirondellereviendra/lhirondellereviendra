@@ -43,9 +43,8 @@ const AboutPage = ({ data }) => {
             title={post.frontmatter.title}
             content={post.html}
           />
-        </Layout>
         <Footer/>
-
+        </Layout>
   )
 }
 
