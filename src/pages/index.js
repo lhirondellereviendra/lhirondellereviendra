@@ -40,8 +40,8 @@ class IndexPage extends Component{
           </section>
           
 
-          <section className=" section  has-text-centered is-medium" id="about">
-            <h1 className="title titleblack is-size-4-mobile"> QUI SUIS-JE? </h1>
+          <section className=" section secteurdark has-text-centered is-medium" id="about">
+            <h1 className="title titlewhite is-size-4-mobile"> QUI SUIS-JE? </h1>
 
             <div className="level article aboutpart">
               <div className="level-item">
@@ -58,10 +58,25 @@ class IndexPage extends Component{
 
 
                     Aussi, j'aime répandre l'information et raconter de petites histoires éclairées par celles des autres. Vous l'aurez compris, ici je partage avec vous mes promenades autour du monde.</p>
+
               </div>
+              
              </div> 
+             <a class="button is-black button is-medium is-rounded" href="/about">En savoir plus sur moi >></a>
+
 
           </section>
+          <section className=" has-text-centered partthree is-medium">
+              <h1 className="title titleblack"> MES VOYAGES </h1>
+              <div className="level-item" style={{padding:"20px"}}>
+                <img  className="imgpost"src="https://bulma.io/images/placeholders/640x480.png"/>
+              </div>
+              <p className="has-text-center text is-size-5" style={{padding:"20px"}}>Découvrez mes voyages sous un autre format</p>
+            
+              <a class="button is-black button is-medium is-rounded" href="/tags/voyage">Voir mes voyages >></a>
+
+          </section>
+
 
           <section className=" section secteurdark has-text-centered is-medium" id="blog">
             <h1 className="title titlewhite is-size-4-mobile"> MES DERNIERS articles </h1>
