@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Footer from '../components/Footer.js'
 
 import Content, { HTMLContent } from '../components/Content'
 
@@ -43,6 +44,8 @@ const AboutPage = ({ data }) => {
             content={post.html}
           />
         </Layout>
+        <Footer/>
+
   )
 }
 
