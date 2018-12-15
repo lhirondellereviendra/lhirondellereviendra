@@ -19,7 +19,7 @@ const Navbar = () => (
 
           </div>
           <div className="navbar-end">
-                            <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/about">Me connaitre </a> 
+                            <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/apropos">Me connaitre </a> 
                             <p className="navbar-item-trait"> | </p>                            
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/blog" >Mon Blog </a>
                             <p className="navbar-item-trait"> | </p>                            
