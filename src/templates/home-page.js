@@ -1,65 +1,89 @@
-import React from 'react'
+import React from 'react'  /* eslint-disable */
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Footer from '../components/Footer.js'
 
-import Content, { HTMLContent } from '../components/Content'
+import CategorieHome from '../components/CategorieHome'
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
+//import Features from '../components/Features'
+//import Testimonials from '../components/Testimonials'
+//import Pricing from '../components/Pricing'
+//import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
-  return (
-          <section className="section section--gradient">
-            <div className="container">
-              <div className="columns">
-                <div className="column is-10 is-offset-1">
-                  <div className="section">
-                    <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                      {title}
-                    </h2>
-                    <PageContent className="content" content={content} />
-                  </div>
+export const HomePageTemplate = ({
+  image,
+  description,
+  categoriehome,
+}) => (
+    <div>
+        <div>
+        <img src={image} alt="image" />
+        </div>
+
+        <section className=" section  has-text-centered is-medium">
+
+            <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
+            {description}
+            </p>
+            <h4 className="has-text-justified is-size-4 title"> Tu peux aussi me suivre sur: </h4>
+            <nav className="navbar" >
+                <div className="navbar" >
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
+                        <p className="navbar-item-trait"> / </p>                            
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" >INSTAGRAM </a>
+                        <p className="navbar-item-trait"> / </p>                            
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#">TWITTER </a>
                 </div>
-              </div>
-            </div>
-          </section>
-  )
-}
+            </nav>
+        </section>
+        <CategorieHome categoriehome={categoriehome} />
 
-AboutPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
+    </div>    
+)
+
+HomePageTemplate.propTypes = {
+  image: PropTypes.string,
+  description: PropTypes.string,
+  categoriehome: PropTypes.array,
+
 }
 
 const HomePage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { frontmatter } = data.markdownRemark
 
   return (
-        <Layout>
-          <HomePageTemplate
-            contentComponent={HTMLContent}
-            title={post.frontmatter.title}
-            content={post.html}
-          />
-        <Footer/>
-        </Layout>
+    <Layout>
+      <HomePageTemplate
+        image={frontmatter.image}
+        description={frontmatter.description}
+        categoriehome={frontmatter.categoriehome}
+      />
+    </Layout>
   )
 }
 
 HomePage.propTypes = {
-  data: PropTypes.object.isRequired,
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.shape({
+      frontmatter: PropTypes.object,
+    }),
+  }),
 }
 
 export default HomePage
 
-export const aboutPageQuery = graphql`
+export const HomePageQuery = graphql`
   query HomePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      html
       frontmatter {
-        title
+        image
+        description
+        categoriehome{
+            titrecat
+            descriptioncat
+            liencat
+            nombouton
+        }
       }
     }
   }
