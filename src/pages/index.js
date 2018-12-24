@@ -27,14 +27,15 @@ class IndexPage extends Component{
             <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
             Si je dois décrire ce carnet de bord, je dirai qu’il représente pour moi, un merveilleux cachot dans lequel je viens me reposer de temps à autre pour faire de la lumière sur mes pensées et mettre encore plus de soleil dans mes émotions. Restez avec moi.
             </p>
-            <h4 className="has-text-justified is-size-4 title"> Tu peux aussi me suivre sur: </h4>
             <nav className="navbar" >
+              <h4 className="has-text-justified is-size-4 title" style={{margin:"auto"}}> Suivez-nous: </h4>
+
                 <div className="navbar" >
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i class="fab fa-facebook "></i> </a> 
                       <p className="navbar-item-trait"> / </p>                            
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" >INSTAGRAM </a>
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" ><i class="fab fa-instagram"></i> </a>
                       <p className="navbar-item-trait"> / </p>                            
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#">TWITTER </a>
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i class="fab fa-twitter"></i> </a>
                   </div>
               </nav>
           </section>
