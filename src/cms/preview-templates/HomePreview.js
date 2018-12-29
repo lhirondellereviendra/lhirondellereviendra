@@ -4,9 +4,7 @@ import { HomePageTemplate } from '../../templates/home-page'
 
 const HomePreview = ({ entry, getAsset }) => {
 
-  const entrycategoriehome= entry.getIn(['data', 'categoriehome'])
-  const categoriehome = entrycategoriehome ? entrycategoriehome.toJS() : []
-
+  
   return (
     <HomePageTemplate
       image={entry.getIn(['data', 'image'])}
@@ -16,7 +14,6 @@ const HomePreview = ({ entry, getAsset }) => {
         description: entry.getIn(['data', 'about', 'description']),
         image: entry.getIn(['data', 'about', 'image']),
       }}
-      Categorie={categoriehome}
     />
   )
 }
