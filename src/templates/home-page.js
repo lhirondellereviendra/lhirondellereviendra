@@ -28,8 +28,8 @@ export const HomePageTemplate = ({
             <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
             {description}
             </p>
-            <h4 className="has-text-justified is-size-4 title"> Suivez-moi: </h4>
-            <nav className="navbar" >
+            <h4 className="has-text-justified is-size-4 title sociaux-barre"> Suivez-moi: </h4>
+            <nav className="navbar sociaux-barre" >
                 <div className="navbar" >
                         <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
                         <p className="navbar-item-trait"> / </p>                            
