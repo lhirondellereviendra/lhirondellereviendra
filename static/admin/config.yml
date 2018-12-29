@@ -46,7 +46,7 @@ collections:
                       {label: "Image URL", name: image, widget: string}
                       ]
                 }
-              - {label: "Categorie", name: categorie, widget: list, 
+              - {label: "Categorie", name: categoriehome, widget: list, 
                     fields: [
                       {label: "Titre Categorie", name: titrecat, widget: string}, 
                       {label: "Description" , name: descriptioncat, widget: string}, 
