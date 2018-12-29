@@ -1,6 +1,6 @@
 ---
 templateKey: 'home-page'
-path: /home
+path: /
 title: L'hirondelle reviendra
 image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
 description: >-
