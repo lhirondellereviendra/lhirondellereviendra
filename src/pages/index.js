@@ -31,11 +31,11 @@ class IndexPage extends Component{
               <h4 className="has-text-justified is-size-4 title" style={{margin:"auto"}}> Suivez-nous: </h4>
 
                 <div className="navbar" >
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i class="fab fa-facebook "></i> </a> 
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
                       <p className="navbar-item-trait"> / </p>                            
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" ><i class="fab fa-instagram"></i> </a>
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" ><i className="fab fa-instagram"></i> </a>
                       <p className="navbar-item-trait"> / </p>                            
-                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i class="fab fa-twitter"></i> </a>
+                      <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i className="fab fa-twitter"></i> </a>
                   </div>
               </nav>
           </section>
@@ -123,24 +123,25 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark( limit: 3
-      sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            urlphoto
-            templateKey
+    
+      allMarkdownRemark( limit: 3
+        sort: { order: DESC, fields: [frontmatter___date] },
+        filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      ) {
+        edges {
+          node {
+            excerpt(pruneLength: 400)
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              urlphoto
+              templateKey
+            }
           }
         }
       }
-    }
   }
 `

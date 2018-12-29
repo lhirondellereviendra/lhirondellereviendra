@@ -34,10 +34,9 @@ collections:
           label: "Home page"
           name: "home"
           fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-          - {label: Image, name: image, widget: string}
+          - {label: "A propos", name: about, widget: object, fields: [{label: Titre, name: titre, widget: string}, {label: Description, name: description, widget: text}, {label: "Image URL", name: image, widget: string}]}
+          - {label: "Image URL", name: image, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Categorie, name: categoriehome, widget: string}
-
 
      
