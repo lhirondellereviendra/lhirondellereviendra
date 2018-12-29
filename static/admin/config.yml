@@ -33,27 +33,6 @@ collections:
             - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Body", name: "body", widget: "markdown"}
-        - file: "src/pages/home/index.md"
-          label: "Home page"
-          name: "home"
-          fields:
-              - {label: "Image Accueil", name: image, widget: string}
-              - {label: Description, name: description, widget: string}
-              - {label: "A propos", name: about, widget: object, 
-                    fields: [
-                      {label: Titre, name: titre, widget: string}, 
-                      {label: Description, name: description, widget: text}, 
-                      {label: "Image URL", name: image, widget: string}
-                      ]
-                }
-              - {label: Categorie, name: categoriehome, widget: list, 
-                    fields: [
-                      {label: "Titre Categorie", name: titrecat, widget: string}, 
-                      {label: "Description" , name: descriptioncat, widget: string}, 
-                      {label: "Lien Categorie", name: liencat, widget: string}, 
-                      {label: "Nom bouton", name: nombouton, widget: string}, 
-                      {label: "Image URL", name: image, widget: string}
-                      ]
-                }
+
 
      
