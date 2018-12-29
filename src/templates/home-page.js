@@ -136,10 +136,10 @@ query HomePage ($id: String!) {
          }
          categoriehome{
              titrecat
-             descriptioncat
-             liencat
-             nombouton
              image
+             descriptioncat
+             nombouton
+             liencat
          }
        }
      }
