@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { HomePage } from '../../templates/home-page'
+import { HomePageTemplate } from '../../templates/home-page'
 
 const HomePreview = ({ entry, getAsset }) => {
 
@@ -8,7 +8,7 @@ const HomePreview = ({ entry, getAsset }) => {
   const Categorie = entryCategorie ? entryCategorie.toJS() : []
 
   return (
-    <HomePage
+    <HomePageTemplate
       image={entry.getIn(['data', 'image'])}
       description={entry.getIn(['data', 'description'])}
       about={{

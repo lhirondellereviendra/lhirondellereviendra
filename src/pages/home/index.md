@@ -1,6 +1,7 @@
 ---
 templateKey: 'home-page'
 path: /home
+title: L'hirondelle reviendra
 image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
 description: >-
         Si je dois décrire ce carnet de bord, je dirai qu’il représente pour moi, un merveilleux cachot dans lequel je viens me reposer de temps à autre pour faire de la lumière sur mes pensées et mettre encore plus de soleil dans mes émotions. Restez avec moi.
