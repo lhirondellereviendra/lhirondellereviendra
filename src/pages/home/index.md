@@ -1,10 +1,6 @@
 ---
-<<<<<<< HEAD
 templateKey: 'home-page'
 path: /
-=======
-templateKey: home-page
->>>>>>> 69f45279b7e0117850e0bf8ae427778e7c83fb26
 title: L'hirondelle reviendra
 image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
 description: >-
