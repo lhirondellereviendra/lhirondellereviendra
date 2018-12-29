@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Mon Afrique
 <<<<<<< HEAD
-urlphoto: '  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg'
+urlphoto:  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg
 =======
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg
