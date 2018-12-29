@@ -28,14 +28,14 @@ export const HomePageTemplate = ({
             <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
             {description}
             </p>
-            <h4 className="has-text-justified is-size-4 title"> Tu peux aussi me suivre sur: </h4>
+            <h4 className="has-text-justified is-size-4 title"> Suivez-moi: </h4>
             <nav className="navbar" >
                 <div className="navbar" >
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
                         <p className="navbar-item-trait"> / </p>                            
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" >INSTAGRAM </a>
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" ><i className="fab fa-instagram "></i> </a>
                         <p className="navbar-item-trait"> / </p>                            
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#">TWITTER </a>
+                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i className="fab fa-twitter "></i> </a>
                 </div>
             </nav>
         </section>
