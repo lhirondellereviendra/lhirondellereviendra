@@ -11,6 +11,7 @@ import Footer from '../components/Footer.js'
 //import Pricing from '../components/Pricing'
 //import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
+
 export const HomePageTemplate = ({
   image,
   about,
