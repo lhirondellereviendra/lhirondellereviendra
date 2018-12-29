@@ -1,6 +1,5 @@
 ---
-templateKey: 'home-page'
-path: /
+templateKey: home-page
 title: L'hirondelle reviendra
 image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
 description: >-
@@ -19,13 +18,13 @@ categoriehome:
     image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
     liencat: 'http://localhost:8000/tags/voyage/'
     nombouton: Voir plus de voyage
-    titrecat: 'Elisabeth '
+    titrecat: 'Test 1 '
   - descriptioncat: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
     image: ../static/header-968b292b3f9573bfcf0ce64e741ab282.jpeg
     liencat: 'http://localhost:8000/tags/voyage/'
     nombouton: Voir plus de voyage
-    titrecat: Philipp Trommler
+    titrecat: Test 2
 ---
 
