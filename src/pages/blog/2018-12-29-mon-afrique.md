@@ -1,7 +1,12 @@
 ---
 templateKey: blog-post
 title: Mon Afrique
+<<<<<<< HEAD
 urlphoto: '  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg'
+=======
+urlphoto: >-
+  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg
+>>>>>>> 07f75cbf9cbe22b283755a3e044a30c57c2cfd0c
 date: 2018-12-29T18:33:49.670Z
 description: >-
   À Paris, un jeune indien m’a demandé ceci: croyez-vous qu’un homme enragé
