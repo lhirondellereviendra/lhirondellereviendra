@@ -33,7 +33,7 @@ collections:
             - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Body", name: "body", widget: "markdown"}
-        - file: "src/pages/home/index.md"
+        - file: "src/pages/index.md"
           label: "Home page"
           name: "home"
           fields:
