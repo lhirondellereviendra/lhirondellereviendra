@@ -11,7 +11,7 @@ description: >-
 tags:
   - voyage
 ---
-![](/img/7583907600_img_1288-1.jpg)
+![null](/img/7583907600_img_1288-1.jpg)
 
 Pour lui parler de ma rage à moi, je lui ai conté une histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées de l’Afrique http://cultures-maliennes.over-blog.com.
 
@@ -31,9 +31,7 @@ Plus accablant, est le fait que tous ensemble, nous osons chanter : l’Afrique 
 
 ![null](/img/2cd80158-ecb2-4d5f-b267-9bd57e66dbdb.jpg)
 
-Aujourd'hui les plus braves sont prêts à troquer leur liberté contre une sécurité incertaine . Ils ont naïvement épousé la conception trompeuse d
-
-e l’aventure.
+Aujourd'hui les plus braves sont prêts à troquer leur liberté contre une sécurité incertaine . Ils ont naïvement épousé la conception trompeuse de l’aventure.
 
 Je tenais tout de même à dire que dans leurs yeux, j’ai vu trop de déceptions; dans nos cœurs, le besoin de franchir le pas et alors ma tête pense travail et développement du continent. La nouvelle devise d’une entreprise commune; celle au sein de laquelle chacun devra occuper une fonction et bosser avec RIGUEUR.
 
