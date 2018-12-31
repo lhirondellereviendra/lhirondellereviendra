@@ -3,7 +3,7 @@ templateKey: home-page
 title: L'hirondelle reviendra
 image: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/header.jpeg
-description: ' J’ai fait construire ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, l’éducation les fera naître de nouveau(...)'
+description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, l’éducation les fera naître de nouveau(...)'
 about:
   image: >-
     https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
@@ -26,5 +26,30 @@ categoriehome:
     liencat: 'https://lhirondellereviendra/tags/voyage/'
     nombouton: Voir plus d'articles
     titrecat: Test 2
+  - descriptioncat: >-
+      "Deux valises; l'une contenant ma garde robe, les nécessités matérielles,
+      l'autre mes manuscrits et la réserve pour le travail et l'esprit" ainsi
+      soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
+      de la vie? chaque jour je me familiarise avec cette curiosité qui me
+      pousse à sortir de l'ordinaire.
+    nombouton: Mes Voyages
+    titrecat: MES VOYAGES
+  - nombouton: Mes conseils aux voyageurs
+    titrecat: MES CONSEILS POUR VOYAGER
+  - descriptioncat: >-
+      Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
+      Il s'agit d'une ballade à l'intérieur de soi et au cours de laquelle l'on
+      se donne la capacité de regarder briller toutes les étoiles de sa vie, du
+      passé au présent en espérant d'avantage pour le futur. Savoir visiter des
+      histoires socialement importantes, des personnes qui inspirent tant. Je
+      cite bonheur et joie, retard ou longueur d'avance,cicatrices et tâches
+      indélébiles. Je voudrais dire si vous aimez les changements et que vous
+      décidez de voir d'autres couleurs de la vie, d'ailleurs elle vous suggère
+      de ne pas prendre partie. Puisqu'il n'existe pas de vérité absolue
+      affirmait VIKTOR Vincent, allez donc trouvez la vôtre, celle qure vou
+      méritez  puis vivez la en voyageant telle une hirondelle, avec agilité et
+      amabilité. Vive la liberté intelligente!
+    nombouton: Réflexions
+    titrecat: REFLEXIONS
 ---
 
