@@ -3,11 +3,7 @@ templateKey: home-page
 title: L'hirondelle reviendra
 image: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/header.jpeg
-description: >-
-  Si je dois décrire ce carnet de bord, je dirai qu’il représente pour moi, un
-  merveilleux cachot dans lequel je viens me reposer de temps à autre pour faire
-  de la lumière sur mes pensées et mettre encore plus de soleil dans mes
-  émotions. Restez avec moi.
+description: ' encore plus de soleil dans mes émotiJ’ai fait construire ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, l’éducation les fera naître de nouveau(...)'
 about:
   image: >-
     https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
