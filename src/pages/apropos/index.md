@@ -2,22 +2,34 @@
 templateKey: about-page
 title: A propos du blog
 ---
-### Shade-grown coffee
+### L’HIRONDELLE REVIENDRA 
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Petite, savante, elle incarne la pureté et se déplace de-ci, de-là, apportant de bonnes nouvelles.
 
-### Single origin
+### Il explore l’univers, le célèbre oiseau migrateur dont l’histoire raconte la mienne.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### 
 
-### Sustainable farming
+### L’hirondelle repartira avec son discours printanier pour faire la lumière sur un pan occulté de l’histoire de nos vies.
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Elles récitera ses merveilleux jours passés en Afrique, interprètera à la manière d’un griot le son de la Kora qui la berçait durant son séjour au Mali.
 
-### Direct sourcing
+### De même gazouillera t- elle de bonheur, criera la douceur du climat Éthiopien, elle n’oubliera pas son détour au Bénin; le sourire, la vie. 
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### 
 
-### Reinvest profits
+### Il explore l’univers, le célèbre oiseau migrateur dont l’histoire raconte mieux la mienne.
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+### L’hirondelle reviendra à l’automne pour décrire l’immensité de l’Europe, l’une de ses sorties culturelles en chine, ses moments de détentes en Amérique, elle parlera de la lueur des grandes villes, de la tyrannie technologique à laquelle le monde est soumis, les pressions ainsi que tout le bling bling (...) 
+
+## **_L’hirondelle reviendra le blog de voyage qui vous pousse à vivre vos rêves sans attendre._**
+
+\#voyages#bénin#culture#confort#unhôtelunesprit
+
+
+
+### 
+
+###
