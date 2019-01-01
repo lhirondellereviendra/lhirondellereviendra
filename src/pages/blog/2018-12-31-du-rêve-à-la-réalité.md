@@ -4,10 +4,7 @@ title: 'Du RÊVE À LA RÉALITÉ '
 urlphoto: >-
   https://drive.google.com/file/d/1waDFkoL7a-0phRVFVmlWwy-W8g9vDxUD/view?usp=drivesdk
 date: 2018-12-31T19:22:57.524Z
-description: >-
-  Tous, dans nos pensées, l'avenir apparaît radieux et si devant cet écran l'on
-  s'émerveille alors de l'assurance d'être productifs, nous devrions faire un
-  credo. 
+description: L’effort accompagne le rêve pour une vie plus utile.
 tags:
   - Afrique bénin Jeunesse avenir travail richesse l’hr
 ---
