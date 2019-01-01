@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'HE N’AI PAS CHANGÉ, JE ME SUIS ADAPTÉE'
+title: 'JE N’AI PAS CHANGÉ, JE ME SUIS ADAPTÉE'
 urlphoto: >-
   https://drive.google.com/file/d/1Jg5lV1Ex7ld1QmAOQHs33P4yeBzJj8D5/view?usp=drivesdk
 date: 2019-01-01T09:11:36.211Z
