@@ -4,7 +4,10 @@ title: 'JE N’AI PAS CHANGÉ, JE ME SUIS ADAPTÉE'
 urlphoto: >-
   https://drive.google.com/file/d/1Jg5lV1Ex7ld1QmAOQHs33P4yeBzJj8D5/view?usp=drivesdk
 date: 2019-01-01T09:11:36.211Z
-description: "Récemment j'ai effectué un trajet paris- montpellier en TGV. J'étais très enthousiaste de pouvoir retourner dans le sud; ces quelques jours à Paris m'ont semblé une éternité; le ciel grisâtre du mois de février, le retour de la neige après tant d'années, la chasse aux métros; pire les nombreux retards dus aux travaux d'innovation entrepris dernièrement...j'étais mal tombée cette fois. Ouf!!!\P"
+description: >-
+  À quand mangera t-on dans la même assiette ? Riera t-on bientôt aux éclats ?
+  J’ai peur de ne plus y arriver, à force de trop presser les pas. Ce soir, j’ai
+  juste envie de dire:<papa ta fille n’a pas changé,elle s’est adaptée>.
 tags:
   - Réflexions
 ---
