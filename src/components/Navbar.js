@@ -22,7 +22,7 @@ const Navbar = () => (
 
           <div className="navbar-brand sociaux-barre">
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
-                            <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/bijoulisa_/" ><i className="fab fa-instagram "></i> </a>
+                            <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/elisabeth_aht/" ><i className="fab fa-instagram "></i> </a>
 
           </div>
           
