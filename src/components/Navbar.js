@@ -15,7 +15,7 @@ const Navbar = () => (
 
           <div className="navbar-brand" id="navMenu">
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">Facebook </a> 
-                            <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/bijoulisa_/" >Instagram </a>
+                            <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/elisabeth_aht/">Instagram </a>
 
           </div>
           <div className="navbar-end">
