@@ -16,9 +16,15 @@ categoriehome:
       soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
       de la vie? chaque jour je me familiarise avec cette curiosité qui me
       pousse à sortir de l'ordinaire.
+    image: >-
+      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+    liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
     titrecat: MES VOYAGES
-  - nombouton: Mes conseils aux voyageurs
+  - image: >-
+      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+    liencat: 'https://lhirondellereviendra.com/tags/voyageurs'
+    nombouton: Mes conseils aux voyageurs
     titrecat: MES CONSEILS POUR VOYAGER
   - descriptioncat: >-
       Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
@@ -33,6 +39,9 @@ categoriehome:
       affirmait VIKTOR Vincent, allez donc trouvez la vôtre, celle que vous
       méritez  puis vivez la en voyageant, telle une hirondelle, avec agilité et
       amabilité. Vive la liberté intelligente!
+    image: >-
+      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+    liencat: 'https://lhirondellereviendra.com/tags/reflexions'
     nombouton: Réflexions
     titrecat: REFLEXIONS
 ---
