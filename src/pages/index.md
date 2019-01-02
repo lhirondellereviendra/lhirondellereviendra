@@ -11,22 +11,6 @@ about:
   titre: QUI SUIS-JE?
 categoriehome:
   - descriptioncat: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
-    liencat: 'https://lhirondellereviendra/tags/voyage/'
-    nombouton: Voir plus de voyage
-    titrecat: 'Test 1 '
-  - descriptioncat: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
-    liencat: 'https://lhirondellereviendra/tags/voyage/'
-    nombouton: Voir plus d'articles
-    titrecat: Test 2
-  - descriptioncat: >-
       "Deux valises; l'une contenant ma garde robe, les nécessités matérielles,
       l'autre mes manuscrits et la réserve pour le travail et l'esprit" ainsi
       soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
