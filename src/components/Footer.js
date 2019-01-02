@@ -16,7 +16,7 @@ const Footer = () => (
                         <div className="navbar" >
                                 <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
                                 <p className="navbar-item-trait"> / </p>                            
-                                <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/bijoulisa_/" >INSTAGRAM </a>
+                                <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/elisabeth_aht/" >INSTAGRAM </a>
                                 <p className="navbar-item-trait"> / </p>                            
                                 <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#">TWITTER </a>
                         </div>  
