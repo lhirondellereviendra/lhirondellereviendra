@@ -12,7 +12,6 @@ const Navbar = () => (
                     <div className="navbar-brand">
                               <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/elisabeth_aht/" ><i className="fab fa-instagram "></i> </a>
-
                      </div>
         </div>
 </nav>
@@ -29,7 +28,6 @@ const Navbar = () => (
           
           <div className="navbar-menu is-active" id="navMenu">
                 <div className="navbar-end"> 
-
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/apropos">Me connaitre </a> 
                             <p className="navbar-item-trait"> | </p>                            
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/blog" >Mon Blog </a>
