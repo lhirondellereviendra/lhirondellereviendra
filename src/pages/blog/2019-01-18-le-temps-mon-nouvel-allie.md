@@ -5,7 +5,7 @@ urlphoto: 'blob:https://lhirondellereviendra.com/4a6ed462-13f8-4402-a6b5-9275794
 date: 2019-01-18T19:59:30.773Z
 description: ' Malheureusement et sans savoir, j''ai mis mon mental en veille. Me voilà aujourd''hui, j''ai vieilli plus tôt. Oh bel ami, qu''as-tu fait de moi? Laisse moi te rattraper, t''utiliser sans relâche pour me reconstruire. Dorénavant, je dois être de mon temps donc tout n''est pas perdu car que tu le veuilles ou non, je veux faire de toi un allié.'
 tags:
-  - Réflexion
+  - Réflexions
 ---
 ![](/img/50049618_289974065035209_1548135779480371200_n.jpg)
 
