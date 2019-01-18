@@ -9,7 +9,7 @@ tags:
 ---
 ![null](/img/50049618_289974065035209_1548135779480371200_n.jpg)
 
-![](/img/50049618_289974065035209_1548135779480371200_n.jpg)
+![]()
 
 Ce monde va de plus en plus vite et on se demande comment garder le rythme avec de telles évolutions. Éblouie par les avancées technologiques, la croyance dans le progrès, la robotisation, les derniers défis relevés dans le domaine médical etc; je me rend compte d'une chose: "tout est possible avec le temps ". Je prends du recul, une question me hante : du temps, en avons-nous suffisamment? Sinon pourquoi n'arrivons nous pas à bien gérer le peu qui nous est gracieusement accordé ?
 
