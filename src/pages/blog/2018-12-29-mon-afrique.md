@@ -9,7 +9,7 @@ description: >-
   puisse soulever une baleine bleue? Silence radio. Quand vous connaissez le
   poids de cet animal, vous ne partagez pas forcément cet optimisme.
 tags:
-  - voyage
+  - Réflexions
 ---
 ![null](/img/7583907600_img_1288-1.jpg)
 
