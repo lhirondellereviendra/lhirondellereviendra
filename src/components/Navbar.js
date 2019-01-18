@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">Facebook </a> 
                             <a className="navbar-item is-size-5 " aria-hidden="true" target="_blank" href="https://www.instagram.com/elisabeth_aht/">Instagram </a>
           </div>
-          <div className="navbar-end">
+          <div className="navbar-end" id="navMenu">
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/about">Me connaitre </a> 
                             <p className="navbar-item-trait"> | </p>                            
                             <a className="navbar-item is-size-5 " aria-hidden="true" href="https://lhirondellereviendra.com/blog" >Mon Blog </a>
