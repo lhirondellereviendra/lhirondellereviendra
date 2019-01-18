@@ -5,7 +5,7 @@ urlphoto: 'blob:https://lhirondellereviendra.com/35844f96-934c-4482-86d0-57c2c08
 date: 2019-01-01T08:57:21.467Z
 description: ' Puisqu''on ferait tout pour retrouver une Afrique nouvelle et victorieuse, puisque je donnerais tant pour vivre ce soleil afro futuriste; Vous l’auriez vu, très pur, sans poids ni peine; dans mon rêve, il est meilleur que celui du Wakanda.'
 tags:
-  - réflexion
+  - Réflexions
 ---
 ![null](/img/50404241_220700202203563_7183997032137228288_n.jpg)
 
