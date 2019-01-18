@@ -1,13 +1,14 @@
 ---
 templateKey: blog-post
 title: 'Du RÊVE À LA RÉALITÉ '
-urlphoto: >-
-  https://drive.google.com/file/d/1waDFkoL7a-0phRVFVmlWwy-W8g9vDxUD/view?usp=sharing
+urlphoto: 'blob:https://lhirondellereviendra.com/739c5293-0653-4d6f-98b6-013d74d100cf'
 date: 2018-12-31T19:22:57.524Z
 description: "«\_Quand je serai grand, je serai millionnaire «\n\_Voilà une des plus célèbres phrases de la planète. Petit à petit ces six premiers mots prennent place dans nos têtes. Ils forment un son d'honneur qui résonne dans les coins de nos cœurs.Mes mots, parfois je les étale partout pour ne pas qu'ils s'abîment; pour ne pas qu'ils me quittent. Aussi, je les croise souvent comme dans un jeu pour en faire des chants qui au besoin m'entraînent loin le jour et la nuit, me bercent.Si je dis milliardaire, ce serait pour achever l'œuvre du padre\" et si je dis heureuse je réaliserais un des plus grands souhaits de la mama\". Les deux peuvent aller de paire sauf que pour l'instant, je reste concentrée sur la signification de ce \"grand\" en temps et en opportunités."
 tags:
   - Afrique
 ---
+![](/img/50279641_811841379170265_7138089385135702016_n.jpg)
+
 < Quand je serai grand, je serai millionnaire >
 
 Voilà une des plus célèbres phrases de la planète. Petit à petit ces six premiers mots prennent place dans nos têtes. Ils forment un son d'honneur qui résonne dans les coins de nos cœurs.
