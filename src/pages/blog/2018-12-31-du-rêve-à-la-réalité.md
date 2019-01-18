@@ -13,7 +13,7 @@ tags:
 ---
 ![null](/img/50279641_811841379170265_7138089385135702016_n.jpg)
 
-< Quand je serai grand, je serai millionnaire >
+_**< Quand je serai grand, je serai millionnaire >**_
 
 Voilà une des plus célèbres phrases de la planète. Petit à petit ces six premiers mots prennent place dans nos têtes. Ils forment un son d'honneur qui résonne dans les coins de nos cœurs.
 
@@ -25,7 +25,7 @@ Si je dis milliardaire, ce serait pour achever l'œuvre du padre" et si je dis h
 
 Je choisis d' avancer avec le premier; je m'y accroche pour trouver la force nécessaire le jour du désarroi. Plus mes ambitions se dessinent et vite mes intentions prennent voix. C'est un levier d'une puissance redoutable, c'est la clé de voûte de mes plus grandes réussites.
 
-![](/img/50015958_839415146390480_670990250889183232_n.png)
+![null](/img/50160294_438208796716506_8071088489510207488_n.jpg)
 
 Quand dans cet incendie, tout a été ravagé, dans mon moi, il était le seul survivant; il m'a prise par la main et guidée jusqu'ici, sans lui je ne me serais pas relevée; sauf qu'une fois debout, tout n'était pas accompli, je devais m'assurer de bien tenir pour ne pas retomber.
 
@@ -37,15 +37,17 @@ Tous, dans nos pensées, l'avenir apparaît radieux et si devant cet écran l'on
 
 Je voudrais m'amuser à croiser les deux pour en faire un nouveau jeu...
 
-Concilier volonté et possibilité
+# **Concilier volonté et possibilité**
 
 Le bijoutier rêve de vendre le plus bel anneau du siècle et pour cela il devra sérieusement travailler le lingot d'or autrement personne ne s'arrêtera devant la vitrine.
 
 Le boulanger ne fait pas l'exception; il est condamné à se lever tôt car dans son cauchemar, partout il voit du pain sur la planche.
 
-![](/img/50618237_2225672307689015_2191171582888509440_n.jpg)
+![null](/img/50618237_2225672307689015_2191171582888509440_n.jpg)
 
 Et toi, un jour tu rêves de réaliser ton plus grand rêve... tu te vois entrain de conquérir le monde mais étant ce qu'il est, le lendemain, des obstacles se dressent. De nouveaux chapitres apparaissent et ne les maîtrisant pas tous, tu paniques. Plus sûr de vouloir toutes ces belles choses et donc tu doutes de tes capacités. Paresse et démotivation se rencontrent pour se mêler au désespoir. Tu perds toute confiance en toi. Le surlendemain, tu te réveilles avec une nouvelle résolution : il vaut mieux oublier toutes ces idées impossibles, de toute façon elles sont trop grandes et toi trop petit. En plus tu as encore du temps, ( voir mon article qui traite du temps)le-temps-mon-nouvel-allie/ d'ailleurs ça commence par te soûler! tout ce que tu essaies échoue, c'est sûre tu as la poisse*. Vite, tu passes un coup d'aspirateur, anciens et nouveaux projets dans le placard plus d'audace et voilà la peur s'installe.
+
+![](/img/49647043_493311174409135_8559727786359521280_n.jpg)
 
 La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit- on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes. Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.
 
@@ -53,7 +55,7 @@ Moi je vais bientôt passer à l'action. Toi qui lis ceci, à quelle étape pens
 
 Je veux dire ne somnole pas; debout! n'attends pas; combats. Combats! avant que la vie t'interroge. Qu'as tu fait de ton talent ? L'as-tu fructifié ? Quelle réponse donneras tu? Flaubert disait à Maupassan: le talent n'est qu'une longue patience, Travaillez!
 
-![](/img/50571616_791810597847659_530389729040924672_n.jpg)
+![null](/img/50571616_791810597847659_530389729040924672_n.jpg)
 
 Pour moi, le talent se trouve dans le rêve, il faut juste s'acharner à lui donner corps.
 
