@@ -8,7 +8,7 @@ description: >-
   reviennes du marché le soir, comme avant, comme quand J’avais dix ans;
   espérant qu’à nouveau tu me dises un de tes inspirants récits.
 tags:
-  - Réflexions
+  - Vie
 ---
 ![null](/img/50076711_564559340682710_17054572103073792_n.png)
 
