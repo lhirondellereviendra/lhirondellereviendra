@@ -3,34 +3,31 @@ templateKey: home-page
 title: L'hirondelle reviendra
 image: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/header.jpeg
-description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, l’éducation les fera naître de nouveau(...)'
+description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie,seule  l’éducation les fera naître de nouveau(...)'
 about:
   image: ''
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
 
-    Néanmoins, tu trouveras peintes sur ces murs, quelques figures fidèles et
+    Néanmoins, vous trouverez peintes sur ces murs, quelques figures fidèles et
     intactes qui elles, demeurent.
 
     Dans mon portefeuille, je range l'image d’une Afrique nouvelle et émergée;
-    mes rêves sont ce que j’ai de plus précieux;je les garde sous les yeux pour
+    mes rêves sont ce que j’ai de plus précieux, je les garde sous les yeux pour
     ne pas oublier de prier. 
 
     Je m'inspire de cette alliance qui passe de mères en filles et dont la
-    valeur sentimentale surpasse le vrai prix du marché.Bel inconnu, qu'as-tu de
-    spécial à me vendre?
-
-    Je suis comme l'arme d'un ancien guerrier; si précieuse en dépit de sa
-    culpabilité. 
+    valeur sentimentale surpasse le vrai prix du marché: bel inconnu, qu'as-tu
+    de spécial à me vendre? j'ai l'avantage de pouvoir voir au delà de
+    l'apparence.
 
     En réalité je suis semblable à une pierre quelconque achetée aux enchères,
     un fragment de verre médiéval ou une armure dont on compte l’histoire
     uniquement aux invités de marque.
 
-    je m'appelle Elisabeth, je suis juriste et exploratrice; je ne sais du jour
-    au lendemain, ni plaire, ni paraître car authentique, authentique, je suis
-    immense.
+    je m'appelle Elisabeth, je ne sais du jour au lendemain, ni plaire, ni
+    paraître car authentique, authentique, je suis immense.
 
 
 
