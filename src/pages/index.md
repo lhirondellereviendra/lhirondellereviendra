@@ -5,9 +5,36 @@ image: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/header.jpeg
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, l’éducation les fera naître de nouveau(...)'
 about:
-  image: >-
-    https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
-  description: "Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le temps.\nNéanmoins, vous trouverez peintes sur ces murs, quelques figures fidèles  qui elles restent intactes. Dans mon portefeuille, j’ai placé au premier rang la photo d’une Afrique nouvelle et émergée: mes rêves sont ce que j’ai de plus précieux; je les garde sous les yeux pour ne pas oublier de prier. \n\nJe m’inspire de cette alliance qui passe de mères en filles et dont la valeur sentimentale surpasse le vrai prix sur le marché:  le coût des choses comptant pour peu, je ne m’intéresse qu’à leur utilité.\n\nMes charmes coulent le long de l’arme d’un glorieux guerrier, si précieuse malgré sa culpabilité : j’ai l’avantage de savoir où je vais donc lorsque que je trébuche, je me relève aussitôt pour continuer à écrire ces mots qui me servent et me rapprochent de vous. \nComme la musique, ils m’apaisent et soignent mon âme.\nJe suis juriste, altruiste et exploratrice.\n Ici je raconte  de petites histoires éclairées par celle des d'autres l’émotion je veux dire, la meilleure drogue de tous les temps, celle qui donne un vrai sens à la condition humaine.\n\nJe m’appelle Elisabeth,  je suis semblable à une pierre quelconque achetée aux enchères, un fragment de verre médiéval ou une armure dont on compte l’histoire uniquement aux invités de marque. \nEn effet, je ne sais du jour au lendemain, ni plaire, ni paraître car authentique, authentique, je suis immense.\n\_"
+  image: ''
+  description: >-
+    Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
+    temps.
+
+    Néanmoins, tu trouveras peintes sur ces murs, quelques figures fidèles et
+    intactes qui elles, demeurent.
+
+    Dans mon portefeuille, je range l'image d’une Afrique nouvelle et émergée;
+    mes rêves sont ce que j’ai de plus précieux;je les garde sous les yeux pour
+    ne pas oublier de prier. 
+
+    Je m'inspire de cette alliance qui passe de mères en filles et dont la
+    valeur sentimentale surpasse le vrai prix du marché.Bel inconnu, qu'as-tu de
+    spécial à me vendre?
+
+    Je suis comme l'arme d'un ancien guerrier; si précieuse en dépit de sa
+    culpabilité. 
+
+    En réalité je suis semblable à une pierre quelconque achetée aux enchères,
+    un fragment de verre médiéval ou une armure dont on compte l’histoire
+    uniquement aux invités de marque.
+
+    je m'appelle Elisabeth, je suis juriste et exploratrice; je ne sais du jour
+    au lendemain, ni plaire, ni paraître car authentique, authentique, je suis
+    immense.
+
+
+
+     
   titre: QUI SUIS-JE?
 categoriehome:
   - descriptioncat: >-
