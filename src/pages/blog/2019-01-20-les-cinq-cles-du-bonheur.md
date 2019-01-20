@@ -13,7 +13,7 @@ description: >
 tags:
   - Réflexions
 ---
-![](/img/50524893_248304939416806_7717013060665212928_n-1-.png)
+![null](/img/50524893_248304939416806_7717013060665212928_n-1-.png)
 
 clé du bonheur en cinq étapes 
 
@@ -37,11 +37,9 @@ Je sais le trouver dans le goût de l’eau qui étanche ma soif. Parfois je l�
 
 dans la mélancolie des soirs d’hiver...
 
-![](/img/50510684_2235818899775785_4223367008604913664_n.png)
+![null](/img/50510684_2235818899775785_4223367008604913664_n.png)
 
 Et même désemparé, avant que tout chavire, souviens-toi que la vie, elle, n’a pas cessé de scintiller. Il faut se donner la capacité d’être heureux en regardant tout, profondément, jusqu'au bout avec amour et reconnaissance.
-
-
 
 LA RECONNAISSANCE 
 
@@ -53,9 +51,7 @@ Telle la gloire succède à l’humilité, la gratitude précède l’accompliss
 
 A quoi bon regretter son enfance quand on a peur déjà de la vieillesse? C’est en conciliant le tout, que nous profitons mieux de la jeunesse.
 
-
-
-![](/img/50070703_277340586278463_2082589612735201280_n.png)
+![](/img/50580413_295371214466980_749434418346590208_n.png)
 
 LA RÉ-CONCILIATION 
 
@@ -69,11 +65,7 @@ Paul Kagame passait un message similaire récemment; en 2000 il lance un program
 
 Surtout ils ont laissé pour preuve que cela rend libre; c’est une très belle arme, en faite c’est le moyen de guerre des âmes fortes et confiantes.
 
-
-
-
-
-![](/img/50580413_295371214466980_749434418346590208_n.png)
+![](/img/50396403_1121909014634729_8413154339392061440_n.png)
 
 En vrai, LA CONFIANCE EN SOI devrait-on encore en parler? 
 
@@ -83,11 +75,7 @@ là tu gagnes de la confiance. Le sens de responsabilité, tu t’affranchis du 
 
 Tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres. Prévoyez vos moments de bonheur.
 
-
-
-
-
-![](/img/50294480_602422697251682_1274904154975764480_n.png)
+![null](/img/50294480_602422697251682_1274904154975764480_n.png)
 
 LA PRÉVOYANCE 
 
@@ -97,11 +85,7 @@ Il faut être dans la posture d’un guerrier.
 
 Ça implique la loi de l’économie, le partage et Plus sincèrement, le bonheur est le résultat d’une action juste; c’est un fruit qu’il faut cultiver pour essayer d’être en paix à tous les niveaux et cette paix est plus facile à appréhender quand on s’en soucie moins.
 
-
-
-
-
-![](/img/50314645_334341304081030_184524752952492032_n.png)
+![null](/img/50314645_334341304081030_184524752952492032_n.png)
 
 L’INSOUCIANCE Et LE CONTENTEMENT 
 
@@ -116,6 +100,8 @@ Je ne fais pas appel à l’inconscience mais plutôt à ce grain de folie qui v
 Il serait tout bénéfique de comprendre que le bonheur finalement c’est peut être un mal qui nous est bon et là encore je parle guère du manque d’ambition. Il faut savoir hocher la tête parfois, en signe d’acquiescement: accepter une situation.
 
 Si tu es croyant je vais dire abandonne-toi à ou sinon je dirai détache toi des choses à des moments donnés et connecte toi à toi même; la seule personne que tu peux finalement décider de contrôler.
+
+![](/img/50708383_519644951777050_1301798827866456064_n.png)
 
 Dis toi, je veux être heureux maintenant car le bonheur se trouve au dedans.
 
