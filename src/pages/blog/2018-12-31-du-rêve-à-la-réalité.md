@@ -25,7 +25,9 @@ Si je dis milliardaire, ce serait pour achever l'œuvre du padre" et si je dis h
 
 Je choisis d' avancer avec le premier; je m'y accroche pour trouver la force nécessaire le jour du désarroi. Plus mes ambitions se dessinent et vite mes intentions prennent voix. C'est un levier d'une puissance redoutable, c'est la clé de voûte de mes plus grandes réussites.
 
-![](/img/50133399_1993203920988017_1022753106133254144_n.png)
+![]()
+
+![](/img/50268144_564162737385678_6412760840105099264_n.png)
 
 Quand dans cet incendie, tout a été ravagé, dans mon moi, il était le seul survivant; il m'a prise par la main et guidée jusqu'ici, sans lui je ne me serais pas relevée; sauf qu'une fois debout, tout n'était pas accompli, je devais m'assurer de bien tenir pour ne pas retomber.
 
@@ -47,7 +49,7 @@ Le boulanger ne fait pas l'exception; il est condamné à se lever tôt car dans
 
 Et toi, un jour tu rêves de réaliser ton plus grand rêve... tu te vois entrain de conquérir le monde mais étant ce qu'il est, le lendemain, des obstacles se dressent. De nouveaux chapitres apparaissent et ne les maîtrisant pas tous, tu paniques. Plus sûr de vouloir toutes ces belles choses et donc tu doutes de tes capacités. Paresse et démotivation se rencontrent pour se mêler au désespoir. Tu perds toute confiance en toi. Le surlendemain, tu te réveilles avec une nouvelle résolution : il vaut mieux oublier toutes ces idées impossibles, de toute façon elles sont trop grandes et toi trop petit. En plus tu as encore du temps, ( voir mon article qui traite du temps)le-temps-mon-nouvel-allie/ d'ailleurs ça commence par te soûler! tout ce que tu essaies échoue, c'est sûre tu as la poisse*. Vite, tu passes un coup d'aspirateur, anciens et nouveaux projets dans le placard plus d'audace et voilà la peur s'installe.
 
-![null](/img/49647043_493311174409135_8559727786359521280_n.jpg)
+![](/img/50133399_1993203920988017_1022753106133254144_n.png)
 
 La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit- on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes. Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.
 
