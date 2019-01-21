@@ -22,12 +22,16 @@ about:
     de spécial à me vendre? j'ai l'avantage de pouvoir voir au delà de
     l'apparence.
 
-    En réalité je suis semblable à une pierre quelconque achetée aux enchères,
-    un fragment de verre médiéval ou une armure dont on compte l’histoire
-    uniquement aux invités de marque.
+    Passionnément je suis juriste, exploratrice et altruiste.
 
-    je m'appelle Elisabeth, je ne sais du jour au lendemain, ni plaire, ni
-    paraître car authentique, authentique, je suis immense.
+    Je suis semblable à une pierre quelconque achetée aux enchères, un fragment
+    de verre médiéval ou une armure dont on compte l’histoire uniquement aux
+    invités de marque.
+
+    En effet je ne sais du jour au lendemain, ni plaire, ni paraître car
+    authentique, authentique, je suis immense. 
+
+    Je m’appelle Elisabeth et toi? 
 
 
 
