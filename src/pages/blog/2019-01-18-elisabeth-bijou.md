@@ -4,18 +4,16 @@ title: ELISABETH-BIJOU
 urlphoto: 'blob:https://lhirondellereviendra.com/8e23fd97-bb81-473b-8937-6f40ac793639'
 date: 2019-01-18T21:34:10.476Z
 description: >-
-  Mais Bijou est une coquille et Elisabeth le contenu. Heureusement que la
-  coquille ne sera jamais moulée sur le corps du mollusque mais se contentera
-  juste de représenter une partie essentielle. Pour ma part, les deux me vont si
-  bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
+  Bijou; Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent,
+  c'est celle que mon entourage a préféré et moi je me sens précieuse quand on
+  m'appelle comme cela.Mais j'aime aussi Elisabeth et surtout ses nombreux
+  diminutifs. 
 tags:
   - Réflexions
 ---
 ![null](/img/50512674_310707526244301_5610208916236402688_n.jpg)
 
-Bijou; Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent, c'est celle que mon entourage a préféré et moi je me sens précieuse quand on m'appelle comme cela.
-
-Mais j'aime aussi Elisabeth et surtout ses nombreux diminutifs. Naturellement, j'ai effectué des recherches qui ne m'ont pas déçue du tout. D'ailleurs Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
+Naturellement, j'ai effectué des recherches qui ne m'ont pas déçue du tout. D'ailleurs Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
  Pour ma part, les deux me vont si bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
 
