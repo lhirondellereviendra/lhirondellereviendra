@@ -5,18 +5,17 @@ urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg
 date: 2018-12-29T18:33:49.670Z
 description: >-
-  Je tenais tout de même à dire que dans leurs yeux, j’ai vu trop de déceptions;
-  dans nos cœurs, le besoin de franchir le pas et alors ma tête pense travail et
-  développement du continent. La nouvelle devise d’une entreprise commune; celle
-  au sein de laquelle chacun devra occuper une fonction et bosser avec RIGUEUR.
+  A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
+  puisse soulever une baleine bleue? silence radio. Quand vous connaissez le
+  poids de cet animal, vous ne partagez pas forcément cet avis.
 tags:
   - Réflexions
 ---
-![]()
+![null]()
 
-![](/img/50018938_522904558218487_6274765546634346496_n.png)
+![null](/img/50018938_522904558218487_6274765546634346496_n.png)
 
-A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé puisse soulever une baleine bleue? silence radio. Quand vous connaissez le poids de cet animal, vous ne partagez pas forcément cet avis.
+
 
 Pour lui parler de ma rage à moi, je lui ai conté une histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées africaines.
 
@@ -24,7 +23,7 @@ Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rag
 
 Mais à quoi sert-elle réellement? Si au final on enregistre malheureusement beaucoup plus de frustrations et de frayeurs que d’actions pertinentes. I am african, i am proud and so?
 
-![](/img/49212935_1178448485640993_1760580684600049664_n.png)
+![null](/img/49212935_1178448485640993_1760580684600049664_n.png)
 
 Quel plan pour l’Afrique ? quel est donc le devenir de l’Afrique?
 
@@ -36,7 +35,7 @@ Les gouvernants, eux, semblent tout à fait étrangers à l’idée de progrès.
 
 Plus accablant, est le fait que tous ensemble, nous osons chanter : l’Afrique est le continent d’avenir. Avenir, seriously! simple mot ou état d’esprit ? Je me demande comment l’assurerons- nous face à cette immigration effrayante qui certainement appauvrit le continent. 
 
-![](/img/50556918_358730331573706_5491334138562609152_n.jpg)
+![null](/img/50556918_358730331573706_5491334138562609152_n.jpg)
 
 Aujourd'hui les plus braves sont prêts à troquer leur liberté contre une sécurité incertaine . Ils ont naïvement épousé la conception trompeuse de l’aventure.
 
@@ -48,7 +47,7 @@ Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maiso
 
 Déjà un demi siècle; la jeunesse africaine est mise au défi. Chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun, l'éducation des femmes et un nouveau regard sur l’enfance pour une Afrique mieux aguerrie et unie.
 
-![](/img/50311049_325361278073614_8866716221723115520_n.png)
+![null](/img/50311049_325361278073614_8866716221723115520_n.png)
 
 Aussi, une obligation morale d’assistance mutuelle entre les âges et les usages s'impose. De façon concrète, cela revient à s’intéresser à l'autre, à ce qu’il fait, complimenter et encourager; la solidarité je veux dire, pour palier au problème de confiance qui amène les jeunes à avoir le regard imprudemment tourné vers l'extérieur.
 
