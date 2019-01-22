@@ -16,6 +16,8 @@ description: >-
 tags:
   - Réflexions
 ---
+![](/img/50524893_248304939416806_7717013060665212928_n-1-.png)
+
 Et dire que souvent nous cherchons très loin ce qui se trouve à proximité.Le bonheur a t-il de saison ?Il pourrait se résumer à l’attention que nous portons aux choses qui nous entourent. 
 
 Je sais le trouver dans le goût de l’eau qui étanche ma soif. Parfois je l’appréhende si fortement à travers le souvenir du son de la cloche dans mon village natal, Le bonheur dans une image et je vais loin, le cherchant dans notre manière de trinquer,
@@ -50,7 +52,7 @@ Nelson Mandela, même dans des conditions hyper difficiles, a prôné la réconc
 
 # En vrai, LA CONFIANCE EN SOI devrait-on encore en parler?
 
-Lorsque tu comprends que personne ne fera rien à ta place et que seul le travail acharné, le même qui  sépare le rêve de la réalité pourra te libérer; là tu gagnes de la confiance.** **[**https://lhirondellereviendra.com/blog/2018-12-31-du-r%C3%AAve-%C3%A0-la-r%C3%A9alit%C3%A9/**](https://lhirondellereviendra.com/blog/2018-12-31-du-r%C3%AAve-%C3%A0-la-r%C3%A9alit%C3%A9/)**Le bonheur c'est aussi une responsabilité de s'affranchir d'exploiter tout son pouvoir pour prévenir les jours difficiles.** Il faut dire que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
+Lorsque tu comprends que personne ne fera rien à ta place et que seul le travail acharné, le même qui  sépare le rêve de la réalité pourra te libérer et te faire gagner de la confiance. Le bonheur c'est aussi une responsabilité de s'affranchir d'exploiter tout son pouvoir pour prévenir les jours difficiles. Il faut dire que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
 
  Prévoyez vos moments de bonheur!
 
