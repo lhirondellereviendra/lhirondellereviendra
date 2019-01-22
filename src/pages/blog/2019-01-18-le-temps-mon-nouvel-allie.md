@@ -3,13 +3,18 @@ templateKey: blog-post
 title: 'LE TEMPS, MON NOUVEL ALLIE'
 urlphoto: 'blob:https://lhirondellereviendra.com/e290d53a-74f5-468d-966f-ca3f2d4bf525'
 date: 2019-01-18T19:59:30.773Z
-description: ' Malheureusement et sans savoir, j''ai mis mon mental en veille. Me voilà aujourd''hui, j''ai vieilli plus tôt. Oh bel ami, qu''as-tu fait de moi? Laisse moi te rattraper, t''utiliser sans relâche pour me reconstruire. Dorénavant, je dois être de mon temps donc tout n''est pas perdu car que tu le veuilles ou non, je veux faire de toi un allié.'
+description: >-
+  Ce monde va de plus en plus vite et on se demande comment garder le rythme
+  avec de telles évolutions. Éblouie par les avancées technologiques, la
+  croyance dans le progrès, la robotisation, les derniers défis relevés dans le
+  domaine médical etc; je me rend compte d'une chose: "tout est possible avec le
+  temps ". 
 tags:
   - Réflexions
 ---
-![](/img/50407748_330082657602658_755304848366239744_n.png)
+![null](/img/50407748_330082657602658_755304848366239744_n.png)
 
-Ce monde va de plus en plus vite et on se demande comment garder le rythme avec de telles évolutions. Éblouie par les avancées technologiques, la croyance dans le progrès, la robotisation, les derniers défis relevés dans le domaine médical etc; je me rend compte d'une chose: "tout est possible avec le temps ". Je prends du recul, une question me hante : du temps, en avons-nous suffisamment? Sinon pourquoi n'arrivons nous pas à bien gérer le peu qui nous est gracieusement accordé ?
+Je prends du recul, une question me hante : du temps, en avons-nous suffisamment? Sinon pourquoi n'arrivons nous pas à bien gérer le peu qui nous est gracieusement accordé ?
 
 Le temps se décrit comme une durée plus ou moins définie dont quelqu'un dispose. Très tôt, Lénine écrivait <<le temps n'attend pas.>> Sais tu pourquoi le temps ne s'arrête jamais? Peut-être que non. Mais tu sais sûrement pourquoi tu attends le temps! J'ai lu quelque part que le temps n'attend pas parce qu'il doit s'envoler, olala !
 
@@ -33,7 +38,7 @@ Je n'avais du temps pour rien ni pour personne, même pas pour moi, sur mes acqu
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
-![](/img/50521805_2184533328531763_97414780305801216_n.png)
+![null](/img/50521805_2184533328531763_97414780305801216_n.png)
 
 Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte pour moi, je n'attendrai plus le meilleur moment de peur qu'il me file entre les doigts. Ainsi je crée les occasions, saisis les opportunités, elles sont toutes bonnes en fin de compte, il suffit que j'aille à mon rythme. Je décide de m'entourer de personnes déterminées, celles qui sont toujours prêtes à essayer, je veux faire ce que j'aime, il est temps d'écourter ce sommeil.
 
@@ -45,7 +50,7 @@ Ce qui est faisable, c'est de choisir un camp. Celui des savants ou mourir ignor
 
 Bien heureusement, nous sommes à l'ère du savoir, la connaissance est à portée de main, on peut tout voir, internet est là et tout ça grâce au temps. Les enfants croient de moins en moins leurs parents, le temps a fait de Google l'ultime concurrent. Plus besoins de potes pour passer un bon week-end; le soir, seule, je rigole sur les réseaux.
 
-![](/img/50288862_2021480107938451_6051539406018314240_n.png)
+![null](/img/50288862_2021480107938451_6051539406018314240_n.png)
 
 Le réseau social, cet outils de communication telle une arme à double tranchant ( ...) grâce à lui, plusieurs personnes se sont réalisées, moi il m'a permis de vous rencontrer, par son biais certains se sont emmerdés et de manière réussie d'autres ne cessent de se noyer... Qu'est ce qu'il a le pouvoir de nous mener! Surtout que de plus en plus il nous prend autant de temps.
 
