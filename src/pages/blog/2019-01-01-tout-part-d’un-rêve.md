@@ -3,15 +3,15 @@ templateKey: blog-post
 title: TOUT PART D'UN RÊVE
 urlphoto: 'blob:https://lhirondellereviendra.com/35844f96-934c-4482-86d0-57c2c08c59c8'
 date: 2019-01-01T08:57:21.467Z
-description: ' Puisqu''on ferait tout pour retrouver une Afrique nouvelle et victorieuse, puisque je donnerais tant pour vivre ce soleil afro futuriste; Vous l’auriez vu, très pur, sans poids ni peine; dans mon rêve, il est meilleur que celui du Wakanda.'
+description: "Pendant que le printemps fait son petit chemin, un planning montagneux se dresse sur le mien. Paniquer ou garder la pêche, il faudra choisir au plus vite.\PDepuis quelques jours le temps s'est rajeuni, moins frais le vent qui souffle, le soleil luit avec plus de précisions et les journées se rallongent pour le bonheur de tous. Un nouvel atmosphère comme pour nous dire qu'on a assez dormi."
 tags:
   - Réflexions
 ---
 ![null](/img/50404241_220700202203563_7183997032137228288_n.jpg)
 
-Pendant que le printemps fait son petit chemin, un planning montagneux se dresse sur le mien. Paniquer ou garder la pêche, il faudra choisir au plus vite. Depuis quelques jours le temps s'est rajeuni, moins frais le vent qui souffle, le soleil luit avec plus de précisions et les journées se rallongent pour le bonheur de tous. Un nouvel atmosphère comme pour nous dire qu'on a assez dormi. Là il sonne midi, une force inhabituelle me donne envie de bouger. De mon coeur jaillit un nouvel engouement pour la vie, sensation connue des premiers jours de l'an. Je suis toute fraîche; oui l'hiver est fini. Tant pis si bientôt on crie la chaleur, l'avantage sera de retourner à la plage.
+ Là il sonne midi, une force inhabituelle me donne envie de bouger. De mon coeur jaillit un nouvel engouement pour la vie, sensation connue des premiers jours de l'an. Je suis toute fraîche; oui l'hiver est fini. Tant pis si bientôt on crie la chaleur, l'avantage sera de retourner à la plage.
 
-![](/img/50323480_491823004557911_2942706283192516608_n.png)
+![null](/img/50323480_491823004557911_2942706283192516608_n.png)
 
  Avez vous éprouvé le désir de courir pieds nus dans du sable chaud? Avec hâte, je veux savourer la noix de coco et apprécier l'eau sucrée qui se trouve dans son intérieur. Je prends la résolution d'enchaîner des cocktails au clair de lune; mais aussi, je n'hésiterai pas à retourner au lac avec mes potes et la guitare; feu de camps ou barbecue, ça on improvisera. Et tout ces soirs enfin, j'aurai le plaisir de dîner avant le coucher du soleil; bien sûr il faudra attendre la tombée de la nuit pour aller au lit ou simplement le faire à une heure déjà définie; c'est à vous de voir moi ça dépendra de mon humeur et si tout se passe bien je terminerai la saison au Bahamas, à bord d'un yacht de luxe avec ma famille. 
 
