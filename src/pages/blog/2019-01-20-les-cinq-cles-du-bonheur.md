@@ -13,9 +13,7 @@ description: >
 tags:
   - Réflexions
 ---
-![null](/img/50524893_248304939416806_7717013060665212928_n-1-.png)
 
-clé du bonheur en cinq étapes 
 
 À quoi ressemble le bonheur,
 
@@ -23,7 +21,7 @@ Un chèque de mille milliard d’euros ou la situation d’une mouche tombée da
 
 Hier j'ai acheté une place au cinéma Pathé de Valence, là-bas j'ai découvert une immense salle remplie jusqu'au dernier siège.
 
-Dès les premiers instant, j’ai vu des personnes se lever, d’autres ont souri puis ri, et les plus forts ont pleuré sans dire mot. 
+Dès les premiers instants, j’ai vu des personnes se lever, d’autres ont souri puis ri, et les plus forts ont pleuré sans dire mot. 
 
 C’était un double spectacle mais c’était beaucoup plus que ça; un spectacle; un moment délicieux, le mien, précisément, sans faille, je m'en souviendrai. 
 
@@ -51,7 +49,7 @@ Telle la gloire succède à l’humilité, la gratitude précède l’accompliss
 
 A quoi bon regretter son enfance quand on a peur déjà de la vieillesse? C’est en conciliant le tout, que nous profitons mieux de la jeunesse.
 
-![](/img/50580413_295371214466980_749434418346590208_n.png)
+![null](/img/50580413_295371214466980_749434418346590208_n.png)
 
 LA RÉ-CONCILIATION 
 
@@ -65,7 +63,7 @@ Paul Kagame passait un message similaire récemment; en 2000 il lance un program
 
 Surtout ils ont laissé pour preuve que cela rend libre; c’est une très belle arme, en faite c’est le moyen de guerre des âmes fortes et confiantes.
 
-![](/img/50396403_1121909014634729_8413154339392061440_n.png)
+![null](/img/50396403_1121909014634729_8413154339392061440_n.png)
 
 En vrai, LA CONFIANCE EN SOI devrait-on encore en parler? 
 
@@ -101,7 +99,7 @@ Il serait tout bénéfique de comprendre que le bonheur finalement c’est peut 
 
 Si tu es croyant je vais dire abandonne-toi à ou sinon je dirai détache toi des choses à des moments donnés et connecte toi à toi même; la seule personne que tu peux finalement décider de contrôler.
 
-![](/img/50708383_519644951777050_1301798827866456064_n.png)
+![null](/img/50708383_519644951777050_1301798827866456064_n.png)
 
 Dis toi, je veux être heureux maintenant car le bonheur se trouve au dedans.
 
