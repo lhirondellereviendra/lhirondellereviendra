@@ -26,7 +26,7 @@ dans la mélancolie des soirs d’hiver...
 
 Et même désemparé, avant que tout chavire, souviens-toi que la vie, elle, n’a pas cessé de scintiller. Il faut se donner la capacité d’être heureux en regardant tout, profondément, jusqu'au bout avec amour et reconnaissance.
 
-# LA RECONNAISSANCE 
+# LA RECONNAISSANCE
 
 La vie est un rêve, un présent pour lequel il faut remercier quotidiennement.
 
@@ -38,7 +38,7 @@ A quoi bon regretter son enfance quand on a peur déjà de la vieillesse? C’es
 
 ![null](/img/50580413_295371214466980_749434418346590208_n.png)
 
-# LA RÉ-CONCILIATION 
+# LA RÉ-CONCILIATION
 
  Je ne fais pas de thérapie de couple; **il faut avoir associer beauté et laideur, santé et maladie, force et faiblesse; trouver le juste milieu. **
 
@@ -48,9 +48,9 @@ Nelson Mandela, même dans des conditions hyper difficiles, a prôné la réconc
 
 ![null](/img/50396403_1121909014634729_8413154339392061440_n.png)
 
-# En vrai, LA CONFIANCE EN SOI devrait-on encore en parler? 
+# En vrai, LA CONFIANCE EN SOI devrait-on encore en parler?
 
-Lorsque tu comprends que personne ne fera rien à ta place et que seul le travail acharné, le même qui  sépare le rêve de la réalité ( lire mon article sur du rêve à la réalité) pourra te libérer; là tu gagnes de la confiance.** Le bonheur c'est aussi une responsabilité de s'affranchir d'exploiter tout son pouvoir pour prévenir les jours difficiles.** Il faut dire que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
+Lorsque tu comprends que personne ne fera rien à ta place et que seul le travail acharné, le même qui  sépare le rêve de la réalité pourra te libérer; là tu gagnes de la confiance.** **[**https://lhirondellereviendra.com/blog/2018-12-31-du-r%C3%AAve-%C3%A0-la-r%C3%A9alit%C3%A9/**](https://lhirondellereviendra.com/blog/2018-12-31-du-r%C3%AAve-%C3%A0-la-r%C3%A9alit%C3%A9/)**Le bonheur c'est aussi une responsabilité de s'affranchir d'exploiter tout son pouvoir pour prévenir les jours difficiles.** Il faut dire que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
 
  Prévoyez vos moments de bonheur!
 
@@ -62,7 +62,7 @@ Si vous êtes de bons observateurs, vous verrez que rien ne dure vraiment. La vi
 
 ![null](/img/50314645_334341304081030_184524752952492032_n.png)
 
-# L’INSOUCIANCE Et LE CONTENTEMENT 
+# L’INSOUCIANCE Et LE CONTENTEMENT
 
 Vous ne pouvez contrôlez ni le monde ni ce qu’il contient.
 
