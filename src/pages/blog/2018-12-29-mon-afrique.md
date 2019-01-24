@@ -15,8 +15,6 @@ tags:
 
 ![null](/img/50018938_522904558218487_6274765546634346496_n.png)
 
-
-
 Pour lui parler de ma rage à moi, je lui ai conté une histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées africaines.
 
 Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rage surtout, se renouvelle au fil des générations. Elle déborde face aux maux qui minent nos sociétés et aiguisent nos perpétuelles batailles.
@@ -45,7 +43,7 @@ Venez! Joignons nos voix à celles qui s’élèvent déjà pour la libération 
 
 Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits. Pour que nous décollions enfin, il urge de continuer à travailler. Il est évident que rien n'est fait tant qu’il reste à faire. Les états européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
 
-Déjà un demi siècle; la jeunesse africaine est mise au défi. Chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun, l'éducation des femmes et un nouveau regard sur l’enfance pour une Afrique mieux aguerrie et unie.
+Déjà un demi siècle; la jeunesse africaine est mise au défi. Au lieu de continuer à rêver d’un filon facile, chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun, l'éducation des femmes et un nouveau regard sur l’enfance pour une Afrique mieux aguerrie et unie.
 
 ![null](/img/50311049_325361278073614_8866716221723115520_n.png)
 
