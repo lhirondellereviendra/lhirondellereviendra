@@ -5,7 +5,7 @@ urlphoto: 'blob:https://lhirondellereviendra.com/bdce1ac3-7171-44a3-a42c-18c8410
 date: 2019-01-19T21:35:41.775Z
 description: >-
 
-  À quoi ressemble le bonheur,Un chèque de mille milliard d’euros ou la
+  À quoi ressemble le bonheur,un chèque de mille milliard d’euros ou la
   situation d’une mouche tombée dans la confiture de fraises ?Hier j'ai acheté
   une place au cinéma Pathé de Valence, là-bas j'ai découvert une immense salle
   remplie jusqu'au dernier siège.Dès les premiers instants, j’ai vu des
