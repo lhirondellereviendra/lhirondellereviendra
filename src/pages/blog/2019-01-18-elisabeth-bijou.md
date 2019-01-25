@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: ELISABETH-BIJOU
-urlphoto: 'blob:https://lhirondellereviendra.com/8e23fd97-bb81-473b-8937-6f40ac793639'
+urlphoto: >-
+  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/50512674_310707526244301_5610208916236402688_n.jpg
 date: 2019-01-18T21:34:10.476Z
 description: >-
   Bijou; Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent,
