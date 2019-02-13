@@ -41,12 +41,11 @@ about:
 categoriehome:
   - descriptioncat: >-
       "Deux valises; l'une contenant ma garde robe, les nécessités matérielles,
-      l'autre mes manuscrits et la réserve pour le travail et l'esprit" ainsi
+      l'autre mes manuscrits, la réserve pour le travail et l'esprit" ainsi
       soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
       de la vie? chaque jour je me familiarise avec cette curiosité qui me
       pousse à sortir de l'ordinaire.
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+    image: 'blob:https://lhirondellereviendra.com/eda819d1-533f-4c8a-83fc-845d813e507e'
     liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
     titrecat: MES VOYAGES
