@@ -2,30 +2,39 @@
 templateKey: home-page
 title: L'hirondelle reviendra
 image: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/header.jpeg
+  file:///C:/Users/BAHINITHOMAS/Downloads/52653753_810141625987257_3933382597874286592_n.jpg
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
   image: >-
-    https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+    file:///C:/Users/BAHINITHOMAS/Downloads/52653753_810141625987257_3933382597874286592_n.jpg
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
 
     Néanmoins, vous trouverez peintes sur ces murs, quelques figures fidèles et
-    intactes qui elles, demeurent.
+    intactes.
 
-    Dans mon portefeuille, je range l'image d’une Afrique nouvelle et émergée;
+    Dans mon portefeuille, j'ai rangé l'image d’une Afrique nouvelle et émergée;
     mes rêves sont ce que j’ai de plus précieux, je les garde sous les yeux pour
     ne pas oublier de prier. 
 
     Je m'inspire de cette alliance qui passe de mères en filles et dont la
     valeur sentimentale surpasse le vrai prix du marché: bel inconnu, qu'as-tu
-    de spécial à me vendre? j'ai l'avantage de pouvoir voir au delà de
-    l'apparence.
+    de spécial à me vendre? 
 
-    Passionnément, je suis juriste, exploratrice et altruiste.
+    Je suis comme l'arme d'un ancien guerrier, si précieuse malgré sa lourde
+    culpabilité. Vois-tu,j'ai l'avantage de pouvoir voir au delà de l'apparence.
 
-    Je m’appelle Elisabeth et toi? 
+    Je suis semblable à une quelconque pierre achetée aux enchères, un fragment
+    de verre médiéval ou une armure dont on compte l'histoire uniquement aux
+    invités de marque.
+
+    En effet, je ne sais du jour au lendemain, ni plaire, ni paraître car
+    authentique,authentique; je suis immense.
+
+    Passionnément,juriste-exploratrice-altruiste.
+
+    Je m’appelle Elisabeth Aht et toi? 
 
 
 
@@ -43,11 +52,6 @@ categoriehome:
     liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
     titrecat: MES VOYAGES
-  - image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
-    liencat: 'https://lhirondellereviendra.com/tags/voyageurs'
-    nombouton: Mes conseils aux voyageurs
-    titrecat: MES CONSEILS POUR VOYAGER
   - descriptioncat: >-
       Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
       Il s'agit d'une ballade à l'intérieur de soi et au cours de laquelle l'on
