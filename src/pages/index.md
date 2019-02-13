@@ -4,7 +4,7 @@ title: L'hirondelle reviendra
 image: 'blob:https://lhirondellereviendra.com/4af2ee1e-319d-4adb-86b9-cc9d7c907f13'
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
-  image: 'blob:https://lhirondellereviendra.com/4af2ee1e-319d-4adb-86b9-cc9d7c907f13'
+  image: 'blob:https://lhirondellereviendra.com/e8b1df5a-8aa1-4547-ad6f-044a3defad0b'
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
