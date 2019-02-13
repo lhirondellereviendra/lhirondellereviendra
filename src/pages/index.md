@@ -51,19 +51,18 @@ categoriehome:
     titrecat: MES VOYAGES
   - descriptioncat: >-
       Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
-      Il s'agit d'une ballade à l'intérieur de soi et au cours de laquelle l'on
-      se donne la capacité de regarder briller toutes les étoiles de sa vie, du
-      passé au présent en espérant d'avantage pour le futur. Savoir visiter des
-      histoires socialement importantes, des personnes qui inspirent tant. Je
-      cite bonheur et joie, retard ou longueur d'avance, cicatrices et tâches
-      indélébiles. Je voudrais dire si vous aimez les changements et que vous
-      décidez de voir d'autres couleurs de la vie, d'ailleurs elle vous suggère
-      de ne pas prendre partie. Puisqu'il n'existe pas de vérité absolue
-      affirmait VIKTOR Vincent, allez donc trouvez la vôtre, celle que vous
-      méritez  puis vivez la en voyageant, telle une hirondelle, avec agilité et
-      amabilité. Vive la liberté intelligente!
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/bio.jpeg
+      Il s'agit d'une ballade à l'intérieur de soi, au cours de laquelle l'on se
+      donne la capacité de regarder briller toutes les étoiles de sa vie, du
+      passé au présent en espérant d'avantage pour le futur. C'est aussi la
+      revisitation des histoires socialement importantes, des personnes qui
+      inspirent tant. Je cite bonheur et joie, retard ou longueur d'avance,
+      cicatrices et tâches indélébiles. Je voudrais dire si vous aimez les
+      changements et que vous décidez de voir d'autres couleurs de la vie,
+      d'ailleurs elle vous suggère de ne pas prendre partie. Puisqu'il n'existe
+      pas de vérité absolue affirmait VIKTOR Vincent, allez donc trouvez la
+      vôtre, celle que vous méritez  puis vivez la en voyageant, telle une
+      hirondelle, avec agilité et amabilité. 
+    image: 'blob:https://lhirondellereviendra.com/9033f01d-ab6a-4fa8-aa5c-2087c69ca71b'
     liencat: 'https://lhirondellereviendra.com/tags/reflexions'
     nombouton: Réflexions
     titrecat: REFLEXIONS
