@@ -2,7 +2,7 @@
 templateKey: about-page
 title: A propos du blog
 ---
-![](/img/img_0099.jpg)
+![null](/img/50160294_438208796716506_8071088489510207488_n.jpg)
 
 ### L’HIRONDELLE REVIENDRA
 
@@ -26,7 +26,7 @@ title: A propos du blog
 
 ### L’hirondelle reviendra à l’automne pour décrire l’immensité de l’Europe, l’une de ses sorties culturelles en chine, ses moments de détentes en Amérique, elle parlera de la lueur des grandes villes, de la tyrannie technologique à laquelle le monde est soumis, les pressions ainsi que tout le bling bling (...)
 
-## **_L’hirondelle reviendra le blog de voyage qui vous pousse à vivre vos rêves sans attendre._**
+## _**L’hirondelle reviendra le blog de voyage qui vous pousse à vivre vos rêves sans attendre.**_
 
 \#voyages#bénin#culture#confort#unhôtelunesprit
 
