@@ -11,17 +11,13 @@ description: >-
 tags:
   - Réflexions
 ---
-![null]()
-
-![null](/img/50018938_522904558218487_6274765546634346496_n.png)
+![](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
 
 Pour lui parler de ma rage à moi, je lui ai conté une histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées africaines.
 
 Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rage surtout, se renouvelle au fil des générations. Elle déborde face aux maux qui minent nos sociétés et aiguisent nos perpétuelles batailles.
 
 Mais à quoi sert-elle réellement? Si au final on enregistre malheureusement beaucoup plus de frustrations et de frayeurs que d’actions pertinentes. I am african, i am proud and so?
-
-![null](/img/49212935_1178448485640993_1760580684600049664_n.png)
 
 Quel plan pour l’Afrique ? quel est donc le devenir de l’Afrique?
 
