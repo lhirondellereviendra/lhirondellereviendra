@@ -39,8 +39,6 @@ Je n'avais du temps pour rien ni pour personne, même pas pour moi, sur mes acqu
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
-![null](/img/50521805_2184533328531763_97414780305801216_n.png)
-
 Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte pour moi, je n'attendrai plus le meilleur moment de peur qu'il me file entre les doigts. Ainsi je crée les occasions, saisis les opportunités, elles sont toutes bonnes en fin de compte, il suffit que j'aille à mon rythme. Je décide de m'entourer de personnes déterminées, celles qui sont toujours prêtes à essayer, je veux faire ce que j'aime, il est temps d'écourter ce sommeil.
 
 À Jamais je suis convaincue que le temps a tous les pouvoirs. C'est lui qui panse les blessures; avec, nous avons pu accéder à "l'indépendance", il enterre la hache de guerre, améliore les capacités, lui seul resserre les cœurs, flétrit la rose pourtant belle, il restera le plus grand art de l'homme.
