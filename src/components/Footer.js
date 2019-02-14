@@ -26,7 +26,7 @@ const Footer = () => (
             <footer className="footer">
                     <div className="content has-text-centered">
                         <p>
-                        <strong>© L'hirondelle Reviendra</strong> par <a href="https://kedora.fr">Kedora.fr</a> -Tous les droits sont réservés-
+                        <strong>© L'hirondelle Reviendra</strong> par <a href="https://alexislepresle.com">alexislepresle.com</a> -Tous les droits sont réservés-
                         </p>
                     </div>
             </footer>
