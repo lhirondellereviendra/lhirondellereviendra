@@ -51,7 +51,8 @@ categoriehome:
       soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
       de la vie? chaque jour je me familiarise avec cette curiosité qui me
       pousse à sortir de l'ordinaire.
-    image: 'blob:https://lhirondellereviendra.com/eda819d1-533f-4c8a-83fc-845d813e507e'
+    image: >-
+      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/51745060_658847431197855_5425431035091353600_n.jpg
     liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
     titrecat: MES VOYAGES
