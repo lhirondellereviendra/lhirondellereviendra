@@ -29,7 +29,7 @@ Quand dans cet incendie, tout a été ravagé, dans mon moi, il était le seul s
 
 **Regardez le souffle que m'offre la vie; cela fait de moi un être serviable de nature. Et au moment où mon rêve m'affranchit, la réalité me poursuit.**
 
-Elle m'invite, à faire preuve de ténacité, de rigueur, beaucoup d'efforts. Tout gravir jusqu'à trouver le sens de la vie. Rome est si belle mais pour la faire, il a fallu plus d'une journée. Je voudrais emprunter cette curiosité, aller au delà de la complaisance pour devenir utile.Regardez le souffle que m'offre la vie; cela fait de moi un être serviable de nature. Et au mome
+Elle m'invite, à faire preuve de ténacité, de rigueur, beaucoup d'efforts. Tout gravir jusqu'à trouver le sens de la vie. Rome est si belle mais pour la faire, il a fallu plus d'une journée. Je voudrais emprunter cette curiosité, aller au delà de la complaisance pour devenir utile. 
 
 Tous, dans nos pensées, l'avenir apparaît radieux et si devant cet écran l'on s'émerveille alors de l'assurance d'être productifs, nous devrions faire un credo. L'un est douceur et l'autre très fragile.
 
@@ -49,7 +49,7 @@ Et toi, un jour tu rêves de réaliser ton plus grand rêve... tu te vois entrai
 
 La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit- on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes.** Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.**
 
-Moi je vais bientôt passer à l'action. Toi qui lis ceci, à quelle étape penses-tu être sur le chemin de l'endurance ? J'ai entendu dire qu'il n'y a pas meilleur moment que maintenant; surtout que la peur de commencer tard entraîne à Jamais.
+Moi je vais bientôt passer à l'action. Toi qui lis ceci, à quelle étape penses-tu être sur le chemin de l'endurance ? J'ai entendu dire qu'il n'y a meilleur moment que maintenant; surtout que la peur de commencer tard entraîne à Jamais.
 
 Je veux dire ne somnole pas; debout! n'attends pas; combats. Combats! avant que la vie t'interroge. Qu'as tu fait de ton talent ? L'as-tu fructifié ? Quelle réponse donneras tu? **Flaubert disait à Maupassan: le talent n'est qu'une longue patience, Travaillez!**
 
@@ -61,7 +61,7 @@ Pour moi, le talent se trouve dans le rêve, il faut juste s'acharner à lui don
 
 L'être humain est à réinventer chaque jour. Et toi qui es à la quête d'innovation, si tu veux donner du poids à ton rêve, la première étape c'est de te réveiller.
 
-À force d'en parler, mes pensées montent créscendo, je vais devoir raccrocher sinon je ne m'arrêterai pas.
+À force d'en parler, mes pensées montent crescendo, je vais devoir raccrocher sinon je ne m'arrêterai pas.
 
 Sur ce sujet, il y a encore tellement de choses à dire ainsi je vous laisse compléter cet article...
 
