@@ -68,7 +68,8 @@ categoriehome:
       pas de vérité absolue affirmait VIKTOR Vincent, allez donc trouver la
       vôtre, celle que vous méritez  puis vivez la en voyageant, telle une
       hirondelle, avec agilité et amabilité. 
-    image: 'blob:https://lhirondellereviendra.com/9033f01d-ab6a-4fa8-aa5c-2087c69ca71b'
+    image: >-
+      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/img_0092.jpg
     liencat: 'https://lhirondellereviendra.com/tags/reflexions'
     nombouton: Réflexions
     titrecat: REFLEXIONS
