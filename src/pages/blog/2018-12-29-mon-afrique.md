@@ -1,17 +1,17 @@
 ---
 templateKey: blog-post
-title: Mon Afrique
+title: 'JEUNE, L'' AFRIQUE A BESOIN DE TOI'
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/7583907600_img_1288-1.jpg
 date: 2018-12-29T18:33:49.670Z
 description: >-
   A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
   puisse soulever une baleine bleue? silence radio. Quand vous connaissez le
-  poids de cet animal, vous ne partagez pas forcément cet avis.
+  poids de l'animal, vous ne partagez pas forcément cet avis.
 tags:
   - Réflexions
 ---
-![](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
+![null](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
 
 Pour lui parler de ma rage à moi, je lui ai conté une histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées africaines.
 
@@ -25,9 +25,9 @@ J’ai bien peur qu’elle soit elle-même un projet dont le plan de financement
 
 Pendant ce temps les peuples exaltent leur vive amertume, Normal. Bras croisés, ils se plaignent des dirigeants, attendant l’heure de Dieu.
 
-Les gouvernants, eux, semblent tout à fait étrangers à l’idée de progrès. Ils se laissent séduire par les promesses des supposés sauveurs -meilleurs -bailleurs de fonds extérieurs. Le pouvoir inhumain de l'argent; la richesse mal acquise les a aveuglés.
+Les gouvernants, eux, semblent tout à fait étrangers à l’idée de progrès. Ils se laissent séduire par les promesses de nos supposés sauveurs -meilleurs -bailleurs de fonds extérieurs. Le pouvoir inhumain de l'argent; la richesse mal acquise les a aveuglés.
 
-Plus accablant, est le fait que tous ensemble, nous osons chanter : l’Afrique est le continent d’avenir. Avenir, seriously! simple mot ou état d’esprit ? Je me demande comment l’assurerons- nous face à cette immigration effrayante qui certainement appauvrit le continent. 
+Plus accablant, est le fait que tous ensemble, nous osons chanter : l’Afrique est le continent d’avenir. Avenir, seriously! simple mot ou état d’esprit ? Je me demande comment l’assurerons-nous face à cette immigration effrayante qui certainement appauvrit le continent. 
 
 ![null](/img/50556918_358730331573706_5491334138562609152_n.jpg)
 
@@ -37,11 +37,9 @@ Je tenais tout de même à dire que dans leurs yeux, j’ai vu trop de déceptio
 
 Venez! Joignons nos voix à celles qui s’élèvent déjà pour la libération du peuple africain.
 
-Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits. Pour que nous décollions enfin, il urge de continuer à travailler. Il est évident que rien n'est fait tant qu’il reste à faire. Les états européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
+Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits. Pour que nous décollions enfin, il urge de continuer à travailler. Il est évident que rien n'est fait tant qu’il reste à faire. Les européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
 
 Déjà un demi siècle; la jeunesse africaine est mise au défi. Au lieu de continuer à rêver d’un filon facile, chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun, l'éducation des femmes et un nouveau regard sur l’enfance pour une Afrique mieux aguerrie et unie.
-
-![null](/img/50311049_325361278073614_8866716221723115520_n.png)
 
 Aussi, une obligation morale d’assistance mutuelle entre les âges et les usages s'impose. De façon concrète, cela revient à s’intéresser à l'autre, à ce qu’il fait, complimenter et encourager; la solidarité je veux dire, pour palier au problème de confiance qui amène les jeunes à avoir le regard imprudemment tourné vers l'extérieur.
 
