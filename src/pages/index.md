@@ -59,8 +59,8 @@ categoriehome:
   - descriptioncat: >-
       Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
       Il s'agit d'une ballade à l'intérieur de soi, au cours de laquelle l'on se
-      donne la capacité de regarder briller toutes les étoiles de sa vie; c'est
-      aussi la visite des histoires socialement importantes, des personnes qui
+      donne la capacité de regarder briller toutes les étoiles de sa vie. C'est
+      aussi la vision des histoires socialement importantes, des personnes qui
       inspirent tant. Je cite bonheur et joie, retard ou longueur d'avance,
       cicatrices et tâches indélébiles. Je voudrais dire si vous aimez les
       changements et que vous décidez de voir d'autres couleurs de la vie,
