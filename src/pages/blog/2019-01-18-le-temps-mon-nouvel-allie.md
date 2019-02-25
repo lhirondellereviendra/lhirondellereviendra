@@ -27,7 +27,7 @@ Cependant, secondes, minutes, instants, moments, chaque jour plusieurs attendent
 
 Il est aussi défini comme la dimension dans laquelle des événements peuvent être ordonnés du passé au futur en passant par le présent. C'est grâce au temps qu'on passe les saisons, de la pluie à la sécheresse, de la soudure à l'abondance. Le temps m'a ôtée de la misère pour m'offrir le nécessaire, il a réglé mes impulsions et depuis, j'agis avec pondération. Il n'a pas hésité à faire de nos mères des grands-mères. Nous l'avons vu réduire des présidents à de malheureux prisonniers, du télégramme, on est passé aux messages instantanés. Il rend l'impossible possible, il nous fait voir de toutes les couleurs.
 
-D'ailleurs le temps est un grand maître.
+## D'ailleurs le temps est un grand maître.
 
 Si tu le laisses faire, il agrandira ta zone de confort, là tu accumuleras les échecs, demain tu auras tort, quand il t'ouvrira les yeux, tu verras les autres loin, c'est un bon maître mais qui malheureusement tue l'élève.
 
@@ -35,7 +35,11 @@ Si tu le laisses faire, il agrandira ta zone de confort, là tu accumuleras les 
 
 ![null](/img/51041716_2225076231091469_7305524089555255296_n.jpg)
 
-Je n'avais du temps pour rien ni pour personne, même pas pour moi, sur mes acquis je me suis reposée, je reportais à Jamais. J'ai emprunté le chemin de l'oisiveté pour basculer dans la routine. Je n'avais qu'un seul refrain: j'ai encore du temps, demain je le ferai. Petitement, j'ai perdu le goût du labeur et donc plus d'innovations. Malheureusement et sans savoir, j'ai mis mon mental en veille. Me voilà aujourd'hui, j'ai vieilli plus tôt. Oh bel ami, qu'as-tu fait de moi? Laisse moi te rattraper, t'utiliser sans relâche pour me reconstruire. Dorénavant, je dois être de mon temps donc tout n'est pas perdu car que tu le veuilles ou non, je veux faire de toi un allié.
+Je n'avais du temps pour rien ni pour personne, même pas pour moi.
+
+ Sur mes acquis je me suis reposée, je reportais à Jamais. J'ai emprunté le chemin de l'oisiveté pour basculer dans la routine. Je n'avais qu'un seul refrain: j'ai encore du temps, demain je le ferai. Petitement, j'ai perdu le goût du labeur et donc plus d'innovations.
+
+ Malheureusement et sans savoir, j'ai mis mon mental en veille. Me voilà aujourd'hui, j'ai vieilli plus tôt. Oh bel ami, qu'as-tu fait de moi? Laisse moi te rattraper, t'utiliser sans relâche pour me reconstruire. Dorénavant, je dois être de mon temps donc tout n'est pas perdu car que tu le veuilles ou non, je veux faire de toi un allié.
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
@@ -43,7 +47,7 @@ Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte
 
 À Jamais je suis convaincue que le temps a tous les pouvoirs. C'est lui qui panse les blessures; avec, nous avons pu accéder à "l'indépendance", il enterre la hache de guerre, améliore les capacités, lui seul resserre les cœurs, flétrit la rose pourtant belle, il restera le plus grand art de l'homme.
 
-C'est beau tout ces mots mais sans doute difficile dans la pratique.
+C'est beau tout ça mais sans doute difficile dans la pratique.
 
 Ce qui est faisable, c'est de choisir un camp. Celui des savants ou mourir ignorant! Dites moi donc, quel est votre choix?
 
