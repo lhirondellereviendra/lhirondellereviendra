@@ -4,7 +4,7 @@ title: L'hirondelle reviendra
 image: 'blob:https://lhirondellereviendra.com/75e7fa2b-5e28-4b75-aef2-2ee218be3238'
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
-  image: 'blob:https://lhirondellereviendra.com/e8b1df5a-8aa1-4547-ad6f-044a3defad0b'
+  image: a
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
@@ -12,25 +12,30 @@ about:
     Néanmoins, vous trouverez peintes sur ces murs, quelques figures fidèles et
     intactes.
 
-    Dans mon portefeuille, j'ai rangé l'image d’une Afrique nouvelle et émergée;
+    Dans mon portefeuille, se trouve l'image d’une Afrique nouvelle et émergée:
     mes rêves sont ce que j’ai de plus précieux, je les garde sous les yeux pour
     ne pas oublier de prier. 
 
     Je m'inspire de cette alliance qui passe de mères en filles et dont la
-    valeur sentimentale surpasse le vrai prix du marché: bel inconnu, qu'as-tu
-    de spécial à me vendre? 
+    valeur sentimentale surpasse le prix du marché: bel inconnu, qu'as-tu de
+    spécial à me vendre? j'ai l'avantage de pouvoir voir au delà de l'apparence.
 
-    Je suis comme l'arme d'un ancien guerrier, si précieuse malgré sa lourde
-    culpabilité. Vois-tu,j'ai l'avantage de pouvoir voir au delà de l'apparence.
 
-    Je suis semblable à une quelconque pierre achetée aux enchères, un fragment
-    de verre médiéval ou une armure dont on compte l'histoire uniquement aux
-    invités de marque.
+    Sur mon front, je laisse couler mes charmes; elles se décomposent souvent,
+    parfois s'abîment et même se brisent de désespoir.
 
-    En effet, je ne sais du jour au lendemain, ni plaire, ni paraître car
-    authentique,authentique; je suis immense.
+    Mais le soir, loin de tous regards, goûte à goûte, je cède à la
+    persévérance.
 
-    Passionnément,juriste-exploratrice-altruiste.
+     Telle l'arme d'un ancien guerrier, je chérie mon honneur en dépit de ma lourde culpabilité. 
+
+    En réalité, je suis semblable à une quelconque pierre achetée aux enchères,
+    un fragment de verre médiéval ou une armure dont on compte l'histoire
+    uniquement aux invités de marque.
+
+
+    Je ne sais du jour au lendemain, ni plaire, ni paraître car authentique,
+    authentique; je suis immense.
 
     Je m’appelle Elisabeth Aht et toi? 
 
