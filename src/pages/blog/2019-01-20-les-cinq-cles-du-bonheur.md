@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: les cinq clés du bonheur
+title: LES CINQ CLÉS DU BONHEUR
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/img_0008.jpg
 date: 2019-01-19T21:35:00.000Z
