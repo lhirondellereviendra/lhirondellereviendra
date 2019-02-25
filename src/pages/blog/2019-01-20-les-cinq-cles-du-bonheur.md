@@ -75,7 +75,7 @@ Alors, LA CONFIANCE EN SOI devrait-on encore en parler?
 
 La vérité c’est que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
 
-C’est clair que personne ne fera rien à ta place et que seul le travail acharné, le même qui sépare le rêve de la réalité [lhirondellereviendra.com](lhirondellereviendra.com)pourra te libérer.
+C’est clair que personne ne fera rien à ta place et que seul le travail acharné, le même qui sépare le rêve de la réalité pourra te libérer.
 
 Face à cela, tu n’as qu’un seul choix: prendre confiance et essayer le plus souvent.
 
