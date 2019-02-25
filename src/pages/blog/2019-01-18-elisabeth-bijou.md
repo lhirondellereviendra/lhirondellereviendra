@@ -12,9 +12,13 @@ tags:
 ---
 ![null](/img/img_0042.jpg)
 
-Naturellement, j'ai effectué des recherches; je peux dire que Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire donc l'attachement et l'importance qu'on lui accorde ou tout simplement selon son utilité.
+Naturellement, j'ai effectué des recherches à ces propos puis je ne suis pas surprise du tout.
 
- Pour ma part, les deux me vont si bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
+je peux dire que Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
+
+Appelle moi Elisabeth ou bijou, je te répondrai suivant ton choix.
+
+ Puisque les deux me vont bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
 
 ![null]()
 
@@ -22,7 +26,7 @@ Pour revenir à ce blog, c'est un rêve d'ado qui se réalise là. Mes potes m'o
 
 Ensemble donc, vous et moi y parviendrons, Nous, parce que je ne suis pas la seule à avoir réalisé cette complicité entre le soleil et la lune si bien que quelque soit la durée de la nuit, le jour finit toujours par apparaître et en ce moment même où le soleil se lève au sud, les étoiles brillent dans le ciel quelque part au nord! C'est merveilleux n'est ce pas?Malgré cela, les regards se fixent beaucoup plus sur l'apparence que sur l'essence même. Ça c'est moins merveilleux. Quoi qu'il en soit, le secret c'est de savoir se passer du jugement des autres, pour y arriver, il faut apprendre à se redécouvrir, s'aimer et se préférer.
 
-Ce n'est pas pour rien que chacun a un prénom même si tout le monde s'appelle les Hommes et c'est incontestablement pareil dans les familles c'est la force individuelle, c'est le phénomène de l'étiquetage.
+Ce n'est pas pour rien que chacun a un prénom même si tout le monde s'appelle les Hommes et c'est incontestablement pareil dans les familles c'est la force individuelle, j'appelle cela le phénomène de l'étiquetage.
 
 Si tout se passe bien, je vous parlerai de passions, d'entraide, de rêve, de bonheur, joie, de réussite et de victoire.
 
