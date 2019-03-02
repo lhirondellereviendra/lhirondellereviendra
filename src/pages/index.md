@@ -18,9 +18,9 @@ about:
     mes rêves sont ce que j’ai de plus précieux, je les garde sous les yeux pour
     ne pas oublier de prier. 
 
-    Je m'inspire de cette alliance qui passe de mères en filles et dont la
-    valeur sentimentale surpasse le prix du marché: bel inconnu, qu'as-tu de
-    spécial à me vendre? j'ai l'avantage de pouvoir voir au delà de l'apparence.
+    Je m'inspire de ces joyaux qui passent de mères en filles et dont la valeur
+    sentimentale surpasse le prix du marché: bel inconnu, qu'as-tu de spécial à
+    me vendre? j'ai l'avantage de pouvoir lire au delà de l'apparence.
 
 
     Sur mon front, je laisse couler mes charmes; elles se décomposent souvent,
@@ -39,7 +39,7 @@ about:
     Je ne sais du jour au lendemain, ni plaire, ni paraître car authentique,
     authentique; je suis immense.
 
-    Je m’appelle Elisabeth Aht et toi? 
+    Appelle moi Elisabeth ou Bijou et je te répondrai suivant ton choix.
 
 
 
@@ -61,16 +61,15 @@ categoriehome:
       Ici je vous emmène à la rencontre des choses que j'appelle essentielles.
       Il s'agit d'une ballade à l'intérieur de soi, au cours de laquelle l'on se
       donne la capacité de regarder briller toutes les étoiles de sa vie. C'est
-      aussi la vision des histoires socialement importantes, des personnes qui
-      inspirent tant. Je cite bonheur et joie, retard ou longueur d'avance,
-      cicatrices et tâches indélébiles. Je voudrais dire si vous aimez les
-      changements et que vous décidez de voir d'autres couleurs de la vie,
+      aussi la revisitatation des histoires socialement importantes, des
+      personnes qui inspirent tant. Je cite bonheur et joie, retard ou longueur
+      d'avance, cicatrices et tâches indélébiles. Je voudrais dire si vous aimez
+      les changements et que vous décidez de voir d'autres couleurs de la vie,
       d'ailleurs elle vous suggère de ne pas prendre partie. Puisqu'il n'existe
       pas de vérité absolue affirmait VIKTOR Vincent, allez donc trouver la
       vôtre, celle que vous méritez  puis vivez la en voyageant, telle une
       hirondelle, avec agilité et amabilité. 
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/img_0092.jpg
+    image: ''
     liencat: 'https://lhirondellereviendra.com/tags/reflexions'
     nombouton: Réflexions
     titrecat: REFLEXIONS
