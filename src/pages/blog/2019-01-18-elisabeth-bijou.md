@@ -10,17 +10,15 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/img_0042.jpg)
+![](/img/img_0015.jpg)
 
-Naturellement, j'ai effectué des recherches à ces propos puis je ne suis pas surprise du tout.
+Naturellement, j'ai effectué des recherches puis je ne suis pas surprise du tout.
 
 je peux dire que Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
-Appelle moi Elisabeth ou bijou, je te répondrai suivant ton choix.
+Appelle moi Elisabeth ou bijou, je te répondrai suivant ton choix. Mais bien sûr Bijou est une coquille et Elisabeth la substance. Puisque les deux me vont si bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
 
- Puisque les deux me vont bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
-
-![null]()
+![null](/img/49343205_1569430366522047_7915797607551598592_n.jpg)
 
 Pour revenir à ce blog, c'est un rêve d'ado qui se réalise là. Mes potes m'ont surnommée Bijou la blogueuse car je répétais que je voulais être blogueuse sans même connaître la définition de ce mot. Aujourd'hui je ne peux plus attendre, je veux écrire, me raconter et mettre en œuvre ma créativité. Essentiellement, je voudrais pouvoir faire découvrir je ne sais encore quoi exactement. Je me lance quand même sans me soucier de demain car à coup sûr il est rempli de perspectives encore largement inexplorées.
 
