@@ -1,7 +1,8 @@
 ---
 templateKey: home-page
 title: L'hirondelle reviendra
-image: 'blob:https://lhirondellereviendra.com/75e7fa2b-5e28-4b75-aef2-2ee218be3238'
+image: >-
+  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/52692361_2180580968906777_2732147452831334400_n.jpg
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
   image: >-
