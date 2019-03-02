@@ -28,8 +28,6 @@ Pour le moment je suis ici, posée sur le canapé, jouissant de ma liberté de p
 
 J'ai une pensée pour un grand homme; il tenait tant à voir une Afrique du Sud démocratique et multiraciale; libéré après 27 années obscures, il devint lumière pour le monde. Quoiqu'il puisse arriver à un être humain, sa liberté de pensée demeure intouchable. 
 
-![null](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
-
  Si un jour je n'ai plus de rêve, j'avoue je m'inquiéterais. Pour moi, c'est le moteur de toute réalisation, c'est la seule chose qui me guide vers le bonheur et minimise mes regrets. Alors pourquoi ne te focalises-tu par sur tes petites victoires pour laisser le poids de l'échec derrière toi?
 
 ** Par ailleurs, le rêve est un stimulant sans lequel tout est au ralenti. Il est le carburant qui procurera l'énergie nécessaire pour arborer ce continent; **puisqu'il pousse l'homme à l'effort et fait naître l'amour du travail, puisqu'on ferait tout pour retrouver une Afrique nouvelle et victorieuse, puisque moi je donnerais tant pour vivre ce coucher du soleil afro futuriste; vous l'auriez vu; très pur, sans poids ni peine; dans mon rêve, il est meilleur que celui du Wakanda. 
