@@ -10,13 +10,13 @@ description: >-
 tags:
   - Réflexions
 ---
-![](/img/img_0015.jpg)
+![null](/img/img_0015.jpg)
 
 Naturellement, j'ai effectué des recherches puis je ne suis pas surprise du tout.
 
 je peux dire que Élisabeth me raconte mieux; je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
-Appelle moi Elisabeth ou bijou, je te répondrai suivant ton choix. Mais bien sûr Bijou est une coquille et Elisabeth la substance. Puisque les deux me vont si bien, tels le marteau et l'enclume, je me réserve d'un quelconque choix.
+Heureusement que ce Bijou est une coquille et Elisabeth la substance. Mais tels le marteau et l'enclume, je me réserve d'un quelconque choix.
 
 ![null](/img/49343205_1569430366522047_7915797607551598592_n.jpg)
 
