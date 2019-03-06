@@ -84,13 +84,9 @@ En tout état de cause, l’entrepreneuriat est un domaine intéressant, à expl
 
 ## CONSEILS
 
-Il n’y a pas d’âge pour entreprendre, plus tôt tu commences, plus l’apprentissage de l’entrepreneuriat est probant. C’est à la lumière de cette citation de HEREMOANA puetini que j’ajoute opportunément que si vous voulez faire quelque chose, faites-le maintenant car il n'y a pas meilleur moment.
+Il n’y a pas d’âge pour entreprendre, plus tôt tu commences, plus l’apprentissage de l’entrepreneuriat est probant. A la lumière de cette citation de Heremoana Puetini, j’ajoute opportunément que si vous voulez faire quelque chose, faites-le maintenant car il n'y a pas meilleur moment.
 
-Par ailleurs, il me tente de vous dire que deux sûretés valent mieux qu’une; sûretés.
-
-Je ne terminerai pas sans rappeler cet adage indien que vous connaissez très bien.
-
-Entre la pluralité de lièvres, la course ou même l'objectif poursuivi, il faut savoir prendre ses responsabilités.
+Par ailleurs, deux sûretés valent mieux qu’une et quand vous poursuivez dix lièvres à la fois, il faut savoir prendre des responsabilités.
 
 Voilà, j'espère avoir répondu à la question, n'hésitez pas à me dire.
 
