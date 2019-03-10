@@ -79,6 +79,7 @@ const BlogPost = ({ data }) => {
         urlphoto={post.frontmatter.urlphoto}
 
       />
+      	
     </Layout>
   )
 }

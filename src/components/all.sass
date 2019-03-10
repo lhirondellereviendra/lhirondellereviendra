@@ -53,8 +53,10 @@ body
   margin-top: 50px
   margin-bottom: 50px
   p
-    max-width: 600px
-    margin: auto
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+    margin-bottom: 30px;
 .aboutpart
   p
     width: 400px
@@ -80,6 +82,9 @@ body
 .navbar-item , .navbar, .title
   font-family: $fonttitle
   color: black 
+  
+.menu-mobile
+  display: none
   
 .navbar-item-trait
   font-size: 32px
@@ -112,34 +117,6 @@ body
 .margin-top-0
   margin-top: 0 !important
 
-@media only screen and (max-width:1072px)
-
-  #navMenu
-  position:fixed
-  top: 0
-  bottom: 0
-  left: 0
-  right: 0
-  z-index: 1000
-  font-size: 2.5rem
-  padding-top: 3rem
-  overflow: hidden
-  min-height: 100vh
-  
-  .form-contact
-    width: 70% !important
-    margin-left: 15% !important
-    margin-right: 15% !important
-  .video_course
-    width: 400px
-    height: 230px
-  .navbar-item-trait
-      display: none
-
-  body 
-    width: 100%
-    margin-left: 0 !important
-    margin-right: 0 !important
 
 .content .taglist
   list-style: none
@@ -172,5 +149,39 @@ body
 
 .margin-top-0
   margin-top: 0 !important
+
+@media only screen and (max-width:1072px)
+  .sociaux-barre
+    display: none !important 
+
+  .menu-mobile
+    display: flex
+
+  #navMenu
+    position:fixed
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+    z-index: 1000
+    font-size: 2.5rem
+    overflow: hidden
+  
+  .form-contact
+    width: 70% !important
+    margin-left: 15% !important
+    margin-right: 15% !important
+  .video_course
+    width: 400px
+    height: 230px
+  .navbar-item-trait
+      display: none
+
+  body 
+    width: 100%
+    margin-left: 0 !important
+    margin-right: 0 !important
+
+
 
 @import "~bulma"
