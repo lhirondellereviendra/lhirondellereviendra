@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: ETUDES ET ENTREPRENEURIAT
-urlphoto: 'blob:https://lhirondellereviendra.com/c5467d1f-3a8f-41da-b83e-31d5b2cedebb'
+urlphoto: >-
+  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/51710782_753581851679180_3500770655480053760_n.jpg
 date: 2019-03-02T10:19:40.760Z
 description: >
   Quand on est jeune étudiant, plein d’entrain et que l’on souhaite constamment
