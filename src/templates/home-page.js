@@ -42,14 +42,14 @@ export const HomePageTemplate = ({
         <section className=" section secteurdark has-text-centered is-medium" id="about">
             <h1 className="title titlewhite is-size-4-mobile"> {about.titre} </h1>
 
-            <div className="level article aboutpart">
-                  <div className="level-item">
-                    <img src={about.image} alt="FamilyCoach" />
+            <div className=" article aboutpart">
+                  <div className="">
+                    <img src={about.image} alt="image-accueil" />
                   </div>
 
-                  <div className="level-item">
+                  <div className="">
                     
-                    <p className="has-text-justified text is-size-5	is-size-6-mobile"><b className="is-size-4 is-size-5-mobile">Salut!</b> {about.description} </p>
+                    <p className="has-text-justified text is-size-5	is-size-6-mobile">{about.description} </p>
 
                   </div>
              </div> 
@@ -82,22 +82,22 @@ const HomePage = ({ data }) => {
         description={frontmatter.description}
         categoriehome={frontmatter.categoriehome}
       />
-      <section className=" section secteurdark has-text-centered is-medium" id="blog">
+      <section style={{marginBottom:"50px"}} className=" section secteurdark has-text-centered is-medium" id="blog">
         <h1 className="title titlewhite is-size-4-mobile"> MES DERNIERS articles </h1>
           <div className="tile is-ancestor"style={{marginTop:"50px"}}>
                         {
-                                      posts .map(({ node: post }) => (
-                                          <div className="tile is-4  is-parent">
-                                        <a className="has-text-primary" href={post.fields.slug}>
-                                              <div className="tile is-child box" key={post.id}>
-                                                  <figure>
-                                                      <img  className="imgpost"src={post.frontmatter.urlphoto}/>
-                                                  </figure>
-                                                  <p className="title is-size-4 is-size-5-mobile ">{post.frontmatter.title}</p>
-                                              </div>
-                                        </a>
-                                    </div>
-                                  ))
+                          posts .map(({ node: post }) => (
+                            <div className="tile is-4 is-parent posthome">
+                                <a className="has-text-primary" href={post.fields.slug}>
+                                      <div className="tile is-child box posthome" key={post.id}>
+                                          <figure>
+                                              <img  className="imgposthome"src={post.frontmatter.urlphoto}/>
+                                          </figure>
+                                          <p className="title is-size-4 is-size-5-mobile ">{post.frontmatter.title}</p>
+                                      </div>
+                                </a>
+                            </div>
+                          ))
                         }
           </div>
           <a class="button is-black button is-medium is-rounded" href="/blog">Voir plus d'articles >></a>

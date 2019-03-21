@@ -4,21 +4,23 @@
 // Config vars
 $fonttitle: "Chalkduster"
 $family-primary: "Montserrat"
-$black: #000000
+$black: black
 $white: #ffffff
 $primarycolor: #c6d2e2
 
 $grey-dark: $black
-$grey-light: $black
+$grey-light: $white
 $text: $black
 $text-strong: $black
 $primary: $black
 $link: $black
+$success: $primarycolor
 
 
 $size-1: 6rem
 $size-2: 4rem
 $size-3: 3rem
+
 
 
 .articleblog
@@ -31,7 +33,7 @@ $size-3: 3rem
   transition-delay: .3s
 
 .titlewhite
-  color: $white !important
+  color: #333333 !important
 
 body 
   width: 80%
@@ -41,7 +43,15 @@ body
 .imgpost2
   height: 300px
 .imgpost
-  height: auto
+  max-height: 500px
+  width: auto
+
+.imgposthome
+  height: 300px
+  width: auto
+
+.posthome
+  height: 404px
 
 .postbackground
   background-color: $primarycolor
@@ -59,13 +69,16 @@ body
     margin-bottom: 30px
 .aboutpart
   p
-    width: 400px
+    margin: auto
+    max-width: 800px
+    margin-bottom: 30px
+    margin-top: 50px
   img 
-    width: 500px
+    width: 600px
 
 .secteurdark
   background-color: $primarycolor
-  color: $white
+  color: #333333
   padding: 50px 
 .quote
   p
@@ -83,11 +96,14 @@ body
   font-family: $fonttitle
   color: black 
   
-
+.navbar-end
+  transition: all .5s ease
   
 .navbar-item-trait
   font-size: 32px
 
+.navbar
+  margin: auto
 
 
 .text-intro
@@ -150,8 +166,7 @@ body
   margin-top: 0 !important
 
 @media only screen and (max-width:1072px)
-  .sociaux-barre
-    display: none !important 
+
   
   .form-contact
     width: 70% !important

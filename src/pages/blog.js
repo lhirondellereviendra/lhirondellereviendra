@@ -25,11 +25,13 @@ class Blogpage extends Component{
                   <h1 className=" title is-size-4 is-bold-light">Catégories:</h1>
                   <ul className="taglist ">
                     {group.map(tag => (
-                      <li key={tag.fieldValue}>
-                        <a href={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                          {tag.fieldValue} ({tag.totalCount})
-                        </a>
-                      </li>
+                      <button className="button is-success" style={{marginRight:"10px",}}>
+                        <li key={tag.fieldValue}>
+                          <a style={{paddingLeft:"25px"}}href={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                            <b>{tag.fieldValue}</b> ({tag.totalCount})
+                          </a>
+                        </li>
+                      </button>
                     ))}
                   </ul>
                 </div>

@@ -9,7 +9,8 @@ const Footer = () => (
                     <a aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/"><h1 className="title titlewhite has-text-left is-size-5 ">@lhirondellereviendra </h1></a>
                     <div className="level" style={{marginTop: "40px"}}>
                             <script src="https://snapwidget.com/js/snapwidget.js"></script>
-                            <iframe src="https://snapwidget.com/embed/623987" className="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style={{border:"none", overflow:"hidden", width:"100%"}}></iframe>
+                            <iframe src="https://snapwidget.com/embed/623987" className="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style={{ border: "none",
+                             overflow: "hidden", width: "68%", margin: "auto", marginBottom:"18px", height: "auto"}}></iframe>
                     </div>  
                     
                     <nav className="navbar">
@@ -27,8 +28,9 @@ const Footer = () => (
 
             <footer className="footer">
                     <div className="content has-text-centered">
+                        <p> - Tous les droits sont réservés -</p>
                         <p>
-                        <strong>© L'hirondelle Reviendra</strong> par <a href="https://alexislepresle.com">alexislepresle.com</a> -Tous les droits sont réservés-
+                        <strong>© L'hirondelle Reviendra</strong> par <b><u><a href="https://alexislepresle.com">alexislepresle.com</a></u></b>
                         </p>
                     </div>
             </footer>
