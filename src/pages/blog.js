@@ -39,7 +39,7 @@ class Blogpage extends Component{
             </div>
           </section>
           <section className=" section secteurdark has-text-centered is-medium" id="blog">
-            <h1 className="title titlewhite is-size-4-mobile"> MON BLOG </h1>      
+            <h1 className="title titlewhite is-size-3-mobile"> MON BLOG </h1>      
 
                 <div className="tile is-ancestor is-vertical " >
 

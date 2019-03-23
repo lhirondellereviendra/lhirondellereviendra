@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'L hirondelle Reviendra',
+    title: 'Lhirondelle Reviendra',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -16,7 +16,6 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
         trackingId: "UA-130155672-1",
       },
     },
