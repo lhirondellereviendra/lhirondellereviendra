@@ -9,8 +9,8 @@ description: >-
   enthousiaste de pouvoir retourner dans le sud; ces quelques jours à Paris
   m'ont semblé une éternité; le ciel grisâtre du mois de février, le retour de
   la neige après tant d'années, la chasse aux métros; pire les nombreux retards
-  dus aux travaux d'innovation entrepris dernièrement...j'étais mal tombée cette
-  fois.
+  dus aux travaux d'innovations entrepris dernièrement...j'étais mal tombée
+  cette fois.
 tags:
   - Réflexions
 ---
@@ -44,11 +44,11 @@ Pourtant mon père, d'un air avertisseur, ne cessait de répéter que si cela ne
 
 ![null](/img/50163175_608596859589629_3750178242422636544_n.jpg)
 
- Le lendemain matin, j'ai payé soixante dix euros pour échanger mon fardeau avec le premier TGV qui nous transporta jusqu'à Montpellier. Aussitôt a t-il démarré, que je ne voulais plus y aller. 
+ Le lendemain matin, j'ai payé soixante dix euros pour échanger mon fardeau avec le premier TGV qui nous transporta jusqu'à Montpellier.  Aussitôt a t-il démarré, que je ne voulais plus y aller. 
 
 Je ne me rappelle pas de tout mais je revois une jeune fille, vêtue d'un "blue jean"plus ou moins serré, un pull violet colle v, et des ballerines blanches. Mes cheveux étaient tressés façon rasta, mi-long. J'étais petite de corps, très négligente, inoffensive avec des yeux ça et là pétillants d'incertitudes et de tristesse.
 
- Perdue dans cette voiture numéro six, je pleurais toutes les dix minutes, je ne pouvais m'en empêcher car cette phrase résonnait très fortement dans ma tête, c'était la dernière de mon père; mot pour mot :<voilà que tu pars étudier; les diplômes sont importants pour aller de l'avant dans ce monde mais ce qui compte encore plus, c'est ce dont tu as besoin pour évoluer dans la vie et qui te détermine réellement: ça c'est qui tu es, ta personnalité; ne change pas.>
+ Perdue dans cette voiture numéro six, je pleurais toutes les dix minutes, je ne pouvais m'en empêcher car cette phrase résonnait très fortement dans ma tête, c'était la dernière de mon père; mots pour mots :<voilà que tu pars étudier; les diplômes sont importants pour aller de l'avant dans ce monde mais ce qui compte encore plus, c'est ce dont tu as besoin pour évoluer dans la vie et qui te détermine réellement: ça c'est qui tu es, ta personnalité; ne change pas.>
 
  Ces trois derniers mots m'ont fait beaucoup de peine, je ne cessais d'y réfléchir. Comment changer de pays, de continent et ne pas changer moi-même ? De quel changement parlait-on il y a vingt quatre heures? Quoi qu'il en soit, j'avais fait une promesse.  Durant ce trajet, j'ai regardé ma montre plus de mille fois, j'espérais que le temps s'arrête mais rien n'y fit. Je voulais ouvrir les yeux pour me retrouver de façon abracadabrante à Cotonou.
 
@@ -72,6 +72,10 @@ D'aucuns ont pensé pareil après avoir reçu deux à trois sourires tout faux; 
 
  Rira t-on bientôt aux éclats? J'ai peur de ne plus pouvoir à force de trop presser les pas. 
 
- Déjà, les hauts et les plus bas, m'ont suggéré mille manières de me façonner mais j'ai longtemps résisté pensant à ma promesse.  Aujourd'hui, tant de changements; tout est remodelé sauf moi-même. .. 
+ Déjà, les hauts et les plus bas, m'ont suggéré mille manières de me façonner mais j'ai longtemps résisté pensant à ma promesse.  Aujourd'hui, tant de changements; tout est remodelé. .. 
 
-Ce soir, j'ai juste envie de dire: papa ta fille n'a pas changé; elle s'est juste adaptée.  Papa💙 ◦
+Ce soir, j'ai juste envie de dire: papa ta fille n'a pas changé; elle s'est juste adaptée.
+
+  Papa💙 
+
+A quand remonte votre plus long voyage?
