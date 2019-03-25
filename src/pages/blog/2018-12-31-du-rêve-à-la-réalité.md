@@ -17,7 +17,7 @@ tags:
 
 Mes mots, parfois je les étale partout pour ne pas qu'ils s'abîment; pour ne pas qu'ils me quittent. Aussi, je les croise souvent comme dans un jeu pour en faire des chants qui au besoin m'entraînent loin le jour et la nuit, me bercent.
 
-Si je dis milliardaire, ce serait pour achever l'œuvre du padre" et si je dis heureuse je réaliserais un des plus grands souhaits de la mama". Les deux peuvent aller de paire sauf que pour l'instant, je reste concentrée sur la signification de ce "grand" en temps et en opportunités.
+Si je dis milliardaire, ce serait pour achever l'œuvre du padre" et si je dis heureuse je réaliserais un des plus grands souhaits de maman. Les deux peuvent aller de paire sauf que pour l'instant, je reste concentrée sur la signification de ce "grand" en temps et en opportunités.
 
 **Être millionnaire une fois grand ou devenir grand seulement quand on est friqué: rêve et réalité.**
 
@@ -47,7 +47,7 @@ Et toi, un jour tu rêves de réaliser ton plus grand rêve... tu te vois entrai
 
 ![null](/img/50133399_1993203920988017_1022753106133254144_n.png)
 
-La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit- on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes.** Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.**
+La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit-on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes.** Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.**
 
 Moi je vais bientôt passer à l'action. Toi qui lis ceci, à quelle étape penses-tu être sur le chemin de l'endurance ? J'ai entendu dire qu'il n'y a meilleur moment que maintenant; surtout que la peur de commencer tard entraîne à Jamais.
 
