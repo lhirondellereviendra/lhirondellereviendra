@@ -37,7 +37,7 @@ D'où toutes nos rencontres secrètes!
 
 les meilleures se sont faites dans un endroit spécial dont je garde mille images. 
 
-a chaque fois c'était de douloureuses séparations; maman me cachait ses larmes et j’en faisais autant. Sans souffle, elle faisait un lourd départ pendant que moi étiolée, je m’efforçais de retourner à la case de départ.
+A chaque fois c'était de douloureuses séparations; maman me cachait ses larmes et j’en faisais autant. Sans souffle, elle faisait un lourd départ pendant que moi étiolée, je m’efforçais de retourner à la case de départ.
 
 Finalement, je rentrais bredouille puisqu'elle s’en allait avec tout et pour essayer d'aller mieux, je la rappelais aussitôt pour écouter sa voix, recherchant déjà son odeur. 
 
