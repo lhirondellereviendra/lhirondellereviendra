@@ -9,7 +9,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="L'hirondelle Reviendra" 
               meta={[
-                { name: 'description', content: 'Blog de voyage' },
+                { name: 'description', content: 'Le blog qui vous fait voyager au Bénin, en Afrique et bien plus. Lhirondelle reviendra, vivez vos rêves sans attendre.' },
                 { name: 'keywords', content: 'blog, travel' },
               ]}
     />
