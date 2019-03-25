@@ -4,7 +4,7 @@ title: TOUT PART D'UN RÊVE
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/50404241_220700202203563_7183997032137228288_n.jpg
 date: 2019-01-01T08:57:21.467Z
-description: "Pendant que le printemps fait son petit chemin, un planning montagneux se dresse sur le mien. Paniquer ou garder la pêche, il faudra choisir au plus vite.\PDepuis quelques jours le temps s'est rajeuni, moins frais le vent qui souffle, le soleil luit avec plus de précisions et les journées se rallongent pour le bonheur de tous. Un nouvel atmosphère comme pour nous dire qu'on a assez dormi."
+description: "Pendant que le printemps fait son petit chemin, un planning montagneux se dresse sur le mien. Paniquer ou garder la pêche, il faudra choisir au plus vite. \PDepuis quelques jours le temps s'est rajeuni, moins frais le vent qui souffle, le soleil luit avec plus de précisions et les journées se rallongent pour le bonheur de tous. Un nouvel atmosphère comme pour nous dire qu'on a assez dormi."
 tags:
   - Réflexions
 ---
@@ -32,4 +32,8 @@ J'ai une pensée pour un grand homme; il tenait tant à voir une Afrique du Sud 
 
 ** Par ailleurs, le rêve est un stimulant sans lequel tout est au ralenti. Il est le carburant qui procurera l'énergie nécessaire pour arborer ce continent; **puisqu'il pousse l'homme à l'effort et fait naître l'amour du travail, puisqu'on ferait tout pour retrouver une Afrique nouvelle et victorieuse, puisque moi je donnerais tant pour vivre ce coucher du soleil afro futuriste; vous l'auriez vu; très pur, sans poids ni peine; dans mon rêve, il est meilleur que celui du Wakanda. 
 
-**Si rêver rêver c'est gagné, il apparaît que celui qui rêve prie inconsciemment et si travailler c'est prié doublement alors que nous reste t-il à faire ? L'effort accompagne nos rêves pour une vie plus utile.**  À suivre...
+**Si rêver rêver c'est gagné, il apparaît que celui qui rêve prie inconsciemment et si travailler c'est prié doublement alors que nous reste t-il à faire ?**
+
+** L'effort accompagne nos rêves pour une vie plus utile.**
+
+  À suivre...
