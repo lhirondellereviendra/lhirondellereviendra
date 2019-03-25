@@ -6,18 +6,16 @@ urlphoto: >-
 date: 2019-01-18T22:05:09.878Z
 description: >-
   Je voyage à travers le monde tantôt fuyant la guerre et la précarité tantôt
-  renonçant au stress, les discriminations et l’anxiété.  Je n’ai pas mesuré le
-  côté obscur de cette aventure, tellement les miens m’avaient déçue.Qu’est-ce
-  qui aurait pu me secouer?Ni le froid ni les hautes vagues et même les menaces
-  de mort ne m’ont fait rebrousser chemin. 
+  renonçant au stress, les discriminations et l’anxiété. Je n’ai pas mesuré le
+  côté obscur de cette aventure, tellement les miens m’avaient déçue. Qu’est-ce
+  qui aurait pu me secouer? ni le froid, ni les hautes vagues et même les
+  menaces de mort ne m’ont fait rebrousser chemin. 
 tags:
   - Réflexions
 ---
 ![null](/img/50234184_2241977532745744_756286982832783360_n.jpg)
 
-
-
-C’est dommage de devoir quitter le bercail de cette manière. C’est fatal toutes ces âmes englouties au fond de la mer Méditerranée. 
+C’est dommage de devoir quitter le bercail de cette manière. C’est fatal toutes les âmes englouties au fond de la mer Méditerranée. 
 
 Nous avions fui les dettes et la misère, perdu nos richesses de premières nécessités. C’est injuste qu’elles profitent seulement à une minorité et au reste du monde.
 
@@ -37,4 +35,4 @@ Le continent lumière, celle méjugée par une partie du monde, celle dont ils p
 
 J’ai bouclé ma valise.
 
-Je vais faire un grand tour pour trouver de quoi crier futiles, les nombreuses raisons qui poussent à fuir le seul endroit sur terre encore comparable à un paradis
+Je vais faire un grand tour pour trouver de quoi crier futiles, les nombreuses raisons qui poussent à fuir le seul endroit sur terre encore comparable à un paradis.
