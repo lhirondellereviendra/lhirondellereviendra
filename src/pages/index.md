@@ -39,8 +39,6 @@ about:
     Je ne sais du jour au lendemain, ni plaire, ni paraître car authentique,
     authentique; je suis immense.
 
-    Appelle moi Elisabeth ou Bijou et je te répondrai suivant ton choix.
-
 
 
      
