@@ -14,13 +14,13 @@ tags:
 
 Arrives-tu à concilier ton blog et tes études? Quelles sont les difficultés que tu rencontres? Sinon quels sont les conseils que tu peux donner? Voilà les questions récurrentes.
 
-Vue mon grand intérêt pour l'entrepreneuriat,  j’avoue,  j’ai moi-même cogité assez souvent.
+Vu mon grand intérêt pour l'entrepreneuriat,  j’avoue,  j’ai moi-même cogité assez souvent.
 
 ## IL Y A T- IL VRAIMENT UN RISQUE?
 
 Déjà vous savez sûrement que les études universitaires demandent beaucoup trop de concentration et d’assiduité. C'est clair que ce n'est pas rien d’assister aux cours du matin au soir tous les jours ouvrables durant neuf mois (...).
 
-Quant à l’entrepreneuriat est plus technique et touche à plus de pratiques avec les mêmes finalités que les études qui se résument en: générer des intérêts /s’assurer un avenir meilleur, avec l’avantage que son résultat peut être plus ou moins concret et immédiat.
+Quant à l’entrepreneuriat, ça touche à plus de pratiques avec les mêmes finalités que les études qui se résument en: générer des intérêts /s’assurer un avenir meilleur. L’avantage est que son résultat peut être plus ou moins concret et immédiat.
 
 **S’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
 
@@ -30,7 +30,7 @@ C’est tout un processus qui nécessite du temps, de l’énergie ainsi que d�
 
 En outre, après cette phase qui consiste à recadrer son idée, rédiger un business plan, faire une étude de marché, trouver un financement, choisir la forme juridique qui conviendrait à l’activité, vient la seconde; la plus contraignante : la vie de l’entreprise ( les publications et la gestion...).
 
-Voilà pourquoi vouloir être chef d’entreprise et étudiant en même temps, moi je dis tout simplement prudence prudence et beaucoup de rigueur pour ne pas vite abandonner l’un au profit de l’autre.** **
+Voilà pourquoi vouloir être chef d’entreprise et étudiant en même temps, moi je dis tout simplement prudence prudence et beaucoup de rigueur pour ne pas vite abandonner l’un au profit de l’autre.\*\* \*\*
 
 **Le risque majeur selon moi serait de rater les deux.**
 
@@ -54,19 +54,18 @@ C’est comme cela que certains accomplissent de grandes œuvres parallèlement 
 
 Ici  je voudrais faire observer que si tu as la possibilité d’entreprendre dans le même domaine que ta formation universitaire, c’est tout bénéfique pour toi.
 
-Tenir une petite boutique en ligne quand on est dans une école de commerce, gérer sa petite ferme parallèlement à ses études en agronomie, assurer un blog de voyage, pour un étudiant en journalisme digital etc.
-.
+Par exemple, tenir une petite boutique en ligne quand on est dans une école de commerce, gérer sa petite ferme parallèlement à ses études en agronomie, assurer un blog de voyage, pour un étudiant en journalisme digital etc.
 
 ![null](/img/50063329_224832085071820_1200079369343598592_n.jpg)
 
 Vous convenez avec moi que dans ces cas, l’étudiant ne sort pas totalement du cadre universitaire; il vit la pratique de ce qu’il étudie et ça lui permet de s’exercer, de se perfectionner et de faire un pas plus que ses camarades. 
 
-**Mais plus encore nous pouvons nous pencher sur le fait que entreprendre, exige certaines qualités et aptitudes.
+**Mais plus encore nous pouvons nous pencher sur le fait qu'entreprendre permet de développer certaines qualités et aptitudes.
 **
 
 En l’occurrence, être bien organisé, prendre des décisions rapidement, savoir gérer le stress et son temps, collaborer avec d’autres personnes, mieux écouter, donner des directives sont autant d’atouts et de compétences dont le développement aide certainement dans la gestion de la vie quotidienne pour ne pas dire estudiantine. 
 
-##  COMMENT ÇA FONCTIONNE ?
+## COMMENT ÇA FONCTIONNE ?
 
 Commence par te poser certaines questions fondamentales.
 
@@ -74,7 +73,11 @@ Commence par te poser certaines questions fondamentales.
 
 Et si tu as la réponse, il faut **ensuite penser à la gestion du temps** comme par exemple quitter le mode automatique c'est à dire planifier, tout planifier.
 
-Le parfait exemple que je puisse donner c'est internet en particulier les réseaux sociaux. Il faudra les utiliser et non le contraire c’est à dire en faire un outils d’informations et de divertissement et non une jungle dans laquelle tu te perds.  Déconnecte toi en semaine par exemple pour être mieux concentré puis revenir au business le week-end.
+Ce qui déconcentre le plus en ce moment c'est internet pour ne pas dire les réseaux sociaux. Il faudra les utiliser et non le contraire c’est à dire en faire un outils d’informations et de divertissement et non une jungle dans laquelle tu te perds.
+
+Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela. Plusieurs font cette erreur de passer plus de temps sur les réseaux à faire de la pub pour un produit: service qui n'existe même pas encore.  
+
+
 
 **Enfin, il faut entraîner son mental;** être fort sinon en cas d’échecs dans l’entreprise cela peut avoir des répercussions sur les études et vise versa.
 
@@ -91,8 +94,10 @@ En tout état de cause, l’entrepreneuriat est un domaine intéressant, à expl
 
 Il n’y a pas d’âge pour entreprendre, plus tôt tu commences, plus l’apprentissage de l’entrepreneuriat est probant. A la lumière de cette affirmation de Heremoana Puetini, j’ajoute opportunément que si vous voulez faire quelque chose, faites-le maintenant car il n'y a pas meilleur moment.
 
-Par ailleurs, deux sûretés valent mieux qu’une seulement lorsque vous poursuivez dix lièvres à la fois, il faut savoir prendre des responsabilités.
+Par ailleurs, deux sûretés valent mieux qu’une mais n'oubliez pas que quand on poursuit dix lièvres à la fois, c'est qu'on sait  prendre des responsabilités...
 
-Voilà, en espérant vous avoir fourni des éléments de réponse, 
+Voilà!
 
-je vous embrasse.
+En espérant vous avoir fourni des éléments de réponses, 
+
+entrepreneurialement,
