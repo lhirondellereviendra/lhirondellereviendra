@@ -37,7 +37,7 @@ about:
 
 
     Je ne sais du jour au lendemain, ni plaire, ni paraître car authentique,
-    authentique; je suis immense.
+    authentique; je m'appelle Elisabeth.
 
 
 
