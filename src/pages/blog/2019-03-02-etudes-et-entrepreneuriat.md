@@ -22,7 +22,7 @@ Déjà vous savez sûrement que les études universitaires demandent beaucoup tr
 
 Quant à l’entrepreneuriat, ça touche à plus de pratiques avec les mêmes finalités que les études qui se résument en: générer des intérêts /s’assurer un avenir meilleur. L’avantage est que son résultat peut être plus ou moins concret et immédiat.
 
-**S’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
+**Ainsi, s’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
 
 Ainsi cette belle combinaison présente des risques. Déjà parce que le domaine entrepreneurial exige beaucoup d’efforts et de fidélité tout comme les études. **A** **l’évidence, l'on ne peut passer d’une idée simple à une entreprise toute faite de façon abrégée**. 
 
@@ -77,8 +77,6 @@ Ce qui déconcentre le plus en ce moment c'est internet pour ne pas dire les ré
 
 Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela. Plusieurs font cette erreur de passer plus de temps sur les réseaux à faire de la pub pour un produit: service qui n'existe même pas encore.  
 
-
-
 **Enfin, il faut entraîner son mental;** être fort sinon en cas d’échecs dans l’entreprise cela peut avoir des répercussions sur les études et vise versa.
 
 Et si c’est l’entreprise qui marche au détriment des études, cela peut créer une envie d’abandonner les cours ce qui n’est peut-être pas une bonne idée. 
@@ -98,6 +96,6 @@ Par ailleurs, deux sûretés valent mieux qu’une mais n'oubliez pas que quand 
 
 Voilà!
 
-En espérant vous avoir fourni des éléments de réponses, 
+En espérant vous avoir fourni des éléments de réponses, je vous embrasse.
 
-entrepreneurialement,
+Entrepreneurialement,
