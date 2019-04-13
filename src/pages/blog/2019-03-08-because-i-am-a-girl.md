@@ -12,7 +12,7 @@ description: >-
   Depuis l'Afrique jusqu'en en Europe, entre les études de droit et mes défis
   quotidiens:les voyages, ma véritable ressource(...).
 tags:
-  - vie
+  - Vie
 ---
 ## 
 
