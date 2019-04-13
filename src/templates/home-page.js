@@ -6,11 +6,6 @@ import Layout from '../components/Layout'
 import CategorieHome from '../components/CategorieHome'
 import Footer from '../components/Footer.js'
 
-//import Features from '../components/Features'
-//import Testimonials from '../components/Testimonials'
-//import Pricing from '../components/Pricing'
-//import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-
 
 export const HomePageTemplate = ({
   image,
