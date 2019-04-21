@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: G I R L P O W E R
+title: GIRL. P O W E R
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/design-sans-titre.png
 date: 2019-03-08T19:58:22.094Z
