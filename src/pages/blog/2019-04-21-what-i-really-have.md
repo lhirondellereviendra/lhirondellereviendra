@@ -1,35 +1,27 @@
 ---
 templateKey: blog-post
-title: 'What i really have '
+title: 'MA RÉVOLUTION '
 urlphoto: 'blob:https://lhirondellereviendra.com/2e679021-3d6b-4212-a602-89a5a14485b7'
 date: 2019-04-21T16:14:17.774Z
-description: 'Sur ma route '
+description: >-
+  J’ai fouillé très vite recherchant des modèles dont le parcours pouvait me
+  donner la dose de motivation nécessaire pour braiser mes grands rêves.
 tags:
   - Réflexions
 ---
-![null](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
-
-Vous connaissez bien cette situation où vos parents, avant même que vous naissiez, prennent la liberté de décider de votre futur métier. 
-
-Tu seras médecin, avait déclaré mon père.
-
-Sans blague !  j’aimais beaucoup trop les langues pour accepter cela.
-
-Je savais donc que je devais faire une proposition équivalente à celle là pour pouvoir m’en sortir comme astronaute, avocate ou pilote ce que j’ai fait.
-
-Et pourtant, au fond, je voulais être interprète ou journaliste mais je voulais sûr être Marie Élise Gbedo.
-
- C’est le compromis qui m’a orientée vers le droit et ainsi j’ai accepté d’apprendre à devenir avocate.
-
-J’a fouillé en recherchant d’autres modèles dont le parcours pouvait me donner la dose de motivation nécessaire pour  braiser ce désir. 
-
- C’est ainsi que sur les curriculums, je lisais Université de Sorbonne, paris 13, Bordeaux, Lyon, Liège, Petersbourg et que sais- je d’autres? 
-
-Une chose est sûr c’était un rêve éveillé et pour moi, il était impossible de savoir si c’était un bon ou un mauvais.
+Sur les curriculums, je pouvais lire Université de Sorbonne, paris 13, Bordeaux, Lyon, Liège, Petersbourg etc.
 
 Parfois tout porte à croire que quand on a pas un diplôme européen ou étranger on ne peut pas être nommé à un grand poste de responsabilité dans les pays africains.
 
-À qui la faute? 
+Alors que bien souvent, dans certaines familles, avant même la naissance d’un enfant, ses parents peuvent déjà décider de son futur métier. 
+
+Sans blague ! c’est mon cas et celui de plusieurs autres amis. Mon père voulait que je sois médecin. 
+
+Au fond, je rêvais de devenir interprète ou journaliste. mais j’etais vraiment faxinée par la beauté et la carrière de maître Marie Elise Gbêdo au point où parfois je rêvais de porter sa toge. 
+
+ Après le Baccalauréat, je m’orientais ainsi vers le droit epour apprendre à devenir une célèbre avocate.
+
+
 
 Sur ce chemin pour devenir l’éminent juriste, j’ai appris à bloguer, à échouer, à être humiliée et rejetée, j’ai appris à me contenter, à lutter, à tomber ,guérir et me relever, la patience, la pression,  j’ai vaincu l’impulsivité.Et pour moi, c’est ce que j’ai pu avoir  de meilleur dans la vie . Car tenez vous bien, certes 
 
