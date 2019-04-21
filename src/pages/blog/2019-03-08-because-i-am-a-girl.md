@@ -17,35 +17,35 @@ tags:
 ---
 ## 
 
-Quelques années en arrière, je pensais pour la première fois à comment tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir comme ces filles parfaitement astucieuses, stratèges voir plus plus.
+Quelques années plus tôt , je pensais pour la première fois à quoi faire pour tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir une autre personne; une demoiselle parfaitement astucieuse, stratège voir plus.
 
-Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste, la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
+Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste; la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
 
-C'est aussi pour cela que j’ai décidé de partir à l'aventure.
+Puis j’ai dit oui à l'aventure.
 
-En ce moment même, dynamique, très dynamique et auto disciplinée; aura t-on eu le choix?
+En ce moment même où j’écris ces mots, dynamique,oui. Très dynamique et auto disciplinée; ai-je eu d’autres choix?
 
-Pour ce qui est du reste, je regarde dans cette glace ce matin et un seul mot me porte: qu’importe, qu’importe alors.
+Mais pour ce qui est du reste, je regarde ce matin, dans cette glace en face de moi même et un seul mot me vient à l’esprit: qu’importe, qu’importe alors.
 
-Et ma voix résonne, comme rayonne ma plume, toujours plus fortement je pus m’ent dire: qu’importe, q’uimporte que je ne sache pas faire autrement.
+Et je murmure, qu’importe. Quand ma voix porte, tout comme rayonne ma plume, je pus m’entendre dire: qu’importe, q’uimporte que je ne sache pas faire autrement.
 
-Je suis gentille même sans forcer sur les obligeances.
+Je suis gentille sans forcer sur les obligeances.
 
-Je suis toujours gentille quand  j’abandonne les compromis.
+Je suis gentille même quand  j’abandonne les compromis.
 
-Je suis gentille et la sincérité m’a sauvée ; j’ai gagné la guerre.
+Je suis toujours quand pourtant je suis sincère; j’ai gagné la guerre.
 
-Je suis fière de la personne que je deviens: une jeune femme belle, intelligente, POSEY: une vraie D I V A.
+Je suis fière de la personne que je deviens: une jeune femme belle, intelligente, POSEY: une vraie DI VA.
 
 # Petite créature que j’aie jamais vue,
 
-Saches que tu es la plus belle et la plus forte. Ici la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+Saches que tu es la plus belle et la plus forte. Ici tu peux voir que la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
-N’opte jamais pour ces compromis là, tâches toi de mener des combats.
+N’opte pas souvent pour les compromis, tâches toi de mener des combats.
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde.
 
- Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerai avant l'aurore.
+ Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore.
  Et s'il le faut, j'irai au delà des mots.
 
 Un geste, 
@@ -58,14 +58,15 @@ avec candeur,
 
 sans surplus ni quantité suffisante 
 
-comme le faisait ta grand-mère: on se comprenait.
+comme le faisait ta grand-mère: on se comprenait si bien.
 
 ![null](/img/design-sans-titre.png)
 
-**Il faut dire que j’ai beaucoup de chance de l’avoir. Aucune complication avec cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille, tenace**.
+**Il faut dire que j’aie beaucoup de chance de l’avoir. **
 
- Pourra t- on un jour ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux?
- non: « Kabdati », mon foi, mon enfant, je te veux pour construire des voies, je te veux instruite et réfléchie.
+**Sincèrement, je ne vois aucune complication chez cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille, tenace**.
+
+ Peut t-on ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux? non: « Kabdati », mon foi, mon enfant, je te veux pour construire des voies, je te veux instruite et réfléchie.
 
 Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions égrainer de longs chapelets, toi, pour invoquer les esprits et moi, pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
@@ -78,17 +79,13 @@ Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes p
 
 # 
 
-**Etre éducatrice est plus qu'un métier et être mère représente une double mission. Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
+**Si être éducatrice est plus qu'un métier, être mère représente un sacerdoce. Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
 
 Indéniablement, elles sont la lumière et toutes ces petites représentent l’avenir.
- Femme forte, fille équilibrée, femmes averties, filles mieux éduquées. 
+ Femmes fortes, filles équilibrées, femmes averties, filles mieux éduquées. 
 
-**_
-L’éducation est notre passeport pour l’avenir_** et clairement l'école a illuminé ma vie c'est donc cette chance que vous souhaite à toutes car sur de telles pierres que nous rebâtirons le monde.
-
-Posez les vôtres quelques soient leurs modèles.
-
-Posons les nôtres maintenant pour qu’elles tiennent toute la vie.
+_**
+L’éducation est notre passeport pour l’avenir et **_clairement l'école a illuminé ma vie. _**Sur de telles pierres, nous rebâtirons le monde. **_Posez les vôtres quelques soient leurs modèles. Posons les nôtres maintenant pour qu’elles tiennent toute la vie.
 
 Et tout ça heureusement mon père me l'a dit...
 
