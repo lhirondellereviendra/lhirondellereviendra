@@ -7,9 +7,21 @@ description: 'Sur ma route '
 tags:
   - Réflexions
 ---
-![](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
+![null](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
 
-J’ai raconté des histoires, jai comme certaines parties, j’ai supprimé d’autres, j’ai reeecrit. 
+Sur ma route de devenir l’éminent juriste, j’ai appris à bloguer, à échouer, à être humiliée et rejetée, j’ai appris à me contenter, à lutter, à tomber ,guérir et me relever, la patience, la pression,  j’ai vaincu l’impulsivité.Et pour moi, c’est ce que j’ai pu avoir  de meilleur dans la vie . Car tenez vous bien, certes 
+
+Aujourd’hui, je suis majoré de promo, mais avant j’ai été majoré des erreurs et demain j’aurai mon diplôme de notaire,
+
+Mais si un jour, tout change, il me
+
+ restera la persévérance.
+
+Je suis une guerrière, une amozone. Je n’ai peur de rien. Je ne redoute rien du tout 
+
+Et même vos avis, je m’en passe. 
+
+et même si je ne le deviens pas notaire, je serai cette juriste d’affaires qui n’avait jamais existé. J’ai raconté des histoires, jai comme certaines parties, j’ai supprimé d’autres, j’ai reeecrit. 
 
 En observant les musées, j’ai compris que tous les objets exposés ont mérité leur place parce qu’ils possèdent une histoire. Plus elle est intéressante, plus elle attirera de monde et par conséquent pourra générer plus de revenus.
 
