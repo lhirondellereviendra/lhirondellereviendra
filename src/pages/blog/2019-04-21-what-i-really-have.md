@@ -4,62 +4,57 @@ title: 'MA RÉVOLUTION '
 urlphoto: 'blob:https://lhirondellereviendra.com/2e679021-3d6b-4212-a602-89a5a14485b7'
 date: 2019-04-21T16:14:17.774Z
 description: >-
-  J’ai fouillé très vite recherchant des modèles dont le parcours pouvait me
-  donner la dose de motivation nécessaire pour braiser mes ambitions déjà très
-  grandes.
+  De l’insomnie, trois nuit d’affilée.
+
+  C’est plus qu’évident, j’avais besoin d’un mentor où tout au moins un modèle.
+
+  Quelq’un dont le parcours pouvait me redonner la dose de motivation nécessaire
+  pour braiser et surtout recarder mes ambitions déjà très vaste.
 tags:
   - Réflexions
 ---
-Sur les curriculums, je pouvais lire Université de Sorbonne, paris 13, Bordeaux, Lyon, Liège, Petersbourg etc.
+Alors je me mettais à fouiller sur le net, les week-ends.
 
-Parfois tout porte à croire que quand on a pas un diplôme européen ou étranger on ne peut pas être nommé à un grand poste de responsabilité dans les pays africains.
+Sorbonne, Bordeaux, Lyon, Liège, Petersbourg etc. C’est ce que je lisais sur les C.v.
 
-De même, bien souvent, dans certaines familles, avant même la naissance d’un enfant, ses parents peuvent déjà décider de son futur métier.
+Tout portait à croire que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains.
 
-Sans blague ! 
+Mon père voulait que je fasse la médecine. Sans blague! j’aimais trop les langues pour consacrer ma vie entière à faire des études de biologie.
 
-Mon père voulait que je fasse la médecine.
+Surtout que  je rêvais parfois de devenir interprète ou journaliste.
 
-Moi j’aimais trop les langues pour me consacrer à la biologie.
+Par ailleurs, je me souviens que j’étais vraiment faxinée aussi bien par la beauté que par la carrière de maître Marie Elise Gbêdo (...).
 
-À cette époque je rêvais de devenir interprète ou journaliste.
+ Après le Baccalauréat, je vais alors m’orienter vers le droit pour apprendre à devenir une célèbre avocate. De 2012 à ce jour, j’ai appris, j’ai beaucoup appris surtout que je ne voulais pas du tout faire ce métier,  je me suis désistée comme pour beaucoup d’autres.
 
-Par ailleurs, je me souviens que j’étais vraiment faxinée aussi bien par la beauté que par la carrière de maître Marie Elise Gbêdo.
+Le fait est que j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, Angélique Kidjo, l’autre diva de la chanson africaine, oprah Winfrey, elle le fait si bien ces interviews. Obama Michelle, celle qui me fait revasser; la meilleure de toutes les premières dames. 
 
- Après le Baccalauréat, je vais alors m’orienter vers le droit pour apprendre à devenir une célèbre avocate.
+Puis Fatou DIOME; il y a quelque chose entre vos lignes qui calme mon âme. Si je vous avais connue avant, je me serais inscrite sans hésiter à la faculté de lettres pour devenir cette célèbre écrivaine béninoise.
 
-Au fils du temps, j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, oprah Winfrey, Obama Michelle qui me fait rêver du poste de première dame. 
+Dans ce schéma, j’ai souvent eu envie de me réorienter, parfois j’ai pensé tout arrêter mais ce que je n’ai jamais fait encore :c’est abandonner. 
 
-La dernière c’est Fatou DIOME. Il y a quelque chose dans les lignes de cette femme qui calme mon âme. Si je l’avais connue avant, j’aurais fait les lettres modernes pour devenir une célèbre écrivaine.
+Le plus intéressant, c’est que sur ce chemin de mon devenir, il n’y a qu’une seule place disponible ; une seule personne que je peux bien devenir: Elisabeth AHOTON. L’originalité de toutes les autres existe déjà et sont prises.
 
-Entre temps, j’ai laissé tomber mon rêve de devenir avocate, parfois j’ai voulu me réorienter, d’autres fois j’ai pensé tout arrêter mais ce que je n’ai jamais fait encore :c’est abandonner. 
+J’ai compris que je dois parfaire celle que j’étais avant pour donner la meilleure version de moi. Que la vie étire fille qui change d’avis comme de montres, qui rêvent sans mesure, doit devenir Elisabeth AHOTON.
 
-Le plus intéressant, c’est que sur ce chemin pour devenir, je me suis rendue compte que je ne peux devenir qu’une seule femme ; c’est Elisabeth AHOTON. Toutes les autres sont déjà.
+Sur ce chemin, je me suis confrontée avec Bijou la très gentille, la sœur Elisabeth, bijoulisa, la blogo juriste ect .
 
-J’ai compris que je dois parfaire celle que j’étais avant pour donner la meilleure version de moi. Elisabeth AHOTON allias bijoulisa, la blogueuse oui sur mon chemin j’ai appris à bloguer.
+Mais connu le chagrin après que le rejet m’ait assassinée. J’ai dû apprendre à lutter, tomber, me contenter, réfléchir, guérir pour me relever.
 
-J’ai été rejetée aussi et j’ai appris à lutter, même à tomber, me contenter, à réfléchir, guérir pour me relever.
+J’ai vaincu la pression et l’impulsivité, j’ai apprivoisé la patience,  j’ai affiché ce sourire, j’ai appris à rire, à gorge déployée puis j’ai raconté des histoires, les mêmes dont j’ai gommé certaines parties, j’ai douté et supprimé des paragraphes, mais j’ai réecrit sans cesse, sans honte.
 
-J’ai vaincu la pression et l’impulsivité, j’ai gagné la patience,  j’ai affiché ce sourire, j’ai appris à rire, à gorge déployée. J’ai raconté des histoires, jai gommé certaines parties, j’ai supprimé des paragraphes, j’ai réecrit carrément.
+Pour devenir, la guerrière, l’amazone, qui ne redoute rien.
 
-Une guerrière, l’amazone, je ne redoute rien, je ne recule devant quoi que ce soit.
+Si aujourd’hui, j’excelle, c’est que hier j’ai été majore de la paresse, j’ai entassé des erreurs et de même, si demain, la vie me reprends mes crédits, il me restera la persévérance.  ce que j’aie de plus cher.
 
-Et si aujourd’hui, je suis majore de promo, c’est que avant j’ai été majore des erreurs et même si demain, tout change, il me restera la persévérance et ça, c’est ce que j’aie de plus cher.
+Qu’importe si demain je ne deviens pas notaire, j’ai la capacité d’etre cette juriste d’affaires qui n’avait jamais existé avant. J’ai la patience qu’il faut pour tout recommencer, j’ai la force nécessaire, le pouvoir de changer; changer de carrière, cette journaliste là, une danseuse, je peux écrire ce best-seller ou faire du commerce mais au delà de tout ceci, j’ai le coeur ouvert. C’est un privilège! Viens dans mon musée, viens te ressourcer.
 
-Qu’importe si demain je ne deviens pas notaire, j’ai la capacité d’etre cette juriste d’affaires qui n’avait jamais existé avant. J’ai la patience qu’il faut pour tout recommencer, j’ai la force nécessaire, le pouvoir de changer; changer de carrière, cette journaliste là, une chanteuse, je peux écrire ce best-seller ou faire du commerce mais au delà de tout ceci, j’ai le coeur ouvert. C’est un privilège! Viens dans mon musée, viens te ressourcer.
+Ici chaque objet exposé possède une histoire. 
 
-Ici chaque objet exposé a mérité sa place, ils possèdent tous une histoire. Plus elle est intéressante, plus elle attirera du monde et par conséquent pourra générer plus de revenus.
+Le jour où  je souffrais plus, le soir mon calepin essuyait plus de mine. J’ai noté des regrets, des doutes et des déceptions mais jamais l’abandon.
 
-Certaines sont constructives, comme dans tous les grands musées du monde. la victoire de samoyrace, la vierge voilée et d’autres sont amères la venuse noir T. Baartman. 
+Beaucoup de joie, satisfaction, la victoire comme Sarmothrace; la délicatesse, la virtuosité de ... mais aussi la maladresse, l’amèretume, des crimes, Baartman, la Venise noir. Ici il y a un peu de tout.
 
-Et vous? Quelle est votre histoire ? 
+Alors vous, parlez moi de vos regrets et de vos excès; ce qui compte vraiment c’est ce que vous décidez de bâtir avec.
 
-quelque soit ce que vous traversez en ce moment, quelque soit ce que vous avez bâti jusqu’ici, vos regrets et vos excès, ce qui compte vraiment c’est ce que vous décidez d’en faire c’est à dire la suite 
-
-J’ai voulu que la mienne éclaire celles de milliers d’autres personnes, si tu veux inspirer quelqu’un un jour, relève toi maintenant et pense à comment raconter la suite.
-
-Moi j’ai décidé de travailler la suite de mon histoire.
-
-Or course i fall in love with myself
-
-What about you dear ?
+J’ai voulu que les miennes éclairent celles de milliers d’autres personnes et depuis lors, la seule chose à laquelle je pense c’est comment travailler la suite pour que le récit soit applaudi.
