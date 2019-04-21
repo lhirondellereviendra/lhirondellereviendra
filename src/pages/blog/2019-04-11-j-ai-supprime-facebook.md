@@ -10,16 +10,22 @@ description: >-
   Ma mère inscrivait sur un papier, un certain nombre d’articles à acheter; moi,
   à peine huit ans, j’apprenais ainsi à faire des courses.
 
-  Flexible !
+  Flexible! car je pouvais manager cette liste à ma convenance.
 
-  J’av La possibilité de manager cette liste à ma convenance mais je n’étais pas
-  autorisée à acheter de l’huile à la place du pétrole.
+  Cela ne m’aurorisait pas pour autant à acheter de l’huile à la place du
+  pétrole.
 
-  Ce matin je me suis rendue à Monoprix; avoir fait le tour du magasin, je me
-  suis demandée ce que je faisais sur les lieux. Je ne savais pas quoi acheter.
-  Il m’arrive souvent de débarquer ainsi dans ces grandes surfaces, au détour
-  d’une balade. Sur place, je peux me permettre deux baguettes juste pour leur
-  odeur sans prendre le temps de compter les trois que j’aie déjà au frigo.
+  Depuis, des années ne cessent de passer.
+
+  Ce matin je me suis rendue à Monoprix.
+
+  Après avoir fait le tour du magasin, je me posais la question de savoir ce que
+  je faisais sur les lieux. 
+
+  Je ne savais pas quoi acheter. Il m’arrive souvent de débarquer ainsi dans ces
+  grandes surfaces, au détour d’une balade, où  je peux me permettre deux
+  baguettes juste pour leur odeur sans prendre le temps de compter les trois que
+  j’aie déjà au frigo.
 
   Un nouveau gel de douche, ouais l’autre fini bientôt. Du soda, ils sont en
   promo, à vrau l’eau les résolutions, du steak, du steak, du saumon, des
