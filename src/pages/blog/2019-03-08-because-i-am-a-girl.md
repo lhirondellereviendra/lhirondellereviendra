@@ -10,20 +10,22 @@ description: >-
   deux, dix, vingt ans, puis à qui j’étais il y’a cinq ans. 
 
 
-  Depuis l'Afrique jusqu'en en Europe, entre les études de droit et mes défis
-  quotidiens:les voyages, ma véritable ressource(...).
+  De l’Afrique jusqu'en en Europe, entre les études de droit et mes défis
+  quotidiens: les voyages, ma véritable ressource(...).
 tags:
   - Vie
 ---
 ## 
 
-Quelques années en arrière, je pensais à comment tuer mon excès de gentillesse; je sentais pour la première fois, au plus profond de mon être, le besoin de devenir comme ces filles parfaitement astucieuses, stratèges ou rusées.
+Quelques années en arrière, je pensais pour la première à comment tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir comme ces filles parfaitement astucieuses, stratèges.
 
 Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste, la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
 
 C'est ainsi que j'ai pris mes cliques et claques pour tenter l'aventure.
 
 Que puis-je dire ce matin? si non que le dynamisme, oui ; ai-je eu le choix? mais tout le reste, mon bilan n'est pas positif.
+
+Qu’importe ! mais qu’importe.
 
 Quand même, je suis fière de la personne que je deviens: une jeune femme belle, intelligente et posée qui a envie de dire à quelqu'un que ici, la loyauté sexiste est en crise; abus par dessus abus. 
 
@@ -64,8 +66,8 @@ Ensemble nous égrainerons de longs chapelets, toi, pour invoquer les esprits et
 Indéniablement, elles sont la lumière et toutes ces petites représentent l’avenir.
  Femme forte, fille équilibrée, femmes averties, filles mieux éduquées. 
 
-**_
-L’éducation est notre passeport pour l’avenir_** et clairement l'école a illuminé ma vie c'est donc cette chance que vous souhaite à toutes, c'est sur de telles pierres que nous rebâtirons le monde.
+_**
+L’éducation est notre passeport pour l’avenir**_ et clairement l'école a illuminé ma vie c'est donc cette chance que vous souhaite à toutes, c'est sur de telles pierres que nous rebâtirons le monde.
 
 Posez les vôtres quelques soient leurs modèles.
 
