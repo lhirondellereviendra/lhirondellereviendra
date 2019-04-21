@@ -9,7 +9,29 @@ tags:
 ---
 ![null](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
 
-Sur ma route de devenir l’éminent juriste, j’ai appris à bloguer, à échouer, à être humiliée et rejetée, j’ai appris à me contenter, à lutter, à tomber ,guérir et me relever, la patience, la pression,  j’ai vaincu l’impulsivité.Et pour moi, c’est ce que j’ai pu avoir  de meilleur dans la vie . Car tenez vous bien, certes 
+Vous connaissez bien cette situation où vos parents, avant même que vous naissiez, prennent la liberté de décider de votre futur métier. 
+
+Tu seras médecin, avait déclaré mon père.
+
+Sans blague !  j’aimais beaucoup trop les langues pour accepter cela.
+
+Je savais donc que je devais faire une proposition équivalente à celle là pour pouvoir m’en sortir comme astronaute, avocate ou pilote ce que j’ai fait.
+
+Et pourtant, au fond, je voulais être interprète ou journaliste mais je voulais sûr être Marie Élise Gbedo.
+
+ C’est le compromis qui m’a orientée vers le droit et ainsi j’ai accepté d’apprendre à devenir avocate.
+
+J’a fouillé en recherchant d’autres modèles dont le parcours pouvait me donner la dose de motivation nécessaire pour  braiser ce désir. 
+
+ C’est ainsi que sur les curriculums, je lisais Université de Sorbonne, paris 13, Bordeaux, Lyon, Liège, Petersbourg et que sais- je d’autres? 
+
+Une chose est sûr c’était un rêve éveillé et pour moi, il était impossible de savoir si c’était un bon ou un mauvais.
+
+Parfois tout porte à croire que quand on a pas un diplôme européen ou étranger on ne peut pas être nommé à un grand poste de responsabilité dans les pays africains.
+
+À qui la faute? 
+
+Sur ce chemin pour devenir l’éminent juriste, j’ai appris à bloguer, à échouer, à être humiliée et rejetée, j’ai appris à me contenter, à lutter, à tomber ,guérir et me relever, la patience, la pression,  j’ai vaincu l’impulsivité.Et pour moi, c’est ce que j’ai pu avoir  de meilleur dans la vie . Car tenez vous bien, certes 
 
 Aujourd’hui, je suis majoré de promo, mais avant j’ai été majoré des erreurs et demain j’aurai mon diplôme de notaire,
 
