@@ -23,25 +23,29 @@ Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avan
 
 C'est aussi pour cela que j’ai décidé de partir à l'aventure.
 
-Petit à petit, dynamique, très dynamique et auto disciplinée; aura t-on eu le choix?
+En ce moment même, dynamique, très dynamique et auto disciplinée; aura t-on eu le choix?
 
 Pour ce qui est du reste, je regarde dans cette glace ce matin et un seul mot me porte: qu’importe, qu’importe alors.
 
-Et ma voix résonne, comme rayonne ma plume, toujours plus fortement je pus dire: qu’importe si je ne sache faire autrement.
+Et ma voix résonne, comme rayonne ma plume, toujours plus fortement je pus m’ent dire: qu’importe, q’uimporte que je ne sache pas faire autrement.
 
-Je suis gentille sans regrets, sans forcer sur les obligeances.
+Je suis gentille même sans forcer sur les obligeances.
 
-Je suis gentille, j’ai abandonné les compromis, je suis gentille mais il a fallu faire la guerre pour être sauvée.
+Je suis toujours gentille quand  j’abandonne les compromis.
+
+Je suis gentille et la sincérité m’a sauvée ; j’ai gagné la guerre.
 
 Je suis fière de la personne que je deviens: une jeune femme belle, intelligente, POSEY: une vraie D I V A.
 
 # Petite créature que j’aie jamais vue,
 
-Saches que tu es la plus belle et la plus forte. Ici la loyauté sexiste est en crise. N’opte pas pour les compromis, mène des combats.
+Saches que tu es la plus belle et la plus forte. Ici la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+
+N’opte jamais pour ces compromis là, tâches toi de mener des combats.
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde.
 
- Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. S'il arrive que tu t'inquiètes, si le soir tu doutes, je téléphonerai avant l'aurore.
+ Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerai avant l'aurore.
  Et s'il le faut, j'irai au delà des mots.
 
 Un geste, 
@@ -61,11 +65,11 @@ comme le faisait ta grand-mère: on se comprenait.
 **Il faut dire que j’ai beaucoup de chance de l’avoir. Aucune complication avec cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille, tenace**.
 
  Pourra t- on un jour ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux?
- non: « Kabdati », mon foi, mon enfant, les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs, tes hontes. 
+ non: « Kabdati », mon foi, mon enfant, je te veux pour construire des voies, je te veux instruite et réfléchie.
 
-Ensemble nous égrainerons de longs chapelets, toi, pour invoquer les esprits et moi, pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
+Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions égrainer de longs chapelets, toi, pour invoquer les esprits et moi, pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
-**_Quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que tous ces soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.
+**_Petite beauté, quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que tous ces soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.
 **
 
 ## 
