@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-03-08T19:58:22.094Z
 description: >-
 
-  Récemment je me suis surprise à réfléchir à la femme que je souhaite être dans
+  Récemment je me suis surprise à réfléchir à la femme que je veux être dans
   deux, dix, vingt ans, puis à qui j’étais il y’a cinq ans. 
 
 
@@ -17,35 +17,48 @@ tags:
 ---
 ## 
 
-Quelques années en arrière, je pensais pour la première à comment tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir comme ces filles parfaitement astucieuses, stratèges.
+Quelques années en arrière, je pensais pour la première fois à comment tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir comme ces filles parfaitement astucieuses, stratèges voir plus plus.
 
 Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste, la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
 
-C'est ainsi que j'ai pris mes cliques et claques pour tenter l'aventure.
+C'est aussi pour cela que j’ai décidé de partir à l'aventure.
 
-Que puis-je dire ce matin? si non que le dynamisme, oui ; ai-je eu le choix? mais tout le reste, mon bilan n'est pas positif.
+Petit à petit, dynamique, très dynamique et auto disciplinée; aura t-on eu le choix?
 
-Qu’importe ! mais qu’importe.
+Pour ce qui est du reste, je regarde dans cette glace ce matin et un seul mot me porte: qu’importe, qu’importe alors.
 
-Quand même, je suis fière de la personne que je deviens: une jeune femme belle, intelligente et posée qui a envie de dire à quelqu'un que ici, la loyauté sexiste est en crise; abus par dessus abus. 
+Et ma voix résonne, comme rayonne ma plume, toujours plus fortement je pus dire: qu’importe si je ne sache faire autrement.
 
-Ne fais aucun compromis: tâche toi de mener des combats. 
+Je suis gentille sans regrets, sans forcer sur les obligeances.
+
+Je suis gentille, j’ai abandonné les compromis, je suis gentille mais il a fallu faire la guerre pour être sauvée.
+
+Je suis fière de la personne que je deviens: une jeune femme belle, intelligente, POSEY: une vraie D I V A.
 
 # Petite créature que j’aie jamais vue,
 
-N'opte jamais pour les obligeances. Pour moi, tu seras toujours la plus belle et la plus forte. Je te veux pour construire des voies, je te veux instruite et réfléchie.
+Saches que tu es la plus belle et la plus forte. Ici la loyauté sexiste est en crise. N’opte pas pour les compromis, mène des combats.
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde.
 
- Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter.
+ Tu es l’espoir, tu es le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. S'il arrive que tu t'inquiètes, si le soir tu doutes, je téléphonerai avant l'aurore.
+ Et s'il le faut, j'irai au delà des mots.
 
- S'il arrive que tu t'inquiètes, si le soir tu doutes, je téléphonerai avant l'aurore.
- Et s'il le faut, j'irai au delà des mots; un geste, une façon, une action, avec candeur, sans surplus ni quantité suffisante comme le faisait ta grand-mère: on se comprenait.
+Un geste, 
+
+une façon, 
+
+une action, 
+
+avec candeur, 
+
+sans surplus ni quantité suffisante 
+
+comme le faisait ta grand-mère: on se comprenait.
 
 ![null](/img/design-sans-titre.png)
 
-**Il faut dire que j’ai beaucoup de chance; aucune complication avec cette femme. 
-Ma mère, l’être le plus tolérant que je connaisse, hyper gentille, tenace**.
+**Il faut dire que j’ai beaucoup de chance de l’avoir. Aucune complication avec cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille, tenace**.
 
  Pourra t- on un jour ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux?
  non: « Kabdati », mon foi, mon enfant, les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs, tes hontes. 
@@ -66,8 +79,8 @@ Ensemble nous égrainerons de longs chapelets, toi, pour invoquer les esprits et
 Indéniablement, elles sont la lumière et toutes ces petites représentent l’avenir.
  Femme forte, fille équilibrée, femmes averties, filles mieux éduquées. 
 
-_**
-L’éducation est notre passeport pour l’avenir**_ et clairement l'école a illuminé ma vie c'est donc cette chance que vous souhaite à toutes, c'est sur de telles pierres que nous rebâtirons le monde.
+**_
+L’éducation est notre passeport pour l’avenir_** et clairement l'école a illuminé ma vie c'est donc cette chance que vous souhaite à toutes car sur de telles pierres que nous rebâtirons le monde.
 
 Posez les vôtres quelques soient leurs modèles.
 
