@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: J'AI SUPPRIME FACEBOOK?
+title: 'Réseaux '
 urlphoto: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/50554466_236645003929504_8709807348274692096_n.jpg
 date: 2019-04-10T22:47:42.454Z
