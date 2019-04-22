@@ -4,30 +4,35 @@ title: 'MA RÉVOLUTION '
 urlphoto: 'blob:https://lhirondellereviendra.com/2e679021-3d6b-4212-a602-89a5a14485b7'
 date: 2019-04-21T16:14:17.774Z
 description: >-
-  De l’insomnie, trois nuit d’affilée.
+  Insomniaque !
 
-  C’est plus qu’évident, j’avais besoin d’un mentor où tout au moins un modèle.
+  Trois nuit d’affilée. J’ai prié pour confier; j’ai fait semblant d’oublier.
 
-  Quelq’un dont le parcours pouvait me redonner la dose de motivation nécessaire
-  pour braiser et surtout recarder mes ambitions déjà très vaste.
+  Comment trouver un mentor fictif, ce modèle dont le parcours pourrait me
+  redonner la dose de motivation nécessaire pour braiser et surtout recarder mes
+  ambitions déjà très vaste.
 tags:
   - Réflexions
 ---
-Alors je me mettais à fouiller sur le net, les week-ends.
+Nous sommes en 2012 et j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants pour arriver à ce stade.
 
-Sorbonne, Bordeaux, Lyon, Liège, Petersbourg etc. C’est ce que je lisais sur les C.v.
+Quelques années plus tôt, tu vas faire la médecine avait déclaré mon père. 
 
-Tout portait à croire que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains.
+Non sans blague! 
 
-Mon père voulait que je fasse la médecine. Sans blague! j’aimais trop les langues pour consacrer ma vie entière à faire des études de biologie.
+Je ne me voyait pas du tout, consacrée à la biologie; l’étude du corps humain, les cellules et les tissus.
 
-Surtout que  je rêvais parfois de devenir interprète ou journaliste.
+Moi qui rêvais parfois d’être interprète ou journaliste!
 
-Par ailleurs, je me souviens que j’étais vraiment faxinée aussi bien par la beauté que par la carrière de maître Marie Elise Gbêdo (...).
+Mais aussi, j’étais fascinée par la beauté physique ainsi que par la tauge de maître marie Élise Gbêdo.   
 
- Après le Baccalauréat, je vais alors m’orienter vers le droit pour apprendre à devenir une célèbre avocate. De 2012 à ce jour, j’ai appris, j’ai beaucoup appris surtout que je ne voulais pas du tout faire ce métier,  je me suis désistée comme pour beaucoup d’autres.
+De 2012 à ce jour, j’ai appris, j’ai beaucoup appris surtout que je ne voulais pas du tout faire ce métier,  je me suis désistée comme pour beaucoup d’autres.
 
-Le fait est que j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, Angélique Kidjo, l’autre diva de la chanson africaine, oprah Winfrey, elle le fait si bien ces interviews. Obama Michelle, celle qui me fait revasser; la meilleure de toutes les premières dames. 
+Mais ce soir là sur internet, je pouvais lire sur les C.V, Sorbonne, Bordeaux, Lyon, Liège, Petersbourg etc. À ce moment précis, j’etais certaine que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains.
+
+Bref. 
+
+fait est que j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, Angélique Kidjo, l’autre diva de la chanson africaine, oprah Winfrey, elle le fait si bien ces interviews. Obama Michelle, celle qui me fait revasser; la meilleure de toutes les premières dames. 
 
 Puis Fatou DIOME; il y a quelque chose entre vos lignes qui calme mon âme. Si je vous avais connue avant, je me serais inscrite sans hésiter à la faculté de lettres pour devenir cette célèbre écrivaine béninoise.
 
