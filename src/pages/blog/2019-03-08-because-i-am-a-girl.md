@@ -21,19 +21,11 @@ Quelques années plus tôt , je pensais pour la première fois à quoi faire pou
 
 Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste; la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
 
-Puis j’ai dit oui à l'aventure.
-
 En ce moment même où j’écris ces mots, dynamique,oui. Très dynamique et auto disciplinée; ai-je eu d’autres choix?
 
-Mais pour ce qui est du reste, je regarde ce matin, dans cette glace en face de moi même et un seul mot me vient à l’esprit: qu’importe, qu’importe alors.
+Mais pour ce qui est du reste, faisant face à moi même ce matin, devant la glace et un seul mot me vient à l’esprit: qu’importe, qu’importe alors.
 
-Et je murmure, qu’importe. Quand ma voix porte, tout comme rayonne ma plume, je pus m’entendre dire: qu’importe, q’uimporte que je ne sache pas faire autrement.
-
-Je suis gentille sans forcer sur les obligeances.
-
-Je suis gentille même quand  j’abandonne les compromis.
-
-Je suis toujours quand pourtant je suis sincère; j’ai gagné la guerre.
+Et je murmure, qu’importe. Quand ma voix porte, tout comme rayonne ma plume, je pus m’entendre dire: qu’importe, q’uimporte que je ne sache pas faire autrement. Je suis gentille sans forcer sur les obligeances, quand  j’abandonne les compromis, je le suis quand je mène la guerre.
 
 Je suis fière de la personne que je deviens: une jeune femme belle, intelligente, POSEY: une vraie DI VA.
 
