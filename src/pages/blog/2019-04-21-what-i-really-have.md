@@ -6,31 +6,31 @@ date: 2019-04-21T16:14:17.774Z
 description: >-
   Insomniaque !
 
-  Trois nuit d’affilée. J’ai prié pour confier; j’ai fait semblant d’oublier.
+  Trois nuit d’affilée. On prie pour confier; on fait semblant d’oublier.
 
   Il fallait trouver un mentor fictif, ce genre de modèle dont le parcours peut
-  redonner la dose de motivation nécessaire pour braiser et surtout recarder des
-  ambitions déjà très vastes.
+  redonner la dose de motivation nécessaire pour braiser et recarder de
+  gigantesques ambitions.
 tags:
   - Réflexions
 ---
-2012, j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants depuis lors à ce jour. Il m’a fallu deux pour être convaincue que je ne suis pas faite pour ce métier. L’éloquence, oui. La compassion, certainement. Le cash, j’aime beaucoup mais tout le reste, non. 
+2012, j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants depuis lors à ce jour. Il ne m’a fallu que deux interminables années  pour accepter que je ne suis pas faite pour ce métier. 
 
-Tu vas faire la médecine declarait mon père, quelques années plus tôt.
+Pourtant, éloquente, certainement! la compassion, nul doute; du cash, j’aime bien et pour continuer à chérir l’aumône, il m’en faut beaucoup mais tout le reste, non et non.
 
-Non mais sans blague quoi!
+Et il y a pire. Tenez-vous bien. Comme moi, quand mon père, m’informait pour la première fois dufait que je devrais faire la médecine.
 
-Moi, me consacrer à la biologie? étudier le corps humain, les cellules et les tissus, la seringue, la pa
+Sans blague!
 
-Moi qui rêvais parfois d’être interprète ou journaliste!
+Moi, me consacrer à la biologie, le corps humain, les cellules et les tissus, la seringue et tout le reste? J’aimais déjà trop les langues pour ça.
 
-Mais aussi, j’étais fascinée par la beauté physique ainsi que par la tauge de maître marie Élise Gbêdo.   
+Et mes propres rêve alors! 
 
-De 2012 à ce jour, j’ai appris, j’ai beaucoup appris surtout que je ne voulais pas du tout faire ce métier,  je me suis désistée comme pour beaucoup d’autres.
+Interprête ou journaliste voilà ce que je e voyais faire.
 
-Mais ce soir là sur internet, je pouvais lire sur les C.V, Sorbonne, Bordeaux, Lyon, Liège, Petersbourg etc. À ce moment précis, j’etais certaine que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains.
+Mais aussi, j’étais fascinée par la beauté physique ainsi que par la tauge de maître marie Élise Gbêdo. D’ailleurs c’est ce qui me donnait l’insomnie. La lecture des curriculum vitae sur le site de l’uni d’abomey Calavi et de celui du ministère de l’ende.
 
-Bref. 
+Sorbonne, Bordeaux, Lyon, Liège, Petersbourgue etc. En tout cas tout portait à croire que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains. Bref. 
 
 fait est que j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, Angélique Kidjo, l’autre diva de la chanson africaine, oprah Winfrey, elle le fait si bien ces interviews. Obama Michelle, celle qui me fait revasser; la meilleure de toutes les premières dames. 
 
