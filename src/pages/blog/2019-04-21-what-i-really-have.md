@@ -8,19 +8,19 @@ description: >-
 
   Trois nuit d’affilée. J’ai prié pour confier; j’ai fait semblant d’oublier.
 
-  Comment trouver un mentor fictif, ce modèle dont le parcours pourrait me
-  redonner la dose de motivation nécessaire pour braiser et surtout recarder mes
-  ambitions déjà très vaste.
+  Il fallait trouver un mentor fictif, ce genre de modèle dont le parcours peut
+  redonner la dose de motivation nécessaire pour braiser et surtout recarder des
+  ambitions déjà très vastes.
 tags:
   - Réflexions
 ---
-Nous sommes en 2012 et j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants pour arriver à ce stade.
+2012, j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants depuis lors à ce jour. Il m’a fallu deux pour être convaincue que je ne suis pas faite pour ce métier. L’éloquence, oui. La compassion, certainement. Le cash, j’aime beaucoup mais tout le reste, non. 
 
-Quelques années plus tôt, tu vas faire la médecine avait déclaré mon père. 
+Tu vas faire la médecine declarait mon père, quelques années plus tôt.
 
-Non sans blague! 
+Non mais sans blague quoi!
 
-Je ne me voyait pas du tout, consacrée à la biologie; l’étude du corps humain, les cellules et les tissus.
+Moi, me consacrer à la biologie? étudier le corps humain, les cellules et les tissus, la seringue, la pa
 
 Moi qui rêvais parfois d’être interprète ou journaliste!
 
