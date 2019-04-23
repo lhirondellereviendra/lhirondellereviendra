@@ -25,15 +25,17 @@ Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre ton unique sourire.
 
-Tes châtiments, mon vempire de minuit.
+Ton front contre le mien, tes doigts dans mon corps.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Tu sais obéis quand je te dicte mes lois; jettes moi un sans que s’endor ma foi en toi.
+Obéis moi, jettes moi un sort.
 
-Navigue plus fort, contrôle, dose; châtie mon corps avec ce fouet qui apaise mes sens.
+Ne m’embrases pas, châtie mon corps avec justesse.
+
+Navigue plus fort, contrôle, dose;  apaise.
 
 Tic tic tic, tu es mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
