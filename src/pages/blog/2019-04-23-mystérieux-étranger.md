@@ -19,7 +19,7 @@ Et dire qu’avant je contrôlais ma vie.
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
-Une, deux, trois, quatre et dix vagues de tendresse auront suffi. 
+Une, deux, trois, quatre et dix vagues de tendresses auront suffi. 
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
@@ -31,7 +31,7 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Obéis à mes ordres, fais moi ta loi, jettes moi un sort, ne m’embrasse pas.
+Obéis à mes ordres et fais moi ta loi, jettes moi un sort mais ne m’embrasse pas.
 
 Navigue comme cela, sans contrôle ni dose jusqu’à atteindre de justesse le haut débit.
 
@@ -65,15 +65,17 @@ J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
 Je n’ai pas eu le temps de m’accrocher comme je m’accroche maintenant à mes espoirs.
 
-Seulement quand je tiens ma plume, je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
+À peine je tiens cette plume, je suis ivre de souvenirs.
+
+J’ai écris à Juliette  mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
-Ce soir, il neige sur la ville.
+Ce soir, il neige sur la ville mon cher dominique. 
 
 Mon corps est immobile, devant moi le feu luit.
 
-Mes yeux sont rivés sur la poignée, je supplie mon familier étranger de rentrer.
+Mes yeux sont rivés sur la poignée, je te supplie, familier étranger de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
@@ -83,7 +85,7 @@ Les flammes me consument, tiendras- tu tes promesses?
 
  Un hiver de rêve disais-je et toi des soirées napolitaines.
 
-##  Il fera chaud ce jour là sur les côtes de mon cœur....
+## Il fera chaud ce jour là sur les côtes de mon cœur....
 
 ## \#loveislove
 
