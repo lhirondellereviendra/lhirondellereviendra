@@ -15,17 +15,17 @@ Là, devant se tenait un mystérieux étranger.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
-Et dire qu’ avant je contrôlais ma vie. 
+Et dire qu’avant je contrôlais ma vie. 
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
-Une, deux, trois, quatre et dix vagues de tendresse ont suffit. 
+Une, deux, trois, quatre et dix vagues de tendresse auront été suffisantes. 
 
-Une tonne de parfums et une petite pincée d’amour pas plus.
+Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre ton unique sourire.
 
-Ton prénom a su bien caressé ma langue.
+La beauté de tes doigts l’orque tu caresses ma langue.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
@@ -33,7 +33,7 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 Obéis à mes ordres, fais moi ta loi, jette moi le sort, ne m’embrasse pas.
 
-Navigue plus fort, augmente la dose de justesse.
+Navigue comme cela, avec plus de justesse, contrôle la dose.
 
 Toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -53,37 +53,37 @@ Toi tu m’abandonnes je me vide de mes larmes.
 
 Dans mes peines, tu es, comme autrefois tu étais dans mes envies.
 
-Ce puissant désir en plein cœur me laisse en lambeau.
+Ce puissant désir en plein cœur me laisse en lambeaux.
 
-Ça me morcelle, chiffonnée, du papier.
+Chifonneé, morcelée comme du papier.
 
 To-ta-le-ment déchirée, brus-que-ment arrachée.
 
-J’ai vu des jours sombres après ton départ à Londres; inacceptable, inacceptables.
+J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
 ## Il neige cette nuit sur les morceaux de mon cœur.
 
-Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
+Je n’ai pas eu le temps de m’accrocher comme je m’accroche maintenant à mes espoirs.
 
-Je tiens ma plume, je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite ainsi que ton prénom et quelques mots que je n’ai pas eu besoin de choisir.
+Quand je tiens ma plume, je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
 Ce soir, il neige sur la ville.
 
-Mon corps est immobile devant moi ce feu qui luit, mes yeux sont rivés sur la poignée.
+Mon corps est immobile, devant moi le feu luit.
 
-Je supplie mon familier étranger de revenir.
+Mes yeux sont rivés sur la poignée, je supplie mon familier étranger de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-Tu as pris le pouvoir, mon calme ma joie et mes certitudes.
+Tu as pris le pouvoir, mon calme et mes certitudes.
 
-Les flammes me consument, viendras-tu à temps?
+Les flammes me consument, tiendras- tu tes promesses?
 
- Pour un hiver de rêve et des soirées napolitaines.
+ Un hiver de rêve et des soirées napolitaines.
 
- Tu me serreras contre toi puis il fera beau pour toujours sur les côtes de mon cœur....
+ Tu me serreras contre toi, il fera beau pour toujours sur les côtes de mon cœur....
 
 \#loveislove
 
