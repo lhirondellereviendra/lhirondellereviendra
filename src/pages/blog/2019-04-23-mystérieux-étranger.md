@@ -15,7 +15,7 @@ Là, devant se tenait un mystérieux étranger.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
-Et dire qu’avant je contrôlais ma vie. 
+Et dire qu’hier encore je contrôlais ma vie. 
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
@@ -25,21 +25,21 @@ Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre ton unique sourire.
 
-Ton front et tes doigts qui caressent si bien la beauté de ma langue.
+Tes châtiments, mon vempire de minuit.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Obéis à mes ordres et fais moi ta loi, jettes moi un sort mais ne m’embrasse pas.
+Tu sais obéis quand je te dicte mes lois; jettes moi un sans que s’endor ma foi en toi.
 
-Navigue comme cela, sans contrôle ni dose jusqu’à atteindre de justesse le haut débit.
+Navigue plus fort, contrôle, dose; châtie mon corps avec ce fouet qui apaise mes sens.
 
-Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
+Tic tic tic, tu es mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
-Tourments- imprudences- les blessures jusqu’à l’infini.
+Tourments- imprudences- tes doigts dans mon corps jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu tu m’as finalement laissé  une couche de fiel dans la veine.
+Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu, me laissant une couche de fiel dans la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
@@ -71,7 +71,7 @@ J’ai écris à Juliette  mes imaginations sans limites, ton prénom ainsi que 
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
-Ce soir, il neige sur la ville mon cher dominique. 
+Ce soir, il neige sur la ville Dominique.
 
 Mon corps est immobile, devant moi le feu luit.
 
