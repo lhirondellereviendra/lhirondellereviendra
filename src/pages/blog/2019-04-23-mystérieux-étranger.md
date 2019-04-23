@@ -9,6 +9,116 @@ description: |-
 tags:
   - Vie
 ---
-Jj
 
-![](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
+
+
+
+## Il fait chaud ce jour là sur les côtes de mon cœur.
+
+
+
+Là, devant se tenait un mystérieux étranger.
+
+
+
+Son murmure a langoureusement apprivoisé mon assurance.
+
+
+
+Et dire qu’ avant je contrôlais ma vie. 
+
+
+
+Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
+
+
+
+Une, deux, trois, quatre et dix vagues de tendresse ont suffit. 
+
+
+
+Une tonne de parfums et une petite pincée d’amour pas plus.
+
+
+
+Pour que j’échange mille destins contre ton unique sourire.
+
+
+
+Ton prénom a su bien caressé ma langue.
+
+
+
+Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
+
+![](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
+
+
+
+Obéi à mes ordres, fais moi ta loi, jette moi le sort, ne m’embrasse pas.
+
+
+
+Navigue plus fort, augmente la dose de justesse.
+
+Toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
+
+Tourments- imprudences- les blessures jusqu’à l’infini.
+
+
+
+Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu me laissant une couche de fiel dans la veine.
+
+
+
+## Il faisait chaud ce soir là sur la chaussée de mon cœur.
+
+Maintenant je suis seule et je n’ai envie de rien. 
+
+![](/img/50554466_236645003929504_8709807348274692096_n.jpg)
+
+Quand tu me manques, soudain quand je tombe malade.
+
+Toi tu m’abandonnes je me vide de mes larmes.
+
+Dans mes peines, tu es, comme autrefois dans mes envies.
+
+Ce puissant désir en plein cœur me laisse en lambeau.
+
+Chiffonnée, morcelée, comme du papier.
+
+To-ta-le-ment déchirée, brus-que-ment arrachée.
+
+J’ai vu des jours sombres après ton départ à Londres; inacceptable, inacceptables.
+
+## Il neige cette nuit sur les morceaux de mon cœur.
+
+Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
+
+Quand je tiens ma plume et que je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite ainsi que ton prénom et quelques mots que je n’ai pas eu besoin de choisir.
+
+
+
+![](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
+
+Assise en face de ce feu qui luit; j’ai les yeux rivé sur la poignée mon corps est immobile.
+
+Dans mes prières je supplie mon familier étranger de revenir.
+
+Que les chemins de l’amour parfois sont difficiles!
+
+Il a pris le pouvoir, mon calme et ma joie.
+
+Les flammes me consument tiendra-t-il ses promesses?
+
+Un hiver de rêve et des soirées napolitaines; il me serrera contre lui puis il fera beau pour toujours sur les côtes de mon cœur....
+
+\#loveislove
+
+\#stranger
+
+\#mysterious
+
+
+
+![null](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
