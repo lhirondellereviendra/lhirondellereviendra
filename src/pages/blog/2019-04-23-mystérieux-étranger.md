@@ -25,7 +25,7 @@ Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre ton unique sourire.
 
-La beauté de tes doigts l’orque tu caresses ma langue.
+Ce froid, ces doigts lorsque tu caresses la beauté de ma langue.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
@@ -33,7 +33,7 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 Obéis à mes ordres, fais moi ta loi, jette moi le sort, ne m’embrasse pas.
 
-Navigue comme cela, avec plus de justesse, contrôle la dose.
+Navigue comme cela, sans contrôle, dose jusqu’à atteindre la justesse.
 
 Toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -57,7 +57,7 @@ Ce puissant désir en plein cœur me laisse en lambeaux.
 
 Chifonneé, morcelée comme du papier.
 
-To-ta-le-ment déchirée, brus-que-ment arrachée.
+To-ta-le-ment déchirée, brus-que-ment péréclitée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
@@ -65,7 +65,7 @@ J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
 Je n’ai pas eu le temps de m’accrocher comme je m’accroche maintenant à mes espoirs.
 
-Quand je tiens ma plume, je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
+Seulement quand je tiens ma plume, je suis ivre de souvenirs, j’ai écris à Juliette mes imaginations sans limite, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
