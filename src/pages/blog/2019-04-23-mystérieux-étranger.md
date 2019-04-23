@@ -19,27 +19,27 @@ Et dire qu’avant je contrôlais ma vie.
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
-Une, deux, trois, quatre et dix vagues de tendresse auront été suffisantes. 
+Une, deux, trois, quatre et dix vagues de tendresse auront suffi. 
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre ton unique sourire.
 
-Ce froid, ces doigts lorsque tu caresses la beauté de ma langue.
+Ton front et tes doigts qui caressent si bien la beauté de ma langue.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Obéis à mes ordres, fais moi ta loi, jette moi le sort, ne m’embrasse pas.
+Obéis à mes ordres, fais moi ta loi, jettes moi un sort, ne m’embrasse pas.
 
-Navigue comme cela, sans contrôle, dose jusqu’à atteindre la justesse.
+Navigue comme cela, sans contrôle ni dose jusqu’à atteindre de justesse le haut débit.
 
-Toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
+Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- les blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu me laissant une couche de fiel dans la veine.
+Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu tu m’as finalement laissé  une couche de fiel dans la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
@@ -81,11 +81,11 @@ Tu as pris le pouvoir, mon calme et mes certitudes.
 
 Les flammes me consument, tiendras- tu tes promesses?
 
- Un hiver de rêve et des soirées napolitaines.
+ Un hiver de rêve disais-je et toi des soirées napolitaines.
 
- Tu me serreras contre toi, il fera beau pour toujours sur les côtes de mon cœur....
+##  Il fera chaud ce jour là sur les côtes de mon cœur....
 
-\#loveislove
+## \#loveislove
 
 \#stranger
 
