@@ -5,13 +5,13 @@ urlphoto: 'blob:https://lhirondellereviendra.com/dfe49d97-eb87-4d87-9243-51474d9
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Dans un regard, j’ai lu toutes les promesses d’une vie.
+  De son regard, jaillit un cocktail de tendresses .
 tags:
   - Vie
 ---
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Là, devant se tenait un mystérieux étranger.
+J’ai admiré un étranger vraiment mystérieux.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
@@ -23,9 +23,7 @@ Une, deux, trois, quatre et dix vagues de tendresses auront suffi.
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
-Pour que j’échange mille destins contre ton unique sourire.
-
-Ton front contre le mien, tes doigts dans mon corps.
+Pour que j’échange mille destins contre son unique sourire.
 
 Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
@@ -33,13 +31,13 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 Obéis moi, jettes moi un sort.
 
-Ne m’embrases pas, châtie mon corps avec justesse.
+Ne m’embrases pas, châtie encore plus fort.
 
-Navigue plus fort, contrôle, dose;  apaise.
+ Contrôle, dose; griffes moi tout le corps .
 
 Tic tic tic, tu es mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
-Tourments- imprudences- tes doigts dans mon corps jusqu’à l’infini.
+Tourments- imprudences- blessures jusqu’à l’infini.
 
 Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu, me laissant une couche de fiel dans la veine.
 
@@ -65,25 +63,25 @@ J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
 ## Il neige cette nuit sur les morceaux de mon cœur.
 
-Je n’ai pas eu le temps de m’accrocher comme je m’accroche maintenant à mes espoirs.
+Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
-À peine je tiens cette plume, je suis ivre de souvenirs.
+À peine, quand je tiens cette plume, je suis ivre de souvenirs.
 
 J’ai écris à Juliette  mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
-Ce soir, il neige sur la ville Dominique.
+Ce soir, il neige sur la ville, Dominique.
 
-Mon corps est immobile, devant moi le feu luit.
+Le corps immobile, devant moi, ce feu luit.
 
-Mes yeux sont rivés sur la poignée, je te supplie, familier étranger de rentrer.
+Mes yeux sont rivés sur la poignée, je te supplie de rentrer.
 
-Que les chemins de l’amour parfois sont difficiles!
+Que les chemins de l’amour parfois sont difficiles mon familier étranger!
 
 Tu as pris le pouvoir, mon calme et mes certitudes.
 
-Les flammes me consument, tiendras- tu tes promesses?
+Les flammes me consument, tiendras- tu ta promesse?
 
  Un hiver de rêve disais-je et toi des soirées napolitaines.
 
