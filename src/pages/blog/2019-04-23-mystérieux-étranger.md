@@ -5,7 +5,7 @@ urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ff
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  J’ai accordé une danse à mon adorable cavalier.
+  J’ai accordé une danse à un adorable cavalier.
 tags:
   - Vie
 ---
@@ -13,11 +13,9 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Ses doigts dans les miens j’avais perdu la raison.
+Nos fronts à l’unisson, j’ai perdu la raison; panique, frissons.
 
- 
-
-Frissons-panique, son murmure a langoureusement apprivoisé mon assurance.
+Son murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je contrôlais ma vie. 
 
@@ -85,14 +83,14 @@ Mes yeux sont rivés sur la poignée, ils te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-Tu as pris le pouvoir, mon calme et mes certitudes.
+Tu as pris le pouvoir, ma joie et mes certitudes.
 
-Les flammes me consument, tiendras- tu tes promesses?
+La flamme me consume j’attendrai toute la vie mon mystérieux étranger.
 
- Un hiver de rêve et des soirées napolitaines.
+![](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
 
-## Il fera chaud ce jour là sur les côtes de mon cœur...
+ Pour un hiver de rêve et des soirées napolitaines.
 
-\#loveislove
+## Il fera chaud ce jour là sur les côtes de mon cœur #loveislove
 
 \#stranger
