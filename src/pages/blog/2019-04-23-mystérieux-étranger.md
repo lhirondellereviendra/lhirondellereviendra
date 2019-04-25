@@ -3,9 +3,11 @@ templateKey: blog-post
 title: 'MYSTÉRIEUX ÉTRANGER '
 urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png'
 date: 2019-04-23T07:43:07.178Z
-description: |-
+description: >-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  De son regard, jaillit un cocktail de tendresses .
+
+  Dans une danse avec un adorable cavalier. De son regard jaillit un cocktail de
+  promesses. 
 tags:
   - Vie
 ---
@@ -13,11 +15,9 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
+De son regard jaillit un cocktail de promesses.
 
-
- Nous avons échangé des regards, moi et un étranger mystérieux.
-
-Il fait chaud dorénavant sur les côtes de mon cœur.
+Des frissons, des raisons et une portion de paniques.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
@@ -25,7 +25,7 @@ Et dire qu’hier encore je contrôlais ma vie.
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
-Une, deux, trois, quatre et dix vagues de tendresses auront suffi. 
+Deux, trois, quatre, cinq, six vagues de tendresses auront suffi. 
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
@@ -39,13 +39,15 @@ Obéis moi, jettes moi un sort.
 
 Ne m’embrases pas, fouette encore plus fort.
 
- Contrôle, doses, tes griffes et tes caresses.
+ Contrôle, doses, ton châtiment et tes caresses.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu, me laissant une couche de fiel sur la veine.
+Longtemps, longtemps, longtemps, tu ne m’as plus regardée; 
+
+apparu, disparu, me laissant une couche de fiel sur la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
