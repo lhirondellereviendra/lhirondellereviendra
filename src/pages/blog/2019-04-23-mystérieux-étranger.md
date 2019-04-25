@@ -9,15 +9,15 @@ description: |-
 tags:
   - Vie
 ---
-![null](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
+![null](/img/d9927cec-24d4-496e-b4d3-53e30cab6c51.png)
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-De nos regards jaillit un cocktail de promesses.
+Ses doigts dans les miens j’avais perdu la raison.
 
-Des frissons, des raisons et une portion de paniques.
+ 
 
-Son murmure a langoureusement apprivoisé mon assurance.
+Frissons-panique, son murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je contrôlais ma vie. 
 
@@ -75,7 +75,7 @@ Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintena
 
 J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
-![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
+![null](/img/387af87a-f35e-440f-a1a2-62560670d7e5.png)
 
 Ce soir, il neige sur la ville, Dominique.
 
