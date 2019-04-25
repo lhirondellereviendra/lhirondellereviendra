@@ -1,65 +1,180 @@
 ---
 templateKey: blog-post
-title: 'MA RÉVOLUTION '
-urlphoto: 'blob:https://lhirondellereviendra.com/2e679021-3d6b-4212-a602-89a5a14485b7'
+title: 'SUR LES CHEMINS DE LA PERSÉVÉRANCE '
+urlphoto: 'blob:https://lhirondellereviendra.com/9adf796f-b548-4a20-ba1a-8533e4634b18'
 date: 2019-04-21T16:14:17.774Z
 description: >-
-  Insomniaque !
-
-  Trois nuit d’affilée. On prie pour confier; on fait semblant d’oublier.
-
-  Il fallait trouver un mentor fictif, ce genre de modèle dont le parcours peut
-  redonner la dose de motivation nécessaire pour braiser et recarder de
-  gigantesques ambitions.
+  Insomniaque!Trois nuits durant.On prie pour confier, on fait semblant de ne
+  pas s’inquiéter. 
 tags:
   - Réflexions
 ---
-2012, j’entrais à la fac de droit dans l’espoir d’apprendre à devenir avocate. Parcours de combattants depuis lors à ce jour. Il ne m’a fallu que deux interminables années  pour accepter que je ne suis pas faite pour ce métier. 
 
-Pourtant, éloquente, certainement! la compassion, nul doute; du cash, j’aime bien et pour continuer à chérir l’aumône, il m’en faut beaucoup mais tout le reste, non et non.
 
-Et il y a pire. Tenez-vous bien. Comme moi, quand mon père, m’informait pour la première fois dufait que je devrais faire la médecine.
 
-Sans blague!
 
-Moi, me consacrer à la biologie, le corps humain, les cellules et les tissus, la seringue et tout le reste? J’aimais déjà trop les langues pour ça.
+![](/img/da3af72e-ccce-4324-8273-6749c0720514.jpeg)
 
-Et mes propres rêve alors! 
+J’étais à la recherche d’un mentor, ce genre de personnage dont la game et le parcours peuvent braiser et recarder mes gigantesques ambitions.
 
-Interprête ou journaliste voilà ce que je e voyais faire.
 
-Mais aussi, j’étais fascinée par la beauté physique ainsi que par la tauge de maître marie Élise Gbêdo. D’ailleurs c’est ce qui me donnait l’insomnie. La lecture des curriculum vitae sur le site de l’uni d’abomey Calavi et de celui du ministère de l’ende.
 
-Sorbonne, Bordeaux, Lyon, Liège, Petersbourgue etc. En tout cas tout portait à croire que sans un diplôme européen ou étranger l’on ne pouvait pas être nommé à un grand poste de responsabilité dans certains pays africains. Bref. 
+Janvier 2012, j’entrais à la fac de droit dans le but d’apprendre à devenir avocate. 
 
-fait est que j’ai rencontré d’autres femmes : lupita yongo qui va me donner l’envie de faire du cinéma, Angélique Kidjo, l’autre diva de la chanson africaine, oprah Winfrey, elle le fait si bien ces interviews. Obama Michelle, celle qui me fait revasser; la meilleure de toutes les premières dames. 
+Trajet de combattants! 
 
-Puis Fatou DIOME; il y a quelque chose entre vos lignes qui calme mon âme. Si je vous avais connue avant, je me serais inscrite sans hésiter à la faculté de lettres pour devenir cette célèbre écrivaine béninoise.
+Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour ce beau métier. 
 
-Dans ce schéma, j’ai souvent eu envie de me réorienter, parfois j’ai pensé tout arrêter mais ce que je n’ai jamais fait encore :c’est abandonner. 
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste ma première vertu. Aider les personnes démunies et défavorisées, c’était cela le projet: enchaîner des « pro bono ».
 
-Le plus intéressant, c’est que sur ce chemin de mon devenir, il n’y a qu’une seule place disponible ; une seule personne que je peux bien devenir: Elisabeth AHOTON. L’originalité de toutes les autres existe déjà et sont prises.
 
-J’ai compris que je dois parfaire celle que j’étais avant pour donner la meilleure version de moi. Que la vie étire fille qui change d’avis comme de montres, qui rêvent sans mesure, doit devenir Elisabeth AHOTON.
 
-Sur ce chemin, je me suis confrontée avec Bijou la très gentille, la sœur Elisabeth, bijoulisa, la blogo juriste ect .
+À l’époque j’avais déjà des goûts de luxe, une chose est sûr, l’argent n’a jamais été un secret pour moi et il m’en faut plus pour continuer à chérir l’aumône.
 
-Mais connu le chagrin après que le rejet m’ait assassinée. J’ai dû apprendre à lutter, tomber, me contenter, réfléchir, guérir pour me relever.
+Cependant j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
 
-J’ai vaincu la pression et l’impulsivité, j’ai apprivoisé la patience,  j’ai affiché ce sourire, j’ai appris à rire, à gorge déployée puis j’ai raconté des histoires, les mêmes dont j’ai gommé certaines parties, j’ai douté et supprimé des paragraphes, mais j’ai réecrit sans cesse, sans honte.
 
-Pour devenir, la guerrière, l’amazone, qui ne redoute rien.
 
-Si aujourd’hui, j’excelle, c’est que hier j’ai été majore de la paresse, j’ai entassé des erreurs et de même, si demain, la vie me reprends mes crédits, il me restera la persévérance.  ce que j’aie de plus cher.
+Il y a mieux, tenez-vous tranquille!
 
-Qu’importe si demain je ne deviens pas notaire, j’ai la capacité d’etre cette juriste d’affaires qui n’avait jamais existé avant. J’ai la patience qu’il faut pour tout recommencer, j’ai la force nécessaire, le pouvoir de changer; changer de carrière, cette journaliste là, une danseuse, je peux écrire ce best-seller ou faire du commerce mais au delà de tout ceci, j’ai le coeur ouvert. C’est un privilège! Viens dans mon musée, viens te ressourcer.
+Mon père aurait souhaité que je sois médecin sans frontières.
 
-Ici chaque objet exposé possède une histoire. 
+Que je me consacre à la biologie, l’étude des cellules et des tissus. 
 
-Le jour où  je souffrais plus, le soir mon calepin essuyait plus de mine. J’ai noté des regrets, des doutes et des déceptions mais jamais l’abandon.
+Non mais sans blague !
 
-Beaucoup de joie, satisfaction, la victoire comme Sarmothrace; la délicatesse, la virtuosité de ... mais aussi la maladresse, l’amèretume, des crimes, Baartman, la Venise noir. Ici il y a un peu de tout.
+J’aimais déjà trop les langues et les mots pour faire cela.
 
-Alors vous, parlez moi de vos regrets et de vos excès; ce qui compte vraiment c’est ce que vous décidez de bâtir avec.
+De toutes façons, j’avais moi aussi mes propres souhaits alors!.
 
-J’ai voulu que les miennes éclairent celles de milliers d’autres personnes et depuis lors, la seule chose à laquelle je pense c’est comment travailler la suite pour que le récit soit applaudi.
+Interprête ou journaliste voilà ce que je me voyais faire.
+
+De plus, je rêvais souvent aussi de sa toge, Marie Élise Gbêdo, la femme dont la beauté avait considérablement boosté mes capacités de jeune lycéenne; Virginie aussi, l’avocate de Nathalie, une héroïne du best-sellers de feu Jean Pliya.
+
+
+
+Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que j’attrape des troubles de sommeil. 
+
+
+
+Je m’amusais à fouiller des curriculum vitae sur le site internet des universités, des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
+
+Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans mon pays sans avoir d’abord séjourné dans une école étrangère.
+
+Bref.
+
+Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
+
+Je n’ai pas renoncé à eux mais j’ai quand même opté pour l’aventure, l’idée c’est saisir de nouvelles opportunités dans l’espoir que celles-ci me dynamisent.
+
+Il paraît que voyager, c’est vivre et rester exister.
+
+En marche vers la vie, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
+
+En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
+
+À mon avis, cela ne me rend pas plus belle; ne cherchez pas à comprendre: c’est simplement une question d’ADN. 
+
+Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfrey, la puissance des puissances.
+
+Puis ma personne personnelle, Obama Michelle, les faiseurs de président(...).
+
+Ce n’est pas tout; entre ses lignes, il y a quelque chose qui nourrit mon âme, je vous parle de Fatou Diome, ma soeur de Niodior; si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
+
+Je sais qu’il n’est jamais trop tard; en écoutant les histoires de Chimamanda Ngozi j’ai cru comprendre que dans la vie tout est possible. 
+
+
+
+Et je continue, Séréna Williams a un message à  l’endroit de la jeunesse, son inspiration, la force de ses muscles. 
+
+J’ai commencé à entraîner mon mental pour façonner mon corps; trois heures de musculation quatre fois par semaine de quoi abriter mon esprit pure et sain.
+
+
+
+Il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laisse pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
+
+
+
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus.
+
+Le fait est que elles représentent les versions originales d’elles-mêmes.
+
+Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj. 
+
+
+
+Je voulais vous dire que en voulant trop imiter l’une ou l’autre, j’ai mis une personne de côté: la petite bijou, la fille très gentille, sœur Elisabeth, Bijoulisa la blogo-juriste etcétéra.
+
+Dans son livre, « be com Ming » Michelle O. écrit « votre histoire vous appartient... »
+
+Vous vous souvenez, il y a un an quand j’écrivais sur wordpress « mon identité, ma redécouverte »?
+
+Vous savez, en toute chose, il y a malheureusement des non dits. 
+
+Ce texte était tellement beau de sorte que ma publication connut du succès; mais qui pouvait deviner; je vous épargne la quantité de brouillons qui ont essuyé mes larmes.
+
+
+
+Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
+
+En fin de compte, j’avais sorti le résultat d’un travail personnel, peut être même c’était le début dudit travail.
+
+Je fais connaissance avec moi-même; j’ai rencontré un ennemi, un Bijou que je n’aimais pas assez. 
+
+Mais ce que j’ai détesté le plus, durant ces années, ce sont mes erreurs, les dénis de la réalité, les mensonges et la violence, l’exemple exquis et effroyable de folie dans la quelle j’ai grandi. 
+
+Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; je nous ai pardonnés.
+
+
+
+J’ai aussi profité pour apprendre à rire.
+
+C’est sincère, je ne l’avais jamais fait avant. J’ai essayé devant un miroir, une fois et puis j’ai eu le courage de recommencer jusqu’à ce que je le fasse à gorge déployée et je vous assure c’est une potion.
+
+L’adopter, m’a guidée vers un sens fort de mon épanouissement personnel.
+
+Depuis je ne pense plus constamment à l’échec, je prépare plutôt des occasions heureuses.
+
+J’ai même marqué dans mon dictionnaire, avec un surligneur rose, des mots comme: moi, réussite, satisfaction de soi, énergie, mérite, beauté, tolérance, plaisir, compliment. Tous les matin, je les lis et c’est tout; jusqu’à ce qu’ils deviennent ma réalité, c’est une sorte de prophétie auto réalisatrice, pour moi ça marche, à vous de croire ou non.
+
+Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
+
+
+
+Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privé du droit à l’erreur. Ça ne veut pas dire que je n’en fait pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots; c’était quasiment une maladie.
+
+Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau facile, facile parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité. 
+
+Jusqu’à ce que j’ai atteint la dérive. Je n’ai pas supporté l’échec ni les rejets.
+
+Longtemps chagrinée et amère, je me suis cachée pour lutter.
+
+ Alors qu’en réalité, la vie n’est pas une lutte, la vie est simple et belle.
+
+J’aime particulièrement cet exercice qui m’a beaucoup aidée à m’ accepter comme je suis c’est à dire avec pleins de défauts.
+
+1/ J’écris un texte ( sur la nature ou des animaux par exemple).
+
+
+
+2/ Je le relis deux jours après, pour corriger les fautes d’orthographe et les non sens jusqu’à ce qu’il soit correct.
+
+3/ je reprends la lecture deux jours plus tard pour me rendre compte qu’il y a toujours des corrections à faire. Je supprime des paragraphes, je gomme des expressions pour réécrire autrement ainsi de suite.
+
+Vous verrez qu’il se passe quelque chose là.
+
+Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de me rendre compte que tout ce que je sais, c’est que je ne sais pas assez. Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui y croient.
+
+Cela m’a permis d’accepter la honte, les défaites, à savoir dire non tout en souriant.
+
+
+
+Mais le plus important de tout, que j’excelle aujourd’hui ou que la vie me reprenne demain certaines faveurs, il me restera un ami fidèle qui est la persévérance: je n’abandonne jamais.
+
+Et j’ai également un deuxième trésor; mon coeur, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
+
+\#Moimêmedabord
+
+\#développementpersonnel
+
+\#monprivilège
