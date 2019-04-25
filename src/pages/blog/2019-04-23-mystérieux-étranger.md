@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'MYSTÉRIEUX ÉTRANGER '
-urlphoto: 'blob:https://lhirondellereviendra.com/dfe49d97-eb87-4d87-9243-51474d974a87'
+urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png'
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
@@ -9,6 +9,8 @@ description: |-
 tags:
   - Vie
 ---
+![](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
+
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
 J’ai admiré un étranger vraiment mystérieux.
@@ -31,15 +33,15 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 Obéis moi, jettes moi un sort.
 
-Ne m’embrases pas, châtie encore plus fort.
+Ne m’embrases pas, fouette encore plus fort.
 
- Contrôle, dose; griffes moi tout le corps .
+ Contrôle, doses, tes griffes et tes caresses.
 
-Tic tic tic, tu es mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
+Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
-Tourments- imprudences- blessures jusqu’à l’infini.
+Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu, me laissant une couche de fiel dans la veine.
+Longtemps, longtemps, longtemps, tu ne m’as plus regardée; apparu, disparu, me laissant une couche de fiel sur la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
@@ -57,7 +59,7 @@ Ce puissant désir en plein cœur me laisse en lambeaux.
 
 Chifonneé, morcelée comme du papier.
 
-To-ta-le-ment déchirée, brus-que-ment péréclitée.
+To-ta-le-ment déchirée, brus-que-ment arrachée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
@@ -67,7 +69,7 @@ Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintena
 
 À peine, quand je tiens cette plume, je suis ivre de souvenirs.
 
-J’ai écris à Juliette  mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
+J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
 
@@ -75,22 +77,18 @@ Ce soir, il neige sur la ville, Dominique.
 
 Le corps immobile, devant moi, ce feu luit.
 
-Mes yeux sont rivés sur la poignée, je te supplie de rentrer.
+Mes yeux sont rivés sur la poignée, ils te supplient de rentrer.
 
-Que les chemins de l’amour parfois sont difficiles mon familier étranger!
+Que les chemins de l’amour parfois sont difficiles!
 
 Tu as pris le pouvoir, mon calme et mes certitudes.
 
-Les flammes me consument, tiendras- tu ta promesse?
+Les flammes me consument, tiendras- tu tes promesses?
 
- Un hiver de rêve disais-je et toi des soirées napolitaines.
+ Un hiver de rêve et des soirées napolitaines.
 
-## Il fera chaud ce jour là sur les côtes de mon cœur....
+## Il fera chaud ce jour là sur les côtes de mon cœur...
 
-## \#loveislove
+\#loveislove
 
 \#stranger
-
-\#mysterious
-
-![null](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
