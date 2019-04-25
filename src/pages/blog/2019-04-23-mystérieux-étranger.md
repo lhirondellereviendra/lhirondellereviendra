@@ -5,15 +5,13 @@ urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ff
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  J’ai accordé une danse à un adorable cavalier.
+  J’ai accordé une danse à mon adorable cavalier.
 tags:
   - Vie
 ---
-![null](/img/d9927cec-24d4-496e-b4d3-53e30cab6c51.png)
 
-## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Nos fronts à l’unisson, j’ai perdu la raison; panique, frissons.
+## Il fait chaud ce jour là sur les côtes de mon cœur. 
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
@@ -31,11 +29,13 @@ Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
+Ma raison, la panique, des frissons .
+
 Obéis moi, jettes moi un sort.
 
-Ne m’embrases pas, fouette encore plus fort.
+Ne m’embrasse pas, châtie moi le corps.
 
- Contrôle, doses, sors tes griffes ainsi que tes caresses.
+ Contrôle, doses tes griffes et tes caresses.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -87,10 +87,12 @@ Tu as pris le pouvoir, ma joie et mes certitudes.
 
 La flamme me consume j’attendrai toute la vie mon mystérieux étranger.
 
-![](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
+![null](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
 
  Pour un hiver de rêve et des soirées napolitaines.
 
-## Il fera chaud ce jour là sur les côtes de mon cœur #loveislove
+## Il fera chaud ce jour là sur les côtes de mon cœur.
+
+## \#loveislove
 
 \#stranger
