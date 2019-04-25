@@ -13,7 +13,7 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-De son regard jaillit un cocktail de promesses.
+De nos regards jaillit un cocktail de promesses.
 
 Des frissons, des raisons et une portion de paniques.
 
@@ -23,7 +23,7 @@ Et dire qu’hier encore je contrôlais ma vie.
 
 Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
 
-Deux, trois, quatre, cinq, six vagues de tendresses auront suffi. 
+Trois, quatre, cinq, six vagues de tendresses auront suffi. 
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
@@ -37,7 +37,7 @@ Obéis moi, jettes moi un sort.
 
 Ne m’embrases pas, fouette encore plus fort.
 
- Contrôle, doses, ton châtiment et tes caresses.
+ Contrôle, doses, sors tes griffes ainsi que tes caresses.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
