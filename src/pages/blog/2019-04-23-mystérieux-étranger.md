@@ -9,11 +9,15 @@ description: |-
 tags:
   - Vie
 ---
-![](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
+![null](/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png)
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-J’ai admiré un étranger vraiment mystérieux.
+
+
+ Nous avons échangé des regards, moi et un étranger mystérieux.
+
+Il fait chaud dorénavant sur les côtes de mon cœur.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
