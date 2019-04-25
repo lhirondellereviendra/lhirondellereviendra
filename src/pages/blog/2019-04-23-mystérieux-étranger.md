@@ -3,11 +3,9 @@ templateKey: blog-post
 title: 'MYSTÉRIEUX ÉTRANGER '
 urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png'
 date: 2019-04-23T07:43:07.178Z
-description: >-
+description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-
-  Dans une danse avec un adorable cavalier. De son regard jaillit un cocktail de
-  promesses. 
+  J’ai accordé une danse à mon adorable cavalier.
 tags:
   - Vie
 ---
