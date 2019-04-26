@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: 'MYSTÉRIEUX ÉTRANGER '
-urlphoto: 'blob:https://lhirondellereviendra.com/fa744751-dcba-4f54-bac3-9cd2b86e175f'
+urlphoto: >-
+  https://lhirondellereviendra.com/static/b5ecac4586dd6805c12ff9b85265a4dc/e9c61/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
