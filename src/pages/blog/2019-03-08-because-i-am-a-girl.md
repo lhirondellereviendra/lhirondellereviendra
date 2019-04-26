@@ -15,27 +15,21 @@ description: >-
 tags:
   - Vie
 ---
-## 
+Ce matin, je me suis surprise à penser à la personne que je veux être dans deux, dix ans voire plus.
 
-Quelques années plus tôt , je pensais pour la première fois à quoi faire pour tuer mon excès de gentillesse; ce soir là, je sentais au plus profond de mon être, le besoin de devenir une autre personne; une demoiselle parfaitement astucieuse, stratège voir plus.
+À ce moment même, un seul mot me porte: merci; puis ma porte, merci; encore je pus m’entendre dire merci à la vie.
 
-Par ailleurs, le dynamisme, c'est la qualité que je souhaitais développer avant tout le reste; la discipline aussi, pas moins que la concentration, capitales dans ce monde un peu trop bruyant à mon goût. 
+Quand je fais mon bilan, je suis ultra fière de la personne que je deviens: une jeune femme belle, intelligente, sympathique et POSEY: une vraie DI VA.
 
-En ce moment même où j’écris ces mots, dynamique,oui. Très dynamique et auto disciplinée; ai-je eu d’autres choix?
+Ainsi je garde ce sourire sur mon visage, juste pour dire à toutes les déesses à travers cette planète que « together we can ».
 
-Mais pour ce qui est du reste, quand je fixe cette glace, un seul mot me porte: qu’importe, qu’importe alors.
+ Dans ce monde, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
-Et je murmure, qu’importe. Quand ma voix porte, tout comme rayonne ma plume, je pus m’entendre dire: qu’importe, qu’importe que je ne sache pas faire autrement. 
-
-J’ai longtemps cherché le juste milieu. Gentille mais pas trop gentille. Sans forcer sur les obligeances, gentille quand j’abandonne les compromis puis j’ai gagné la guerre.
-
-Vous pouvez voir ce sourire sur mon visage,  jamais il ne s’éteindra juste pour dire à toutes les déesses à travers cette planète que « together we can ».
-
- Ce matin je fais le bilan et je suis ultra fière de la personne que je deviens: une jeune femme belle, intelligente, sympathique et POSEY: une vraie DI VA.
+N’opte pas souvent pour les compromis, tâches toi de mener des combats. 
 
 # Petite créature que j’aie jamais vue,
 
-Saches que tu es la plus belle et la plus forte. Ici, la loyauté sexiste est en crise; inégalités par dessus inégalités. N’opte pas souvent pour les compromis, tâches toi de mener des combats. 
+Saches que tu es la plus belle et la plus forte. 
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde; tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance mais aussi le courage de tout affronter. 
 
