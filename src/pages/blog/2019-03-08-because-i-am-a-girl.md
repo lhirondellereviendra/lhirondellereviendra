@@ -1,38 +1,41 @@
 ---
 templateKey: blog-post
 title: GIRL. P O W E R
-urlphoto: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/design-sans-titre.png
+urlphoto: 'blob:https://lhirondellereviendra.com/4b10ad00-6ca7-4d36-a0b4-a3de5200c339'
 date: 2019-03-08T19:58:22.094Z
 description: >+
 
   Récemment je me suis surprise à réfléchir à la femme que je veux être dans
-  deux, cinq, dix ans puis à qui j’étais il y’a cinq ans. 
+  deux, dix ans puis à qui j’étais cinq ans plus tôt. 
 
 tags:
   - Vie
 ---
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
-Ce matin, je me tiens là devant la glace et un seul mot me porte: merci.
+Ce matin, je me tiens ici devant la glace et un seul mot me vient à l’esprit : merci.
 
-Quand ma voix porte, je pus m’entendre dire merci à la vie tout court.
+Et ma voix s’eleve, je peux m’entendre dire merci à la vie tout court.
+
+![](/img/e89574a7-8235-4d04-b1de-4d57f8c24365.png)
 
 Je suis ultra fière et reconnaissante pour tout ce que j’ai; pour la belle personne que je deviens, une jeune femme intelligente, sympathique et POSEY: une vraie DI VA.
 
-Et ce sourire que je garde sur mon visage, c’est pour dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire que ce soit; non jamais.
+Et ce sourire que je garde sur mon visage, c’est pour dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais.
 
- Dans ce monde, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+ Ici, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
 N’opte pas souvent pour les compromis, tâches toi de mener des combats. 
 
 # Petite créature que j’aie jamais vue,
 
-Saches que tu es la plus belle et la plus forte. 
+Saches que tu es belle et forte. 
 
-Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit.
+Le rose ou le bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit.
 
- Tu es la plus grande richesse du monde; tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
+ Tu es la plus grande richesse du monde. Tu es l’espoi et le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
+
+Je te veux pour construire des voies, je te veux instruite et réfléchie.
 
 S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore.
  Et s'il le faut, j'irai au delà des mots.
