@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'MYSTÉRIEUX ÉTRANGER '
-urlphoto: 'https://lhirondellereviendra.com/img/bd890450-fa73-47f1-9851-7f3ad0ffb1e9.png'
+urlphoto: 'blob:https://lhirondellereviendra.com/fa744751-dcba-4f54-bac3-9cd2b86e175f'
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
@@ -9,9 +9,9 @@ description: |-
 tags:
   - Vie
 ---
+![](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
 
-
-## Il fait chaud ce jour là sur les côtes de mon cœur. 
+## Il fait chaud ce jour là sur les côtes de mon cœur.
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
