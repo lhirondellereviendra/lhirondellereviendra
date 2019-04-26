@@ -29,11 +29,11 @@ Que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Ma raison panique, je nage dans les frissons .
+ Je n’ai plus la raison,c’est la panique des frissons .
 
 Obéis moi, jettes moi un sort.
 
-Sors tes griffes sans contrôle ni dose.
+Sors tes griffes, châtie moi plus  encore.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -71,26 +71,26 @@ Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintena
 
 J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
-![null](/img/387af87a-f35e-440f-a1a2-62560670d7e5.png)
+![null](/img/f41b09a2-4c35-465a-83f6-e1587025c79b.png)
 
 Ce soir, il neige sur la ville, Dominique.
 
-Je suis immobile devant mes larmes et le feu qui luit.
+Je suis immobile et sans armes devant ce feu qui luit.
 
 Mes yeux sur la poignée, te supplient de rentrer.
 
-Que les chemins de l’amour parfois sont difficiles!
-
 Tu as pris le pouvoir, mes illusions et mes certitudes.
 
- J’attends un nouveau jour mon mystérieux étranger.
+Que les chemins de l’amour parfois sont difficiles!
 
 ![null](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
 
- Pour un hiver de rêve et des soirées napolitaines.
+Seras-tu là mon mystérieux étranger?
+
+Pour un hiver de rêve et des soirées napolitaines.
 
 ## Il fera chaud ce jour là sur les côtes de mon cœur.
 
-## \#loveislove
-
 \#stranger
+
+\# loveislove
