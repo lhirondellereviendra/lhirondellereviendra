@@ -4,21 +4,16 @@ title: 'SUR LES CHEMINS DE LA PERSÉVÉRANCE '
 urlphoto: >-
   https://lhirondellereviendra.com/static/3712cc9bd415d70fd1a38cf0cf1e6326/c35de/da3af72e-ccce-4324-8273-6749c0720514.jpg
 date: 2019-04-21T16:14:17.774Z
-description: >-
-  Insomniaque!Trois nuits durant.On prie pour confier, on fait semblant de ne
-  pas s’inquiéter. 
+description: |-
+  Insomniaque!
+  Trois nuits durant.
+  On prie pour confier, on fait semblant de ne pas s’inquiéter. 
 tags:
   - Réflexions
 ---
+![null](/img/da3af72e-ccce-4324-8273-6749c0720514.jpeg)
 
-
-
-
-![](/img/da3af72e-ccce-4324-8273-6749c0720514.jpeg)
-
-J’étais à la recherche d’un mentor, ce genre de personnage dont la game et le parcours peuvent braiser et recarder mes gigantesques ambitions.
-
-
+J’étais à la recherche d’un mentor, ce genre de personnage dont la gamme et le parcours pouvaient braiser et recarder mes gigantesques ambitions.
 
 Janvier 2012, j’entrais à la fac de droit dans le but d’apprendre à devenir avocate. 
 
@@ -26,15 +21,11 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour ce beau métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste ma première vertu. Aider les personnes démunies et défavorisées, c’était cela le projet: enchaîner des « pro bono ».
-
-
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste ma première vertu. Aider les personnes démunies et défavorisées, c’était cela le projet: enchaîner des « pro bono».
 
 À l’époque j’avais déjà des goûts de luxe, une chose est sûr, l’argent n’a jamais été un secret pour moi et il m’en faut plus pour continuer à chérir l’aumône.
 
-Cependant j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
-
-
+Cependant, j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
 
 Il y a mieux, tenez-vous tranquille!
 
@@ -50,19 +41,15 @@ De toutes façons, j’avais moi aussi mes propres souhaits alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-De plus, je rêvais souvent aussi de sa toge, Marie Élise Gbêdo, la femme dont la beauté avait considérablement boosté mes capacités de jeune lycéenne; Virginie aussi, l’avocate de Nathalie, une héroïne du best-sellers de feu Jean Pliya.
-
-
+De plus,  Marie Élise Gbêdo, la femme dont la beauté avait considérablement boosté mes capacités de jeune lycéenne; Virginie aussi, l’avocate de Nathalie, une héroïne du best-seller de feu Jean Pliya.
 
 Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que j’attrape des troubles de sommeil. 
-
-
 
 Je m’amusais à fouiller des curriculum vitae sur le site internet des universités, des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
 
 Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans mon pays sans avoir d’abord séjourné dans une école étrangère.
 
-Bref.
+Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
@@ -84,25 +71,17 @@ Ce n’est pas tout; entre ses lignes, il y a quelque chose qui nourrit mon âme
 
 Je sais qu’il n’est jamais trop tard; en écoutant les histoires de Chimamanda Ngozi j’ai cru comprendre que dans la vie tout est possible. 
 
-
-
 Et je continue, Séréna Williams a un message à  l’endroit de la jeunesse, son inspiration, la force de ses muscles. 
 
 J’ai commencé à entraîner mon mental pour façonner mon corps; trois heures de musculation quatre fois par semaine de quoi abriter mon esprit pure et sain.
 
-
-
 Il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laisse pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
-
-
 
 J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus.
 
 Le fait est que elles représentent les versions originales d’elles-mêmes.
 
 Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj. 
-
-
 
 Je voulais vous dire que en voulant trop imiter l’une ou l’autre, j’ai mis une personne de côté: la petite bijou, la fille très gentille, sœur Elisabeth, Bijoulisa la blogo-juriste etcétéra.
 
@@ -114,8 +93,6 @@ Vous savez, en toute chose, il y a malheureusement des non dits.
 
 Ce texte était tellement beau de sorte que ma publication connut du succès; mais qui pouvait deviner; je vous épargne la quantité de brouillons qui ont essuyé mes larmes.
 
-
-
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
 En fin de compte, j’avais sorti le résultat d’un travail personnel, peut être même c’était le début dudit travail.
@@ -125,8 +102,6 @@ Je fais connaissance avec moi-même; j’ai rencontré un ennemi, un Bijou que j
 Mais ce que j’ai détesté le plus, durant ces années, ce sont mes erreurs, les dénis de la réalité, les mensonges et la violence, l’exemple exquis et effroyable de folie dans la quelle j’ai grandi. 
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; je nous ai pardonnés.
-
-
 
 J’ai aussi profité pour apprendre à rire.
 
@@ -139,8 +114,6 @@ Depuis je ne pense plus constamment à l’échec, je prépare plutôt des occas
 J’ai même marqué dans mon dictionnaire, avec un surligneur rose, des mots comme: moi, réussite, satisfaction de soi, énergie, mérite, beauté, tolérance, plaisir, compliment. Tous les matin, je les lis et c’est tout; jusqu’à ce qu’ils deviennent ma réalité, c’est une sorte de prophétie auto réalisatrice, pour moi ça marche, à vous de croire ou non.
 
 Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
-
-
 
 Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privé du droit à l’erreur. Ça ne veut pas dire que je n’en fait pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots; c’était quasiment une maladie.
 
@@ -156,8 +129,6 @@ J’aime particulièrement cet exercice qui m’a beaucoup aidée à m’ accept
 
 1/ J’écris un texte ( sur la nature ou des animaux par exemple).
 
-
-
 2/ Je le relis deux jours après, pour corriger les fautes d’orthographe et les non sens jusqu’à ce qu’il soit correct.
 
 3/ je reprends la lecture deux jours plus tard pour me rendre compte qu’il y a toujours des corrections à faire. Je supprime des paragraphes, je gomme des expressions pour réécrire autrement ainsi de suite.
@@ -167,8 +138,6 @@ Vous verrez qu’il se passe quelque chose là.
 Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de me rendre compte que tout ce que je sais, c’est que je ne sais pas assez. Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui y croient.
 
 Cela m’a permis d’accepter la honte, les défaites, à savoir dire non tout en souriant.
-
-
 
 Mais le plus important de tout, que j’excelle aujourd’hui ou que la vie me reprenne demain certaines faveurs, il me restera un ami fidèle qui est la persévérance: je n’abandonne jamais.
 
