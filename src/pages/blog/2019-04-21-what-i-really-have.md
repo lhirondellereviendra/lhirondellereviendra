@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: 'SUR LES CHEMINS DE LA PERSÉVÉRANCE '
-urlphoto: 'blob:https://lhirondellereviendra.com/9adf796f-b548-4a20-ba1a-8533e4634b18'
+urlphoto: >-
+  https://lhirondellereviendra.com/static/3712cc9bd415d70fd1a38cf0cf1e6326/c35de/da3af72e-ccce-4324-8273-6749c0720514.jpg
 date: 2019-04-21T16:14:17.774Z
 description: >-
   Insomniaque!Trois nuits durant.On prie pour confier, on fait semblant de ne
