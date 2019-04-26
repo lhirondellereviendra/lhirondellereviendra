@@ -9,7 +9,7 @@ description: |-
 tags:
   - Vie
 ---
-![](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
+![null](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
@@ -25,17 +25,15 @@ Une pincée d’amour et une tonne de parfums pas plus.
 
 Pour que j’échange mille destins contre son unique sourire.
 
-Qu’est-ce que c’est fou l’amour, il n’a jamais si bien porté son nom. 
+Que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
-Ma raison, la panique, des frissons .
+Ma raison panique, je nage dans les frissons .
 
 Obéis moi, jettes moi un sort.
 
-Ne m’embrasse pas, châtie moi le corps.
-
- Contrôle, doses tes griffes et tes caresses.
+Sors tes griffes sans contrôle ni dose.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -69,7 +67,7 @@ J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
 Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
-À peine, quand je tiens cette plume, je suis ivre de souvenirs.
+À peine, quand je tiens ma plume, je suis ivre de souvenirs.
 
 J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
@@ -77,15 +75,15 @@ J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que q
 
 Ce soir, il neige sur la ville, Dominique.
 
-Le corps immobile, devant moi, ce feu luit.
+Je suis immobile devant mes larmes et le feu qui luit.
 
-Mes yeux sont rivés sur la poignée, ils te supplient de rentrer.
+Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-Tu as pris le pouvoir, ma joie et mes certitudes.
+Tu as pris le pouvoir, mes illusions et mes certitudes.
 
-La flamme me consume j’attendrai toute la vie mon mystérieux étranger.
+ J’attends un nouveau jour mon mystérieux étranger.
 
 ![null](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
 
