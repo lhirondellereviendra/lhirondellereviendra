@@ -29,6 +29,8 @@ Ce sourire qui jamais ne disparaît de mon visage, c’est ma façon de dire à 
 
 De plus en plus, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
+![](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
+
 ## ** Petite créature que je n'ai jamais vue,**
 
 Tu dois savoir que tu es belle et forte. 
@@ -76,7 +78,7 @@ Indéniablement, elles sont la lumière et toutes ces petites représentent l’
 _**
 L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie. C’est cette chance que je vous souhaite à toutes._
 
-_ _**Sur de telles pierres, nous rebâtirons le monde. **
+\_ \_**Sur de telles pierres, nous rebâtirons le monde. **
 
 Posez les vôtres quelques soient leurs modèles. 
 
