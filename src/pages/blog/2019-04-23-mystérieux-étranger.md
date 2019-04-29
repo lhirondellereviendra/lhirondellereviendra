@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Éphémères, inoubliable, c’etait déjà le vin-cinquième sourire.
+  Éphémère, inoubliable, c’etait déjà le vin-cinquième sourire.
 tags:
   - Vie
 ---
@@ -40,9 +40,9 @@ Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, nous n'avons plus dansé;
+Longtemps, longtemps, longtemps; nous n’avions plus dansé;
 
-apparu, disparu, me laissant une couche de fiel sur la veine.
+apparu, disparu, tu me laisse une couche de fiel sur la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
@@ -64,7 +64,7 @@ To-ta-le-ment déchirée, brus-que-ment arrachée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
-## Il neige cette nuit sur les morceaux de mon cœur.
+## Il fait chaud ce soir sur les morceaux de mon cœur.
 
 Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
@@ -80,15 +80,19 @@ Je suis immobile et sans armes devant ce feu qui luit.
 
 Mes yeux sur la poignée, te supplient de rentrer.
 
-Tu as pris le pouvoir, mes illusions et mes certitudes.
+Tu as pris ma flamme, mes certitudes et le pouvoir.
 
 Que les chemins de l’amour parfois sont difficiles!
 
- Je vais altérer ce vide mystérieux étranger?
+ Il y a dans ma vie, un nouveau cavalier.
 
-Pour vivre un hiver de rêve et des soirées napolitaines.
+Il m’a promis un hiver de rêve et des soirées napolitaines.
 
-## Il fera chaud ce jour là sur les côtes de mon cœur.
+## Toujours, mes yeux sont rivés sur la poignée.
+
+##  Il fera chaud ce jour là sur les côtes de mon cœur.
+
+Notre vin-sixième sourire, mystérieux étranger.
 
 \#stranger
 
