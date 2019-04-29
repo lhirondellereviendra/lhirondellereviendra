@@ -21,11 +21,11 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour ce beau métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste ma première vertu. Aider les personnes démunies et défavorisées, c’était cela le projet: enchaîner des « pro bono».
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes grandes vertus. Aider les personnes démunies et défavorisées, enchaîner les pro-bono, c’etait ça le projet.
 
-À l’époque j’avais déjà des goûts de luxe, une chose est sûr, l’argent n’a jamais été un secret pour moi et il m’en faut plus pour continuer à chérir l’aumône.
+C’est certain, j’ai toujours eu des goûts de luxe et l’argent  n’a jamais été un secret pour moi;  il m’en fallait  beaucoup plus pour continuer à chérir l’aumône.
 
-Cependant, j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
+Cependant j’avais renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
 
 Il y a mieux, tenez-vous tranquille!
 
