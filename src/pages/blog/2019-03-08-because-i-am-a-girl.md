@@ -13,25 +13,25 @@ tags:
 ---
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
-Ce matin, je regarde mon bilan et un seul mot me vient à l’esprit : merci.
+Ce matin, je me regarde dans cette glace et un seul mot me vient à l’esprit : merci.
 
 Ma voix s’élève et je peux m’entendre dire merci à la vie tout court.
 
 ![null](/img/e89574a7-8235-4d04-b1de-4d57f8c24365.png)
 
-Je suis ultra fière et reconnaissante pour tout ce que j’ai.
+Je suis ultra fière et reconnaissante pour tout ce que j'ai, pour la belle personne que je deviens: une jeune femme intelligente, sympathique et POSEY: une vraie diva.
 
-J'aime la belle personne que je deviens! une jeune femme intelligente, sympathique et POSEY: une vraie diva.
+Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais.
 
-Ce sourire qui jamais ne disparaît de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais.
+ A présent je suis persuadée que deux choses sont essentiellement prioritaires pour moi: la santé et l'aumône.
 
- Deux choses essentiellement seront ta priorité; ce sont la santé et l'aumône, une fois que tu les as, n'opte pas pour les compromis mais tâches toi plutôt de mener des combats.
+Petite créature que je n'ai jamais vue, n'opte pas pour les compromis mais tâches toi plutôt de mener des combats.
 
 De plus en plus, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
-![](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
+![null](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
 
-## ** Petite créature que je n'ai jamais vue,**
+## ** **
 
 Tu dois savoir que tu es belle et forte. 
 
