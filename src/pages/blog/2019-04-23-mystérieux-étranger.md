@@ -82,18 +82,14 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Tu as pris ma flamme, mes certitudes et le pouvoir.
 
-Que les chemins de l’amour parfois sont difficiles!
-
- Il y a dans ma vie, un nouveau cavalier.
+J’ai croisé souvent un plus meilleur cavalier.
 
 Il m’a promis un hiver de rêve et des soirées napolitaines.
 
-## Toujours, mes yeux sont rivés sur la poignée.
+Que diable, les chemins de l’amour parfois sont difficiles!
 
-##  Il fera chaud ce jour là sur les côtes de mon cœur.
+Pour un vin-sixième sourire, mon mystérieux étranger.
 
-Notre vin-sixième sourire, mystérieux étranger.
+## Il fera chaud ce jour là sur les côtes de mon cœur...
 
-\#stranger
-
-\# loveislove
+\#whatislove
