@@ -6,7 +6,9 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  J’ai accordé une danse à mon adorable cavalier.
+  Entre nous, il n'y avait pas de mots du moins toutefois, sinon de 
+  façon métaphorique lorsque nous avions tout partagé.
+  Éphémère,immuable,notre première danse et le vin-cinquième sourire.
 tags:
   - Vie
 ---
@@ -18,9 +20,9 @@ Son murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je contrôlais ma vie. 
 
-Qu’est-ce que les chemins du coeur parfois sont imprévisibles! 
+Qu’est-ce que les chemins du cœur parfois sont imprévisibles! 
 
-Trois, quatre, cinq, six vagues de tendresses auront suffi. 
+Trois, quatre, cinq, six vagues de tendresses ont suffi. 
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
@@ -30,17 +32,17 @@ Que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 ![null](/img/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png)
 
- Je n’ai plus la raison,c’est la panique des frissons .
+ Je perds la raison, c’est la panique des frissons.
 
 Obéis moi, jettes moi un sort.
 
-Sors tes griffes, châtie moi plus  encore.
+Contrôle, dose jusqu'à l'unisson.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps, tu ne m’as plus regardée; 
+Longtemps, longtemps, longtemps, nous n'avons plus dansé;
 
 apparu, disparu, me laissant une couche de fiel sur la veine.
 
@@ -58,7 +60,7 @@ Dans mes peines, tu es, comme autrefois tu étais dans mes envies.
 
 Ce puissant désir en plein cœur me laisse en lambeaux.
 
-Chifonneé, morcelée comme du papier.
+Chiffonnée, morcelée comme du papier.
 
 To-ta-le-ment déchirée, brus-que-ment arrachée.
 
@@ -84,11 +86,9 @@ Tu as pris le pouvoir, mes illusions et mes certitudes.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-![null](/img/40333e36-bd12-4edb-8e2e-5ce25748db8e.png)
+ Je vais altérer ce vide mystérieux étranger?
 
-Seras-tu là mon mystérieux étranger?
-
-Pour un hiver de rêve et des soirées napolitaines.
+Pour vivre un hiver de rêve et des soirées napolitaines.
 
 ## Il fera chaud ce jour là sur les côtes de mon cœur.
 
