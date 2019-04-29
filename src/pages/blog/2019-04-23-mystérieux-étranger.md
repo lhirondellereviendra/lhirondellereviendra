@@ -6,9 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Entre nous, il n'y avait pas de mots du moins toutefois, sinon de 
-  façon métaphorique lorsque nous avions tout partagé.
-  Éphémère,immuable,notre première danse et le vin-cinquième sourire.
+  Éphémères, inoubliable, c’etait déjà le vin-cinquième sourire.
 tags:
   - Vie
 ---
