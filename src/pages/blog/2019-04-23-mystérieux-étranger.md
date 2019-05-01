@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Éphémère, inoubliable, c’etait déjà le vin-cinquième sourire.
+  Ephémère, inoubliable c’etait déjà notre vin-cinquième sourire.
 tags:
   - Vie
 ---
@@ -80,16 +80,16 @@ Je suis immobile et sans armes devant ce feu qui luit.
 
 Mes yeux sur la poignée, te supplient de rentrer.
 
-Tu as pris ma flamme, mes certitudes et le pouvoir.
+Que les chemins de l’amour parfois sont difficiles!
 
-J’ai croisé souvent un plus meilleur cavalier.
+J’ai croisé souvent de plus meilleurs cavaliers.
 
-Il m’a promis un hiver de rêve et des soirées napolitaines.
+Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
 
-Que diable, les chemins de l’amour parfois sont difficiles!
+Il fera chaud ce jour là sur les côtes de mon cœur.
 
-Pour un vin-sixième sourire, mon mystérieux étranger.
+ Pour un vin-sixième sourire, j’attends mon mystérieux étranger.
 
-## Il fera chaud ce jour là sur les côtes de mon cœur...
+\#lamourestfou
 
-\#whatislove
+\#dangereusement
