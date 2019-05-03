@@ -67,17 +67,23 @@ Il paraît que voyager, c’est vivre et rester exister.
 
 Dans cette marche, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
 
+![](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
+
 En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
 À mon avis, cela ne me rend pas plus belle; ne cherchez pas à comprendre: c’est simplement une question d’ADN. 
 
 Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfrey, la puissance des puissances.
 
+![](/img/a1511e9f-3971-4e82-9831-b7eacb3aa4e8.jpeg)
+
 Puis une autre de toutes ces femmes, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
 Oui je sais, il n’est jamais trop tard, j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
  Séréna Williams et son message à l’endroit de la jeunesse, son inspiration et la force de ses muscles. 
+
+![](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
 
 J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour mieux abriter mon esprit pure et sain.
 
