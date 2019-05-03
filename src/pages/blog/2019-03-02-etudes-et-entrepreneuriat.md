@@ -10,7 +10,7 @@ description: >
 tags:
   - Actu
 ---
-![null](/img/51710782_753581851679180_3500770655480053760_n.jpg)
+![null](/img/1886e625-49a4-486e-b096-7c2485bfc1f2.jpeg)
 
 Arrives-tu à concilier ton blog et tes études? Quelles sont les difficultés que tu rencontres? Sinon quels sont les conseils que tu peux donner? Voilà les questions récurrentes.
 
@@ -22,7 +22,9 @@ Déjà vous savez sûrement que les études universitaires demandent beaucoup tr
 
 Quant à l’entrepreneuriat, ça touche à plus de pratiques avec les mêmes finalités que les études qui se résument en: générer des intérêts /s’assurer un avenir meilleur. L’avantage est que son résultat peut être plus ou moins concret et immédiat.
 
-**Ainsi, s’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
+**S’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
+
+![](/img/ae4a587a-8b81-4f3d-b981-660efbb83495.jpeg)
 
 Ainsi cette belle combinaison présente des risques. Déjà parce que le domaine entrepreneurial exige beaucoup d’efforts et de fidélité tout comme les études. **A** **l’évidence, l'on ne peut passer d’une idée simple à une entreprise toute faite de façon abrégée**. 
 
@@ -33,6 +35,8 @@ En outre, après cette phase qui consiste à recadrer son idée, rédiger un bus
 Voilà pourquoi vouloir être chef d’entreprise et étudiant en même temps, moi je dis tout simplement prudence prudence et beaucoup de rigueur pour ne pas vite abandonner l’un au profit de l’autre.\*\* \*\*
 
 **Le risque majeur selon moi serait de rater les deux.**
+
+![](/img/e5c9a234-aaf1-4f85-9537-94aea2da5095.png)
 
 Posez la question à un ami entrepreneur qui a du succès, si vous en connaissez.
 
@@ -47,6 +51,8 @@ Comme mentionné précédemment, entreprendre, c’est avant tout jaugé sa cré
 Donc il n’y a aucun mal à essayer; au contraire, et bien souvent, rien que le bonheur de le faire; le sentiment d’être utile et créatif, d’apporter un plus dans l’histoire de l’humanité, ça soigne l’esprit, ça fait partie de la vie. 
 
 Quand j’écris, j’ai le sentiment de renaître : ça commence généralement par un mot; ensuite deux, puis trois, une phrase puis 5000 mots qui me servent chacun et me rapprochent de vous.
+
+![](/img/a8f85d19-8cf2-44ea-ab3b-50e5616a2ada.png)
 
 C’est comme cela que certains accomplissent de grandes œuvres parallèlement aux études sans pour autant avoir le sentiment de travailler doublement. 
 
