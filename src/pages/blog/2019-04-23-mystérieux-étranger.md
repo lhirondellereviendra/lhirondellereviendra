@@ -14,7 +14,7 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Son murmure a langoureusement apprivoisé mon assurance.
+Quand son murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je contrôlais ma vie. 
 
@@ -34,15 +34,15 @@ Que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
 Obéis moi, jettes moi un sort.
 
-Contrôle, dose jusqu'à l'unisson.
+Contrôle, doses jusqu'à l'unisson.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps; nous n’avions plus dansé;
+Longtemps, longtemps, longtemps; nous n’avons plus dansé;
 
-apparu, disparu, tu me laisse une couche de fiel sur la veine.
+apparu, disparu, tu me laisses une couche de fiel sur la veine.
 
 ## Il faisait chaud ce soir là sur la chaussée de mon cœur.
 
@@ -86,10 +86,8 @@ J’ai croisé souvent de plus meilleurs cavaliers.
 
 Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
 
-Il fera chaud ce jour là sur les côtes de mon cœur.
+Il fera chaud ces jours là sur les côtes de mon cœur.
 
- Pour un vin-sixième sourire, j’attends mon mystérieux étranger.
+Dans un vin-sixième sourire, avec mon mystérieux étranger.
 
-\#lamourestfou
-
-\#dangereusement
+\#whatislove
