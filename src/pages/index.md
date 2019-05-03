@@ -5,7 +5,7 @@ image: >-
   https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/52692361_2180580968906777_2732147452831334400_n.jpg
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
-  image: 'blob:https://lhirondellereviendra.com/a9072917-2aab-4e54-ac99-d15f4a3e9251'
+  image: 'blob:https://lhirondellereviendra.com/5a13dae9-a871-45eb-8adb-30926fb6e08f'
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
