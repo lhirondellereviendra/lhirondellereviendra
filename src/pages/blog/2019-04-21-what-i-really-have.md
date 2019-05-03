@@ -67,7 +67,7 @@ Il paraît que voyager, c’est vivre et rester exister.
 
 Dans cette marche, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
 
-![](/img/3714be74-bcd7-4a53-bf4b-009d8d40b64e.png)
+![](/img/53444f52-0922-40da-8f10-10958a930af6.jpeg)
 
 En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
@@ -75,7 +75,7 @@ En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeun
 
 Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfrey, la puissance des puissances.
 
-![](/img/a1511e9f-3971-4e82-9831-b7eacb3aa4e8.jpeg)
+![null](/img/a1511e9f-3971-4e82-9831-b7eacb3aa4e8.jpeg)
 
 Puis une autre de toutes ces femmes, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
@@ -83,7 +83,7 @@ Oui je sais, il n’est jamais trop tard, j’ai souvent lu et écouté Chimaman
 
  Séréna Williams et son message à l’endroit de la jeunesse, son inspiration et la force de ses muscles. 
 
-![](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
+![null](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
 
 J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour mieux abriter mon esprit pure et sain.
 
@@ -101,7 +101,7 @@ Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité,
 
 Vous savez, en toute chose, il y a malheureusement des non dits. 
 
-Ce texte était si beau que le public l’avait très bien accueilli mais personne ne pouvait imaginer; je vous épargne la quantité de brouillons qu’ont essuyé mes larmes.
+Ce texte était si beau que le public l’avait très bien accueilli mais personne ne pouvait imaginer; je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
