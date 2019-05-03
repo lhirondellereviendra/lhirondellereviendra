@@ -21,9 +21,9 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour le métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes grandes vertus; aider les personnes démunies et défavorisées en enchaînant des pro-bono: c’etait ça le projet.
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes grandes vertus; aider les personnes démunies et défavorisées, enchaîner des pro-bono: c’etait ça le projet.
 
-![](/img/17331484-7e4c-4115-a464-0cc25dee2d25.png)
+![null](/img/17331484-7e4c-4115-a464-0cc25dee2d25.png)
 
 En outre, à cette époque, j’avais déjà des goûts de luxe; clairement l’argent n’a jamais été un secret pour moi et il m’en faut beaucoup plus pour continuer à chérir l’aumône.
 
@@ -43,29 +43,29 @@ De toutes façons, j’avais moi aussi mes propres souhaits alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-J’etais quelques fois séduite aussi par la beauté ainsi que la toge de maître marie Elise GBEDO.
+J’etais quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO.
 
-Virginie aussi, l’avocate de Nathalie, héroïne du best-seller de feu Jean Pliya; comme des personnages peuvent considérablement boosté nos capacités de jeune lycéenne.
+Virginie aussi, l’avocate de Nathalie, héroïne du best-seller de feu Jean Pliya; comme des personnages peuvent considérablement boosté nos capacités de jeunes  lycéennes .
 
-![](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
+![null](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
 
 Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que j’attrape des troubles de sommeil. 
 
 Je m’amusais à fouiller des curriculum vitae sur le site internet des universités et celui des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
 
-Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans sans avoir d’abord séjourné dans une école européenne.
+Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans sans avoir d’abord séjourné dans une école étrangère.
 
 Vous avez compris!
 
-![](/img/3546d3de-7889-4f7b-83b3-cccd07370d07.jpeg)
+![null](/img/3546d3de-7889-4f7b-83b3-cccd07370d07.jpeg)
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas renoncé à eux mais j’ai quand même opté pour l’aventure, l’idée c’est saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Je n’ai pas renoncé à eux mais j’ai quand même opté pour l’aventure, l’idée c’est de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
-En marche vers la vie, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
+Dans cette marche, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
 
 En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
@@ -73,29 +73,25 @@ En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeun
 
 Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfrey, la puissance des puissances.
 
-Puis ma personne personnelle; entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
+Puis une autre de toutes ces femmes, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
-Oui je sais, il n’est jamais trop tard.
-
-Il suffit d’ecou attentivement cette femme, Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
+Oui je sais, il n’est jamais trop tard, j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
  Séréna Williams et son message à l’endroit de la jeunesse, son inspiration et la force de ses muscles. 
 
-J’ai commencé à entraîner mon mental pour façonner mon corps; trois heures de musculation quatre fois par semaine pour mieux abriter mon esprit pure et sain.
+J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour mieux abriter mon esprit pure et sain.
 
-Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
+Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus. J’ai fini par comprendre qu’elles représentent l’uniq version originale d’elle mêmes. Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
 
-Le fait est que elles représentent les versions originales d’elles-mêmes.
-
-Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
+Le fait est que en cherchant toutes ces années à copier l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
 Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité, ma redécouverte »?
 
-![](/img/9cfa0888-7215-4d2a-841c-8dd414443259.png)
+![null](/img/9cfa0888-7215-4d2a-841c-8dd414443259.png)
 
 Vous savez, en toute chose, il y a malheureusement des non dits. 
 
@@ -103,13 +99,11 @@ Ce texte était si beau que le public l’avait très bien accueilli mais person
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
-C’eta plus profond que ce Bijoulisa et ce rêve de bloguer. J’ai découvert que je suis totalement à la hauteur; je peux le faire; blogueuse.
+C’était plus profond que ce Bijoulisa et ce rêve de bloguer. Finalement je n’ai pas bloguer grand choses même si je suis je sais que je suis y otalement à la hauteur, je suis d’abord une juriste.
 
-Sauf que là je n’ai ni le temps, ni l’energie nécessaire. Mes études de droit priment.
+Bref.
 
-J’ai aussi rencontré un ennemi, un Bijou que je n’aimais pas assez. 
-
-Mais ce que j’ai détesté le plus, ce sont mes premiers textes mais beaucoup moins que mes erreurs, les dénis de la réalité, les mensonges et la violence, l’exemple exquis et effroyable de folie dans la quelle j’ai grandi. 
+Et donc je disais que dans ce processus qui consiste à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez.  Les erreurs, les dénis de la réalité, les mensonges et la violence, l’exemple exquis et effroyable de folie dans la quelle j’ai grandi. 
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; je nous ai pardonnés.
 
@@ -123,7 +117,7 @@ Depuis je ne pense plus constamment à l’échec, je prépare plutôt des occas
 
 J’ai même marqué dans mon dictionnaire, avec un surligneur rose, des mots comme: moi, réussite, satisfaction de soi, énergie, mérite, beauté, tolérance, plaisir, compliment. Tous les matin, je les lis et c’est tout; jusqu’à ce qu’ils deviennent ma réalité, c’est une sorte de prophétie auto réalisatrice, pour moi ça marche, à vous de croire ou non.
 
-![](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
+![null](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
 
 Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
 
@@ -147,12 +141,14 @@ Vous verrez qu’il se passe quelque chose là.
 
 Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de se rendre compte que tout ce que nous savons, c’est que nous ne savons pas assez.
 
- Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement.
+ Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi, oui mais attention à soi même.
 
-Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami tout comme mon COEUR, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
+Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut pas abandonner c’est tout.
+
+Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, comme mon COEUR, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
 
 \#Moimêmedabord
 
-\#développementpersonnel
+\#persévérance
 
 \#monprivilège
