@@ -63,7 +63,9 @@ Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas voulu m’éloigner de tout ça mais j’ai quand même dit oui à l’aventure, l’idée c’était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Je n’ai pas voulu partir loin de tout ça non mais j’ai fermé les yeux et à mon réveil, j’étais une petite étrangère dans une des plus belles villes de France.
+
+J’ai dit oui à l’aventure; le but était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -91,9 +93,11 @@ J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois he
 
 Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus. J’ai fini par comprendre qu’elles représentent l’uniq version originale d’elle mêmes. Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus. J’ai fini par comprendre qu’elles représentent les seules versions originales d’elle mêmes. Et ça croyez-moi ça a pris du temps.
 
-Le fait est que en cherchant toutes ces années à copier l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi.
+ Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
+
+Le fait est que en cherchant toutes ces années à copier l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi, Elisabeth, la blogo-juriste bijoulisa. 
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -101,19 +105,23 @@ Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité,
 
 ![null](/img/9cfa0888-7215-4d2a-841c-8dd414443259.png)
 
-Vous savez, en toute chose, il y a malheureusement des non dits. 
+Vous savez, en toute chose, il y a malheureusement ou à profit, des non dits. 
 
-Ce texte était si beau que le public l’avait très bien accueilli mais personne ne pouvait imaginer; je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
+Ce texte était bien écrit de sorte que le public l’avait vachement bien accueilli, au delà même de mes attentes pour un premier article de blogue. C’était un succès mais personne ne pouvait imaginer; je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
-C’était plus profond que ce Bijoulisa et ce rêve de bloguer. Finalement je n’ai pas bloguer grand choses même si je suis je sais que je suis y otalement à la hauteur, je suis d’abord une juriste.
+C’était plus profond que ce Bijoulisa et ce rêve de bloguer.
 
-Bref.
+Même si finalement je n’ai pas blogué grand chose, je sais aujourd’hui que je suis totalement à la hauteur. Seulement, cette expérience m’a prouvé que ce n’est pas exactement ce que je voulais être. Une blogueuse, non. Je suis juriste avant tout. Bien sûr que je vais continuer à écrire sur ce site parce que j’adore me raconter; juste ça. Bref.
 
-Et donc je disais que dans ce processus qui consiste à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez.  Les erreurs, les dénis de la réalité, les mensonges et la violence, l’exemple exquis et effroyable de folie dans la quelle j’ai grandi. 
+Ainsi je décidais donc de faire connaissance avec moi même. 
 
-Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; je nous ai pardonnés.
+Dans un premier temps, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez. 
+
+Il y avait aussi mes erreurs, les dénis de la réalité, les mensonges et la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. Folie des hommes.
+
+Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout pardonné.
 
 J’ai aussi profité pour apprendre à rire.
 
@@ -129,15 +137,15 @@ J’ai même marqué dans mon dictionnaire, avec un surligneur rose, des mots co
 
 Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
 
-Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privé du droit à l’erreur. Ça ne veut pas dire que je n’en fait pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
+Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur. Ça ne veut pas dire que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau moyen parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité. 
+Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau moyen parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité. Un jour j’ai pris la dérive.
 
-Un jour, j’ai basculé dans la dérive. Je n’ai pas supporté l’échec ni les rejets.
+Longtemps chagrinée et amère, je me suis cachée pour lutter pendant que la vie, simple et belle, m’attendait.
 
-Longtemps chagrinée et amère, je me suis cachée pour lutter; ce qu’il ne fallait surtout pas faire car loin d’etre comme une guerre, la vie est simple et belle.
+Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’ accepter comme je suis, à accepter la honte et les défaites, à dire non tout en souriant. 
 
-Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’ accepter comme je suis, la honte et les défaites, je peux dire non tout en souriant. 
+Il s’agit de la théorie du texte imparfait.
 
 1/ J’écris un texte ( sur la nature ou des animaux par exemple).
 
@@ -149,11 +157,17 @@ Vous verrez qu’il se passe quelque chose là.
 
 Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de se rendre compte que tout ce que nous savons, c’est que nous ne savons pas assez.
 
- Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi, oui mais attention à soi même.
+ Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. 
 
-Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut pas abandonner c’est tout.
+Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi, oui mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
 
-Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, comme mon COEUR, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
+Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut jamais abandonner.
+
+Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
+
+À toutes mes copines avec qui j’ai partagé des moments inoubliables, toutes les femmes qui n’abandonnent pas malgré les difficultés, celles qui se cherchent encore, celles qui se sont retrouvées déjà, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, blogueuses etc des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent....
+
+Merci
 
 \#Moimêmedabord
 
