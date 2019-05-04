@@ -97,7 +97,7 @@ J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes;
 
  Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
 
-Le fait est que en cherchant toutes ces années à copier l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi, Elisabeth, la blogo-juriste bijoulisa. 
+Le fait est que en cherchant toutes ces années à ressembler à l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi, Elisabeth.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -107,19 +107,21 @@ Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité,
 
 Vous savez, en toute chose, il y a malheureusement ou à profit, des non dits. 
 
-Ce texte était bien écrit de sorte que le public l’avait vachement bien accueilli, au delà même de mes attentes pour un premier article de blogue. C’était un succès mais personne ne pouvait imaginer; je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
+Ce texte était bien écrit de sorte que le public l’avait vachement bien accueilli, au delà même de mes attentes pour un premier article de blogue. C’était un succès mais personne ne pouvait imaginer, je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
 C’était plus profond que ce Bijoulisa et ce rêve de bloguer.
 
-Même si finalement je n’ai pas blogué grand chose, je sais aujourd’hui que je suis totalement à la hauteur. Seulement, cette expérience m’a prouvé que ce n’est pas exactement ce que je voulais être. Une blogueuse, non. Je suis juriste avant tout. Bien sûr que je vais continuer à écrire sur ce site parce que j’adore me raconter; juste ça. Bref.
+Même si finalement je n’ai pas blogué grand chose, je sais aujourd’hui que je suis totalement à la hauteur de ce job. Seulement, mon temps est très précieux maintenant; à peine suffisant pour mes études de droits.
 
-Ainsi je décidais donc de faire connaissance avec moi même. 
+La vie est faite d’expériences et certaines vont juste nous aider à nous connaître et mieux, à savoir exactement ce qui nous voulons être.
 
-Dans un premier temps, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez. 
+Une blogueuse, non. 
 
-Il y avait aussi mes erreurs, les dénis de la réalité, les mensonges et la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. Folie des hommes.
+Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter; juste ça.
+
+Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez. Face à des erreurs, les dénis de la réalité, les mensonges. Mais aussi, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. Folie des hommes.
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout pardonné.
 
@@ -139,7 +141,7 @@ Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la m
 
 Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur. Ça ne veut pas dire que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau moyen parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité. Un jour j’ai pris la dérive.
+Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau moyen parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité et un jour j’ai pris la dérive.
 
 Longtemps chagrinée et amère, je me suis cachée pour lutter pendant que la vie, simple et belle, m’attendait.
 
@@ -157,9 +159,9 @@ Vous verrez qu’il se passe quelque chose là.
 
 Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de se rendre compte que tout ce que nous savons, c’est que nous ne savons pas assez.
 
- Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. 
+ Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. La vie est en perpétuelle changement, ne pas accepter ses erreurs, c’est refuser de grandir. Depuis que j’ai compris ceci, je vis simplement et mieux. 
 
-Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi, oui mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
+Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi c’est très cool mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
 
 Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut jamais abandonner.
 
