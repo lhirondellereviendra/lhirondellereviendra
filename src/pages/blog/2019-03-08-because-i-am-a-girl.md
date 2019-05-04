@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: GIRL. P O W E R
-urlphoto: 'blob:https://lhirondellereviendra.com/4b10ad00-6ca7-4d36-a0b4-a3de5200c339'
+urlphoto: 'https://lhirondellereviendra.com/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg'
 date: 2019-03-08T19:58:22.094Z
 description: >+
 
@@ -11,6 +11,8 @@ description: >+
 tags:
   - Vie
 ---
+![](/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg)
+
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
 Ce matin, je me regarde dans cette glace et un seul mot me vient à l’esprit : merci.
@@ -25,31 +27,29 @@ Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est 
 
  A présent je suis persuadée que deux choses sont essentiellement prioritaires pour moi: la santé et l'aumône.
 
-Petite créature que je n'ai jamais vue, n'opte pas pour les compromis mais tâches toi plutôt de mener des combats.
+## Petite créature que je n'ai jamais vue, 
 
-De plus en plus, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
 ![null](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
 
-## ** **
+## n’opte pas souvent pour les compromis, tâches toi de mener des combats.
 
-Tu dois savoir que tu es belle et forte. 
+Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde. 
 
-Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit.
+Tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
 
- Tu es la plus grande richesse du monde. Tu es l’espoir et le lendemain; pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
+Et s’ le faut j’irais au delà des mots.
 
-Je te veux pour construire des voies, je te veux instruite et réfléchie.
+Une façon,
 
-S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore. Et s'il le faut, j'irai au delà des mots.
+une action. 
 
-Une façon et un façon, 
+Avec candeur, 
 
-une action avec candeur, 
+sans surplus ni quantité suffisante.
 
-sans surplus ni quantité suffisante 
-
-comme le faisait ta grand-mère; on se comprenait si bien.
+Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
 ![null](/img/design-sans-titre.png)
 
@@ -63,12 +63,11 @@ Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes p
 
  À deux, nous égrainerons de longs chapelets; toi, pour invoquer les esprits et moi, pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
-**_Petite beauté, quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.
-**
+Petite créature, je te veux pour construire des voies, je te veux instruite et réfléchie.
 
-## 
+S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore. 
 
-# 
+**_Puis quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.**
 
 **Être éducatrice est plus qu'un métier et être mère représente un sacerdoce. Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
 
@@ -78,7 +77,7 @@ Indéniablement, elles sont la lumière et toutes ces petites représentent l’
 _**
 L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie. C’est cette chance que je vous souhaite à toutes._
 
-\_ \_**Sur de telles pierres, nous rebâtirons le monde. **
+**Sur de telles pierres, nous rebâtirons le monde. **
 
 Posez les vôtres quelques soient leurs modèles. 
 
