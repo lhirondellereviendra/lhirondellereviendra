@@ -88,6 +88,6 @@ Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
 
 Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Dans un vin-sixième sourire, avec mon mystérieux étranger.
+Un vin-sixième sourire, moi et mon mystérieux étranger.
 
 \#whatislove
