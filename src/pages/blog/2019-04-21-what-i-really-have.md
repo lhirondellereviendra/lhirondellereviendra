@@ -13,7 +13,7 @@ tags:
 ---
 ![null](/img/da3af72e-ccce-4324-8273-6749c0720514.jpeg)
 
-J’étais à la recherche d’un mentor, ce genre de personnage dont la gamme et le parcours pouvaient braiser et recarder mes gigantesques ambitions.
+J’étais à la recherche d’un mentor, ce genre de personne dont la gamme et le parcours pouvaient braiser et recarder mes gigantesques ambitions.
 
 Janvier 2012, j’entrais à la fac de droit dans le but d’apprendre à devenir avocate. 
 
@@ -21,11 +21,11 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour le métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes grandes vertus; aider les personnes démunies et défavorisées, enchaîner des pro-bono: c’etait ça le projet.
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes grandes vertus; enchaîner des pro-bono: c’etait ça le projet.
 
 ![null](/img/17331484-7e4c-4115-a464-0cc25dee2d25.png)
 
-En outre, à cette époque, j’avais déjà des goûts de luxe; clairement l’argent n’a jamais été un secret pour moi et il m’en faut beaucoup plus pour continuer à chérir l’aumône.
+En outre, à l’époque, j’avais déjà des goûts de luxe car clairement l’argent n’a jamais été un secret pour moi et il m’en faut beaucoup plus pour continuer à chérir l’aumône.
 
 Toutefois j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
 
@@ -35,7 +35,7 @@ Mon père avait souhaité que je sois médecin sans frontières.
 
 Non mais sans blague !
 
-Me consacrer à la biologie, l’étude des cellules et des tissus etc.
+Que je me consacre à l’étude des cellules et des tissus!
 
 J’aimais déjà trop les langues et les mots pour faire cela.
 
@@ -45,7 +45,9 @@ Interprête ou journaliste voilà ce que je me voyais faire.
 
 J’etais quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO.
 
-Virginie aussi, l’avocate de Nathalie, héroïne du best-seller de feu Jean Pliya; comme des personnages peuvent considérablement boosté nos capacités de jeunes  lycéennes .
+Virginie aussi, l’avocate de Nathalie, héroïne du best-seller de feu Jean Pliya.
+
+Comme des personnages peuvent considérablement boosté nos capacités de jeunes  lycéennes!
 
 ![null](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
 
@@ -53,7 +55,7 @@ Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que 
 
 Je m’amusais à fouiller des curriculum vitae sur le site internet des universités et celui des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
 
-Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans sans avoir d’abord séjourné dans une école étrangère.
+Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans nos pays sans avoir d’abord séjourné dans une école étrangère.
 
 Vous avez compris!
 
@@ -61,13 +63,13 @@ Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas renoncé à eux mais j’ai quand même opté pour l’aventure, l’idée c’est de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Je n’ai pas voulu m’éloigner de tout ça mais j’ai quand même dit oui à l’aventure, l’idée c’était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
-Dans cette marche, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
+Dans ma marche vers la vie, j’ai fait la rencontre de plusieurs autres personnes: mes nouveaux potentiels modèles.
 
-![](/img/53444f52-0922-40da-8f10-10958a930af6.jpeg)
+![null](/img/53444f52-0922-40da-8f10-10958a930af6.jpeg)
 
 En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
@@ -77,7 +79,7 @@ Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfre
 
 ![null](/img/a1511e9f-3971-4e82-9831-b7eacb3aa4e8.jpeg)
 
-Puis une autre de toutes ces femmes, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
+Puis une autre dame, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, Fatou Diome, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
 Oui je sais, il n’est jamais trop tard, j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
