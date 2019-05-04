@@ -11,7 +11,7 @@ description: >+
 tags:
   - Vie
 ---
-![](/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg)
+![null](/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg)
 
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
@@ -23,13 +23,11 @@ Ma voix s’élève et je peux m’entendre dire merci à la vie tout court.
 
 Je suis ultra fière et reconnaissante pour tout ce que j'ai, pour la belle personne que je deviens: une jeune femme intelligente, sympathique et POSEY: une vraie diva.
 
-Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais.
+Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais, together we can.
 
- A présent je suis persuadée que deux choses sont essentiellement prioritaires pour moi: la santé et l'aumône.
+## Petite créature que je n'ai jamais vue,
 
-## Petite créature que je n'ai jamais vue, 
-
-la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+Ici, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
 
 ![null](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
 
@@ -39,7 +37,7 @@ Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le li
 
 Tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
 
-Et s’ le faut j’irais au delà des mots.
+Et s’il le faut, j’irais au delà des mots.
 
 Une façon,
 
@@ -55,13 +53,11 @@ Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
 **Il faut dire que j’aie beaucoup de chance de l’avoir. **
 
-**De loin, je ne vois aucune complication chez cette femme, ma mère; l’être le plus tolérant que je connaisse, elle est hyper gentille et tenace**.
+**De loin, je ne vois aucune complication chez cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille et tenace**.
 
  Peut t-on ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux? non: « Kabdati », mon foi, mon enfant.
 
-Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes.
-
- À deux, nous égrainerons de longs chapelets; toi, pour invoquer les esprits et moi, pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
+Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions  égrainer de longs chapelets; toi pour invoquer les esprits et moi pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
 Petite créature, je te veux pour construire des voies, je te veux instruite et réfléchie.
 
@@ -77,7 +73,7 @@ Indéniablement, elles sont la lumière et toutes ces petites représentent l’
 _**
 L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie. C’est cette chance que je vous souhaite à toutes._
 
-**Sur de telles pierres, nous rebâtirons le monde. **
+**Parce que seulement sur de telles pierres, nous réussirons à rebâtir le monde. **
 
 Posez les vôtres quelques soient leurs modèles. 
 
@@ -85,12 +81,14 @@ Posons les nôtres maintenant pour qu’elles tiennent toute la vie.
 
 Et tout ça heureusement mon père me l'a dit...
 
-Bonne journée mesdames  !
+Bonne journée de la femme !
 
 Bisous
 
 \#womenday
 
 \#mars2019
+
+\#girlpower
 
 .
