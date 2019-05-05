@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ephémère, inoubliable, un vin-deuxième baisser.
+  Ephémère, inoubliable, un vin-deuxième baiser.
 tags:
   - Vie
 ---
