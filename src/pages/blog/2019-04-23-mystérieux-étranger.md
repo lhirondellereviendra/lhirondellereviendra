@@ -6,15 +6,17 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ephémère, inoubliable c’etait déjà notre vin-cinquième sourire.
+  Ephémère, inoubliable, un vin-deuxième baisser.
 tags:
   - Vie
 ---
-![null](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
+![](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Quand son murmure a langoureusement apprivoisé mon assurance.
+
+
+Son murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je contrôlais ma vie. 
 
@@ -88,6 +90,6 @@ Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
 
 Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Un vin-sixième sourire, moi et mon mystérieux étranger.
+Pour milles baisers, moi et mon mystérieux étranger.
 
 \#selflove
