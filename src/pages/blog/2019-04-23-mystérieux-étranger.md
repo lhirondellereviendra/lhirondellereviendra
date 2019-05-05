@@ -40,11 +40,11 @@ Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps; nous n’avons plus dansé;
+Longtemps, longtemps, longtemps; tu n’as plus souri;
 
-apparu, disparu, tu me laisses une couche de fiel sur la veine.
+apparu, disparu, me laissant une couche de fiel sur la veine.
 
-## Il faisait chaud ce soir là sur la chaussée de mon cœur.
+## Il fait chaud ce soir sur la chaussée de mon cœur.
 
 Maintenant je suis seule et je n’ai envie de rien. 
 
@@ -90,4 +90,4 @@ Il fera chaud ces jours là sur les côtes de mon cœur.
 
 Un vin-sixième sourire, moi et mon mystérieux étranger.
 
-\#whatislove
+\#selflove
