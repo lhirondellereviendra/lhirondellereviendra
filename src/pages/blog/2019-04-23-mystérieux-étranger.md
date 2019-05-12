@@ -1,20 +1,18 @@
 ---
 templateKey: blog-post
-title: 'MYSTÉRIEUX ÉTRANGER '
+title: 'Mystérieux étranger '
 urlphoto: >-
   https://lhirondellereviendra.com/static/b5ecac4586dd6805c12ff9b85265a4dc/e9c61/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ephémère, inoubliable, un vin-deuxième baiser.
+  Ephémère, inoubliable, c’etait déjà notre vin-deuxième baiser.
 tags:
   - Vie
 ---
-![](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
+![null](/img/2e311e57-d028-4a17-a226-bd164aac0193.png)
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
-
-
 
 Son murmure a langoureusement apprivoisé mon assurance.
 
@@ -90,6 +88,6 @@ Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
 
 Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Pour milles baisers, moi et mon mystérieux étranger.
+Pour un milliard de baisers, moi et mon mystérieux étranger.
 
 \#selflove
