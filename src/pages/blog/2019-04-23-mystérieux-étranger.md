@@ -82,15 +82,13 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-Il fera chaud ces jours là sur les côtes de mon cœur.
+## Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Dans un hiver de rêve et des soirées napolitaines.
+Pour un hiver de rêve et des soirées napolitaines.
 
- Sous un milliard de baisers, moi et mon mystérieux étranger.
+ Dans une tonne de baisers, moi et le mystérieux étranger.
 
-Il fera si chaud ces jours là...
-
-Pour de bon je me passerai de ton ténébreux sourire, meilleur cavalier.
+Je penserai à ton ténébreux sourire, mon meilleur cavalier.
 
 \#whatislove
 
