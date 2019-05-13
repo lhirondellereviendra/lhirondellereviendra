@@ -25,9 +25,9 @@ Pourtant, l’éloquence, j’avais matière à travailler tout comme la compass
 
 ![null](/img/17331484-7e4c-4115-a464-0cc25dee2d25.png)
 
-En outre, à l’époque, j’avais déjà des goûts de luxe car clairement l’argent n’a jamais été un secret pour moi et il m’en faut beaucoup plus pour continuer à chérir l’aumône.
+Clairement, l’argent n’a jamais été un secret pour moi et il m’en faut plus pour continuer à chérir l’aumône.
 
-Toutefois j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
+Cependant, j’ai renoncé à emprunter le chemin du barreau car pour ce qui était du »reste », le système et les autres tares, je n’étais tout simplement pas à la hauteur.
 
 Il y a mieux, tenez-vous tranquille!
 
@@ -39,15 +39,15 @@ Que je me consacre à l’étude des cellules et des tissus!
 
 J’aimais déjà trop les langues et les mots pour faire cela.
 
-De toutes façons, j’avais moi aussi mes propres souhaits alors!.
+De toutes façons, j’avais moi, mes propres souhaits alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-J’etais quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO.
+J’etais quelques fois séduite par la beauté physique comme par la toge de maître marie Elise GBEDO.
 
-Virginie aussi, l’avocate de Nathalie, héroïne du best-seller de feu Jean Pliya.
+Virginie aussi, l’avocate de Nathalie, héroïne d’un best-seller de feu Jean Pliya.
 
-Comme des personnages peuvent considérablement boosté nos capacités de jeunes  lycéennes!
+Comme des personnages peuvent considérablement boosté nos capacités de jeunes lycéennes!
 
 ![null](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
 
@@ -65,7 +65,9 @@ Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femm
 
 Je n’ai pas voulu partir loin de tout ça non mais j’ai fermé les yeux et à mon réveil, j’étais une petite étrangère dans une des plus belles villes de France.
 
-J’ai dit oui à l’aventure; le but était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+C’est ainsi que nous disons oui à l’aventure.
+
+Mon unique but était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -107,21 +109,25 @@ Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité,
 
 Vous savez, en toute chose, il y a malheureusement ou à profit, des non dits. 
 
-Ce texte était bien écrit de sorte que le public l’avait vachement bien accueilli, au delà même de mes attentes pour un premier article de blogue. C’était un succès mais personne ne pouvait imaginer, je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
+Ce texte était bien écrit de sorte que le public l’avait vachement bien accueilli; au delà même de mes attentes  je dirai pour un premier article de blogue. C’était un succès mais personne ne pouvait imaginer, je vous épargne la quantité de brouillons qu’ont essuyé mes peines.
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
-C’était plus profond que ce Bijoulisa et ce rêve de bloguer.
+C’était plus profond que le pseudo Bijoulisa et ce rêve de bloguer.
 
 Même si finalement je n’ai pas blogué grand chose, je sais aujourd’hui que je suis totalement à la hauteur de ce job. Seulement, mon temps est très précieux maintenant; à peine suffisant pour mes études de droits.
 
-La vie est faite d’expériences et certaines vont juste nous aider à nous connaître et mieux, à savoir exactement ce qui nous voulons être.
+La vie est faite d’expériences et certaines vont juste nous aider à nous connaître mieux et à savoir exactement ce que nous voulons être.
 
-Une blogueuse, non. 
+Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter, je ne peux plus m’en passer.
 
-Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter; juste ça.
+Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez.
 
-Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez. Face à des erreurs, les dénis de la réalité, les mensonges. Mais aussi, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. Folie des hommes.
+ Surtout quand je suis tombée nez à nez avec mes erreurs.
+
+Et ce n’est pas tout, les dénis de la réalité, les mensonges, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
+
+Folie des hommes.
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout pardonné.
 
@@ -141,35 +147,43 @@ Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la m
 
 Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur. Ça ne veut pas dire que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. J’ai placé mes standards à un niveau moyen parce que mon père m’a beaucoup enseigné sur l’humilité et le détachement toutefois avec moi même, j’étais plutôt pas gentille. La perspicacité de trop, tue la perspicacité et un jour j’ai pris la dérive.
+Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. Bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas gentille. 
+
+La perspicacité de trop, tue la perspicacité.
+
+ Et un jour, j’ai pris la dérive.
 
 Longtemps chagrinée et amère, je me suis cachée pour lutter pendant que la vie, simple et belle, m’attendait.
 
-Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’ accepter comme je suis, à accepter la honte et les défaites, à dire non tout en souriant. 
+Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’accepter comme je suis, à accepter la honte et les défaites, à dire non tout en souriant. 
 
 Il s’agit de la théorie du texte imparfait.
 
 1/ J’écris un texte ( sur la nature ou des animaux par exemple).
 
-2/ Je le relis deux jours après, pour corriger les fautes d’orthographe et les non sens jusqu’à ce qu’il soit correct.
+2/ Je le relis deux jours après, pour corriger les fautes d’orthographe et les non sens jusqu’à ce qu’il soit correct à mon sens.
 
-3/ je reprends la lecture deux jours plus tard pour me rendre compte qu’il y a toujours des corrections à faire. Je supprime des paragraphes, je gomme des expressions pour réécrire autrement ainsi de suite.
+3/ je reprends la lecture deux jours plus tard pour me rendre compte qu’il y a toujours des corrections à faire. Je supprime des paragraphes, je gomme des expressions pour réécrire autrement ainsi de suite, tous les deux jours.
 
 Vous verrez qu’il se passe quelque chose là.
 
 Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de se rendre compte que tout ce que nous savons, c’est que nous ne savons pas assez.
 
- Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. La vie est en perpétuelle changement, ne pas accepter ses erreurs, c’est refuser de grandir. Depuis que j’ai compris ceci, je vis simplement et mieux. 
+ Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. 
+
+La vie est en perpétuelle changement, ne pas accepter ses erreurs, c’est refuser de grandir. 
+
+Depuis que j’ai compris ceci, je vis simplement et mieux. 
 
 Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi c’est très cool mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
 
 Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut jamais abandonner.
 
-Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, mon véritable privilège, avec, d’avance, j’ai gagné toutes les guerres.
+Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, mon véritable privilège car avec, d’avance, j’ai gagné toutes les guerres.
 
-À toutes mes copines avec qui j’ai partagé des moments inoubliables, toutes les femmes qui n’abandonnent pas malgré les difficultés, celles qui se cherchent encore, celles qui se sont retrouvées déjà, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, blogueuses etc des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent....
+À toutes mes copines avec qui j’ai partagé des moments inoubliables, toutes les femmes qui n’abandonnent pas malgré les difficultés, celles qui se cherchent encore, celles qui se sont retrouvées déjà, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes etc des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent, merci.
 
-Merci
+Avec toute ma persévérance,
 
 \#Moimêmedabord
 
