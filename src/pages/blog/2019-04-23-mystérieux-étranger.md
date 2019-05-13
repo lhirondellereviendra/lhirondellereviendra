@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ephémère, inoubliable, c’etait déjà notre vin-deuxième baiser.
+  Ephémère, inoubliable, c’était notre vin-deuxième sourire.
 tags:
   - Vie
 ---
@@ -14,9 +14,9 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-Son murmure a langoureusement apprivoisé mon assurance.
+Ton murmure a langoureusement apprivoisé mon assurance.
 
-Et dire qu’hier encore je contrôlais ma vie. 
+Et dire qu’hier encore je pouvais contrôler ma vie. 
 
 Qu’est-ce que les chemins du cœur parfois sont imprévisibles! 
 
@@ -24,7 +24,7 @@ Trois, quatre, cinq, six vagues de tendresses ont suffi.
 
 Une pincée d’amour et une tonne de parfums pas plus.
 
-Pour que j’échange mille destins contre son unique sourire.
+Pour que j’échange mille destins contre ton unique sourire.
 
 Que c’est fou l’amour, il n’a jamais si bien porté son nom. 
 
@@ -40,7 +40,7 @@ Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
 Tourments- imprudences- des blessures jusqu’à l’infini.
 
-Longtemps, longtemps, longtemps; tu n’as plus souri;
+Longtemps, longtemps, longtemps; tu ne m’as plus souri;
 
 apparu, disparu, me laissant une couche de fiel sur la veine.
 
@@ -70,7 +70,7 @@ Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintena
 
 À peine, quand je tiens ma plume, je suis ivre de souvenirs.
 
-J’ai écris à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
+J’ai écrit à Juliette mes imaginations sans limites, ton prénom ainsi que quelques mots que je n’ai pas eu besoin de choisir.
 
 ![null](/img/f41b09a2-4c35-465a-83f6-e1587025c79b.png)
 
@@ -82,12 +82,18 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-J’ai croisé souvent de plus meilleurs cavaliers.
-
-Ceux qui se projettent pour un hiver de rêve et des soirées napolitaines.
-
 Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Pour un milliard de baisers, moi et mon mystérieux étranger.
+Dans un hiver de rêve et des soirées napolitaines.
+
+ Sous un milliard de baisers, moi et mon mystérieux étranger.
+
+Il fera si chaud ces jours là...
+
+Pour de bon je me passerai de ton ténébreux sourire, meilleur cavalier.
+
+\#whatislove
+
+\#joke
 
 \#selflove
