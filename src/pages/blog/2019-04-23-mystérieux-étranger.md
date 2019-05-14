@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: 'Mystérieux étranger '
+title: 'MYSTÉRIEUX ÉTRANGER '
 urlphoto: >-
   https://lhirondellereviendra.com/static/b5ecac4586dd6805c12ff9b85265a4dc/e9c61/11c3c6aa-0be7-4d1c-bbb5-755bab7616d4.png
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ténébreux, intensément, j’ai lu ma mort inscrite sur tes yeux.
+  Ténébreux, intense, j’ai lu ma mort inscrite sur tes yeux.
 tags:
   - Vie
 ---
@@ -46,9 +46,9 @@ Longtemps, longtemps, longtemps; tu ne m’as plus souri;
 
 apparu, disparu, me laissant une couche de fiel sur la veine.
 
-## Je suis plongée ce jour là dans une torpeur chaude et fiévreuse.
+## Il fait chaud ce jour là sur la chaussée de mon cœur.
 
-Alors que j’étais seule et n’avais envie de rien. 
+Maintenant je suis seule, je n’ai envie de rien. 
 
 ![null](/img/50554466_236645003929504_8709807348274692096_n.jpg)
 
@@ -66,7 +66,7 @@ To-ta-le-ment déchirée, brus-que-ment arrachée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
-## Mon esprit aiguisé domine mon corps ce jour là.
+## Il fait chaud ce jour là sur les morceaux de mon cœur 
 
 Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
@@ -84,13 +84,13 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-## Il fera chaud ces jours là sur les côtes de mon cœur.
+## Il fera chaud ce jour là sur les côtes de mon cœur.
 
-Pour un hiver de rêve et des soirées napolitaines.
+Dans un hiver de rêve et des soirées napolitaines.
 
- Dans une tonne de baisers, moi et le mystérieux étranger.
+ Sous une tonne de baisers, moi et le mystérieux étranger.
 
-Je penserai à ton ténébreux sourire, mon meilleur cavalier.
+Je penserai à ton sourire meilleur cavalier.
 
 \#whatislove
 
