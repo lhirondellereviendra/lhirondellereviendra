@@ -61,11 +61,11 @@ Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas voulu partir loin de tout ça non mais compte tenu du but, je devais fermer les yeux pour qu’à mon réveil, le mal soit déjà fait.
+Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal ait été déjà fait.
 
-Dans l’unique but de réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent, le lendemain matin j’etais devenue une belle étrangère dans une magnifique ville du sud de la France. 
+Pour réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent, le lendemain matin j’etais devenue une belle étrangère dans une magnifique ville du sud de la France. 
 
-Fragile n’est-ce pas ? Beau aussi peut-être; quoi qu’il en soit, c’est ainsi que nous disons oui à l’aventure.
+Fragile n’est-ce pas ? Beau aussi peut-être; quoi qu’il en soit, c’est de cette façon pque nous disons oui à l’aventure.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -85,27 +85,19 @@ Puis Fatou Diome, entre ses lignes, il y a quelque chose qui nourrit mon âme, m
 
 Oui je sais, il n’est jamais trop tard, j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
- Séréna Williams et son message à l’endroit de la jeunesse, son inspiration et la force de ses muscles. 
+ Séréna Williams et son message à l’endroit de la jeunesse, l’inspiration à flot et la force dans ses muscles. 
 
 ![null](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
 
-J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour mieux abriter mon esprit pure et sain.
+J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour abriter mon esprit sain.
 
 Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, j’en ai fait des références, je me suis inspirée mais pas plus.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, j’en ai fait des références et je me suis inspirée mais pas plus.
 
 Sans forcer l’allure, plus j’avance, plus un désert à l’infini s’étale devant moi.
 
- Ce qui est facile à comprendre c’est le fait qu’elles représentent les seules versions originales d’elles-mêmes? 
-
- Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
-
-Le projet de ressembler à l’une ou l’autre d’elles est d’office voué à l’echec.
-
-C’est comme cela que l’on se priver du droit de vivre, qu’on s’enferme et qu’on reste personne.
-
-Moi avant tout, je veux me retrouver, Elisabeth.
+Cardi. B est très célèbre et talentueuse mais notre génération n’a connu qu’une seule Nicky minaj.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -131,7 +123,7 @@ Bien sûr que je continuerai à écrire sur ce site parce que j’adore me racon
 
 Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un Bijou que je n’aimais pas assez.
 
- Un pack d’erreurs et ce n’est pas tout, les dénis de la réalité, les mensonges, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
+ Une bonne collection d’erreurs et ce n’est pas tout, les dénis de la réalité, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
 
 Folie des hommes.
 
@@ -153,17 +145,17 @@ Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la m
 
 Ce n’était pas évident avant; si vous ne l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur. Ça ne veut pas dire que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui et bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas cool. 
+Ceux qui me connaissent savent que je suis très sociable et capable de me montrer tolérante avec n’importe qui et bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas cool parce que je flottais constamment dans l’inquiétude. Je pense qu’à certains moments, j’avais dû être folle. À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
 
-Je flottais dans l’inquiétude. Je pense qu’à certains moments, j’av dû être folle. À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
+Chaque fois c’était horrible et cette situation je la connaissais tellement bien qu’elle m’etait devenue familière.
 
-Chaque fois c’était la fin et cette réaction, je la connaissais tellement bien qu’elle m’etait devenue familière.
+J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal, comme la dernière réaction d’un incapable.
 
-J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal.
+ Mais encore et encore, je prenais un sombre plaisir à rester sans agir, à paraître insoucieuse alors que de l’intérieur, j’étais achevée.
 
- Mais encore, je prenais un sombre plaisir à rester sans agir, à paraître insoucieuse alors que de l’intérieur, j’étais achevée.
+Je ne sais pas comment ça s’est passé, j’ai peut être eu la dernière goutte mais depuis ce déclic, j’avais ressenti que jamais plus, rien ne pourra me séparer de mes désirs. Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis.
 
-Je ne sais pas comment ça s’est passé, j’ai peut être eu la dernière goutte mais depuis ce jour là, j’avais ressenti que jamais plus, rien ne pourra me séparer de mes désirs. Les choses maintenant je les fais et c’est tout, je ne lutte plus, je vis.
+Et qu’est que c’est bon comme cela! La liberté dans l’action c’est mille fois mieux que le stress, les rêves et la passivité.
 
 Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’accepter comme je suis, à accepter la honte et les défaites, à dire non tout en souriant. 
 
@@ -181,9 +173,7 @@ Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de s
 
  Un plus un n’est peut être pas égale à deux même si ce résultat engage tous ceux qui comme moi, y croient fermement. 
 
-La vie est en perpétuelle changement, ne pas accepter ses erreurs, c’est refuser de grandir. 
-
-Depuis que j’ai compris ceci, je vis simplement et mieux. 
+La vie est en perpétuelle changement, ne pas accepter de se tromper, c’est refuser de grandir. Cette phrase a changé ma vie.
 
 Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi c’est très cool mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
 
@@ -193,7 +183,7 @@ Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveu
 
 Avec, d’avance, j’ai gagné toutes les bonnes guerres.
 
-À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvée, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent,
+À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent,
 
 avec toute ma persévérance💋
 
