@@ -39,7 +39,7 @@ Que je me consacre à l’étude des cellules et des tissus!
 
 J’aimais déjà trop les langues et les mots pour faire cela.
 
-De toutes façons, j’avais moi, mes propres souhaits alors!.
+De toutes façons, j’avais moi aussi mes propres rêves alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
@@ -47,7 +47,7 @@ J’etais quelques fois séduite par la beauté physique comme par la toge de ma
 
 Virginie aussi, l’avocate de Nathalie, héroïne d’un best-seller de feu Jean Pliya.
 
-Comme des personnages peuvent considérablement boosté nos capacités de jeunes lycéennes!
+Comme des personnages peuvent considérablement booster nos capacités de jeunes lycéennes!
 
 ![null](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
 
@@ -63,11 +63,11 @@ Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas voulu partir loin de tout ça non mais j’ai fermé les yeux et à mon réveil, j’étais une petite étrangère dans une des plus belles villes de France.
+Je n’ai pas voulu partir loin de tout ça non mais compte tenu du but, je devais fermer les yeux pour qu’a mon réveil, le mal soit déjà fait, pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent. 
 
-C’est ainsi que nous disons oui à l’aventure.
+Le lendemain matin, une belle étrangère dans l’une des plus belles villes de France. 
 
-Mon unique but était de pouvoir saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Fragile n’est-ce pas ? Beau aussi peut-être ; c’est ainsi que nous disons oui à l’aventure.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -95,11 +95,13 @@ J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois he
 
 Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; je me suis beaucoup inspirée mais pas plus. J’ai fini par comprendre qu’elles représentent les seules versions originales d’elle mêmes. Et ça croyez-moi ça a pris du temps.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, j’ai souvent forcé l’allure,  je me suis beaucoup inspirée mais pas plus. Plus j’avançais, plus le désert à l’infini s’etalait devant moi.
+
+ Ne représentent t-elles pas les seules versions originales d’elles-mêmes? Combien de temps faut-il pour comprendre cela?
 
  Cardi. B est très talentueuse et célèbre mais notre génération n’a connu qu’une seule Nicky minaj.
 
-Le fait est que en cherchant toutes ces années à ressembler à l’une ou l’autre d’elles, je suis restée personne; je me suis oubliée moi, Elisabeth.
+Le projet de ressembler à l’une ou l’autre d’ellesedt voué à l’echec, c’est me priver du droit de vivre, accepter de rester personne, de m’oublier moi, Elisabeth.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -117,19 +119,17 @@ C’était plus profond que le pseudo Bijoulisa et ce rêve de bloguer.
 
 Même si finalement je n’ai pas blogué grand chose, je sais aujourd’hui que je suis totalement à la hauteur de ce job. Seulement, mon temps est très précieux maintenant; à peine suffisant pour mes études de droits.
 
-La vie est faite d’expériences et certaines vont juste nous aider à nous connaître mieux et à savoir exactement ce que nous voulons être.
+La vie est faite d’expériences et certaines vont juste nous aider à nous connaître mieux et à savoir exactement qui nous voulons être.
 
 Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter, je ne peux plus m’en passer.
 
-Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un ennemi, un Bijou que je n’aimais pas assez.
+Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un Bijou que je n’aimais pas assez.
 
- Surtout quand je suis tombée nez à nez avec mes erreurs.
-
-Et ce n’est pas tout, les dénis de la réalité, les mensonges, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
+ Un pack d’erreurs et ce n’est pas tout, les dénis de la réalité, les mensonges, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
 
 Folie des hommes.
 
-Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout pardonné.
+Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout bradé.
 
 J’ai aussi profité pour apprendre à rire.
 
@@ -147,13 +147,19 @@ Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la m
 
 Ce n’était pas évident avant; si vous ne le l’aviez pas remarqué, je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur. Ça ne veut pas dire que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris; c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui. Bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas gentille. 
+Ceux qui me connaissent savent que je suis sociable et capable de me montrer tolérante avec n’importe qui et bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas cool. 
 
-La perspicacité de trop, tue la perspicacité.
+Je flottais dans l’inquiétude. Je pense qu’à certains moments, j’av dû être folle. À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
 
- Et un jour, j’ai pris la dérive.
+J’observais de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal, comme si c’était la fin.
 
-Longtemps chagrinée et amère, je me suis cachée pour lutter pendant que la vie, simple et belle, m’attendait.
+Chaque fois c’était la fin. Cette réaction, je la connaissais tellement bien qu’elle m’etait devenue familière.
+
+Je prenais un sombre plaisir à rester sans agir, à paraître insoucieuse alors que de l’intérieur, j’étais achevée.
+
+Je n’ai pas comment ça s’est passé, j’ai peut être eu ma dose mais depuis ce jour là, j’avais ressenti que  jamais plus, rien ne pourra arrêter mes désirs. 
+
+Les choses maintenant je les fais et c’est tout, je ne lutte plus, je vis.
 
 Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée à m’accepter comme je suis, à accepter la honte et les défaites, à dire non tout en souriant. 
 
