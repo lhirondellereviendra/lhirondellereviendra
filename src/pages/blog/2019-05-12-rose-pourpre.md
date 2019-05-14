@@ -28,7 +28,7 @@ de petits gestes, des sentiments vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont transmis des valeurs de sorte qu‘aujourd’hui je puisse voler de mes propres ailes.
+Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont transmis des valeurs.
 
 Je suis parée pour la vie, c’est grâce à eux si vous m’avez connue et appréciée.
 
@@ -36,15 +36,19 @@ En ce moment même je me trouve comme sur un grand carrefour. Je tiens ma valise
 
 Seulement un pont nous sépare du navire qui m’attend. Ils n’auront pas à me conduire à quai, encore moins embarquer.
 
-Je suis très fière deplus d’une vingtaine d'années de contradictions, une bonne quantité de sang froid, nos joutes de répliques comme un combat de coq, silencieux, imparfait, familial.Montesquieu disait ceci: heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour.j’ai appris à être mûre et mature.
+Je pars victorieuse, mûre et mature et même si demain encore je continuerai à apprendre de mes erreurs, je garde en mémoire une vingtaine d'années de contradictions, une bonne quantité de sang froid, nos joutes de répliques comme un combat de coqs, silencieux, familial.
 
-Et pourtant, demain encore, je continuerai à apprendre de mes erreurs.
-
- 
+Montesquieu disait ceci: heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour.j’ai appris à être mûre et mature.
 
 ![null](/img/81eaa0a3-8220-4589-b897-357d3d9b6355.png)
 
-Des terres, des jours... j’ai eu la chance de connaître une deuxième famille.Nous avons échangé nos joies et bien au delà, de belles histoires et l’envie de réussir.Toutes les personnes qui seront là encore demain, celles qu’on ne prévient pas toujours, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.J’ai aussi des camarades et des cousines de coeur, celles qui nous aiment sans d’abord résoudre les probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus ni retenus et les personnes à qui j'ai donné plus qu'il n’en fallait.
+Des terres, des jours... j’ai eu la chance de connaître une deuxième famille.
+
+Nous avons échangé nos joies et bien au delà, de belles histoires et l’envie de réussir.
+
+Toutes les personnes qui seront là encore demain, celles qu’on ne prévient pas toujours, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
+
+J’ai aussi des camarades et des cousines de coeur, celles qui nous aiment sans d’abord résoudre les probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus ni retenus et les personnes à qui j'ai donné plus qu'il n’en fallait.
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
