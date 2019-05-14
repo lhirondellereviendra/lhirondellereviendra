@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ephémère, inoubliable, c’était notre vin-deuxième sourire.
+  Ténébreux, intensément, j’ai lu ma mort inscrite sur tes yeux.
 tags:
   - Vie
 ---
@@ -14,9 +14,11 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
+C’était déjà notre treizième sourire, autant que nos baisers.
+
 Ton murmure a langoureusement apprivoisé mon assurance.
 
-Et dire qu’hier encore je pouvais contrôler ma vie. 
+Et dire qu’hier encore je contrôlais ma vie. 
 
 Qu’est-ce que les chemins du cœur parfois sont imprévisibles! 
 
@@ -44,9 +46,9 @@ Longtemps, longtemps, longtemps; tu ne m’as plus souri;
 
 apparu, disparu, me laissant une couche de fiel sur la veine.
 
-## Il fait chaud ce soir sur la chaussée de mon cœur.
+## Je suis plongée ce jour là dans une torpeur chaude et fiévreuse.
 
-Maintenant je suis seule et je n’ai envie de rien. 
+Alors que j’étais seule et n’avais envie de rien. 
 
 ![null](/img/50554466_236645003929504_8709807348274692096_n.jpg)
 
@@ -64,7 +66,7 @@ To-ta-le-ment déchirée, brus-que-ment arrachée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
-## Il fait chaud ce soir sur les morceaux de mon cœur.
+## Mon esprit aiguisé domine mon corps ce jour là.
 
 Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
