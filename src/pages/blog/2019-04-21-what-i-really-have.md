@@ -183,13 +183,9 @@ Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveu
 
 Avec, d’avance, j’ai gagné toutes les bonnes guerres.
 
-À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent,
+À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent, je l’ai écrit pour vous, au lendemain de mon anniversaire, avec toute ma persévérance.💋
 
-avec toute ma persévérance💋
-
-\#modèles
-
-\#inspiration
+\#avril2019
 
 \#Confiance
 
