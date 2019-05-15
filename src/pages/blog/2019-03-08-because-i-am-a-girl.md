@@ -21,21 +21,21 @@ Ma voix s’élève et je peux m’entendre dire merci à la vie tout court.
 
 Je suis ultra fière et reconnaissante pour tout ce que j'ai, pour la belle personne que je deviens: une jeune femme intelligente, sympathique et POSEY: une vraie diva.
 
-Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais, together we can.
+Et vous voyez ce sourire qui jamais plus ne disparaîtra de mon visage, c’est ma façon de dire à toutes les déesses à travers cette planète qu’il n’est jamais trop tard pour faire quoi que ce soit; non jamais, « together we can ».
 
 ## Petite créature que je n'ai jamais vue,
 
-Ici, la loyauté sexiste est en crise; inégalités par dessus inégalités. 
+Ici, la loyauté sexiste est en crise,  inégalités par dessus inégalités. 
 
 ![null](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
 
-## n’opte pas souvent pour les compromis, tâches toi de mener des combats.
+## n’opte pas souvent pour les compromis, mène des combats.
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde. 
 
 Tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
 
-Et s’il le faut, j’irais au delà des mots.
+S’il le faut, j’irai au delà des mots.
 
 Une façon,
 
@@ -57,11 +57,11 @@ Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
 Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions  égrainer de longs chapelets; toi pour invoquer les esprits et moi pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
-![](/img/design-sans-titre.png)
+## Petite créature que je n’ai jamais vue
 
-Petite créature, je te veux pour construire des voies, je te veux instruite et réfléchie.
+![](/img/8a3b3414-59e3-48f1-9896-78d2328cc32e.png)
 
-S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore. 
+Je te veux pour construire des voies, je te veux instruite et réfléchie.
 
 **_Quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.**
 
