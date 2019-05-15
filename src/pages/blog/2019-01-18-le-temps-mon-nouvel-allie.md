@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: 'LE TEMPS, MON NOUVEL ALLIE'
-urlphoto: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/50407748_330082657602658_755304848366239744_n.png
+urlphoto: 'blob:https://lhirondellereviendra.com/d6ae7427-c492-46e0-a5a6-53428eabd4b1'
 date: 2019-01-18T19:59:30.773Z
 description: >-
   Ce monde va de plus en plus vite et on se demande comment garder le rythme
@@ -13,17 +12,17 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/50407748_330082657602658_755304848366239744_n.png)
+![null](/img/e0267ee1-db24-44ee-aeca-ae9d3feec76e.jpeg)
 
 Je prends du recul, une question me hante : du temps, en avons-nous suffisamment? Sinon pourquoi n'arrivons nous pas à bien gérer le peu qui nous est gracieusement accordé ?
 
 Le temps se décrit comme une durée plus ou moins définie dont quelqu'un dispose. Très tôt, Lénine écrivait <<le temps n'attend pas.>> Sais tu pourquoi le temps ne s'arrête jamais? Peut-être que non. Mais tu sais sûrement pourquoi tu attends le temps! J'ai lu quelque part que le temps n'attend pas parce qu'il doit s'envoler, olala !
 
-![null](/img/50016847_2035127619937583_7547042212417110016_n.png)
-
 Depuis toujours, nous sommes témoins de tant de phénomènes; naturels ou non, catastrophiques ou moins catastrophiques, le temps ne s'est pas arrêté. Selon le texte sacré de la genèse, le créateur a fait le monde en six (06) jours et s'est reposé le lendemain qu'il nomma septième sans arrêter le temps. Des jours, nous sommes passés aux millénaires, le temps ne s'est jamais arrêté.
 
 Cependant, secondes, minutes, instants, moments, chaque jour plusieurs attendent le temps ! "Why is that?" Pendant ce temps, d'autres ont compris, ils entrent en compétition avec, la course est rude. Il est cher le temps, il faut savoir l'employer, éviter d'en perdre pour ne pas tomber dans son piège.
+
+![](/img/5bc33081-82c0-4010-ab05-b3ab809dd07f.png)
 
 Il est aussi défini comme la dimension dans laquelle des événements peuvent être ordonnés du passé au futur en passant par le présent. C'est grâce au temps qu'on passe les saisons, de la pluie à la sécheresse, de la soudure à l'abondance. Le temps m'a ôtée de la misère pour m'offrir le nécessaire, il a réglé mes impulsions et depuis, j'agis avec pondération. Il n'a pas hésité à faire de nos mères des grands-mères. Nous l'avons vu réduire des présidents à de malheureux prisonniers, du télégramme, on est passé aux messages instantanés. Il rend l'impossible possible, il nous fait voir de toutes les couleurs.
 
@@ -43,6 +42,8 @@ Je n'avais du temps pour rien ni pour personne, même pas pour moi.
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
+![](/img/0880eba1-ccac-4667-9004-6ab798b8b592.png)
+
 Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte pour moi, je n'attendrai plus le meilleur moment de peur qu'il me file entre les doigts. Ainsi je crée les occasions, saisis les opportunités, elles sont toutes bonnes en fin de compte, il suffit que j'aille à mon rythme. Je décide de m'entourer de personnes déterminées, celles qui sont toujours prêtes à essayer, je veux faire ce que j'aime, il est temps d'écourter ce sommeil.
 
 À Jamais je suis convaincue que le temps a tous les pouvoirs. C'est lui qui panse les blessures; avec, nous avons pu accéder à "l'indépendance", il enterre la hache de guerre, améliore les capacités, lui seul resserre les cœurs, flétrit la rose pourtant belle, il restera le plus grand art de l'homme.
@@ -51,9 +52,9 @@ C'est beau tout ça mais sans doute difficile dans la pratique.
 
 Ce qui est faisable, c'est de choisir un camp. Celui des savants ou mourir ignorant! Dites moi donc, quel est votre choix?
 
-Bien heureusement, nous sommes à l'ère du savoir, la connaissance est à portée de main, on peut tout voir, internet est là et tout ça grâce au temps. Les enfants croient de moins en moins leurs parents, le temps a fait de Google l'ultime concurrent. Plus besoins de potes pour passer un bon week-end; le soir, seule, je rigole sur les réseaux.
+![](/img/11455046-6bdb-445e-ad9d-82a696b40bd8.png)
 
-![null](/img/50288862_2021480107938451_6051539406018314240_n.png)
+Bien heureusement, nous sommes à l'ère du savoir, la connaissance est à portée de main, on peut tout voir, internet est là et tout ça grâce au temps. Les enfants croient de moins en moins leurs parents, le temps a fait de Google l'ultime concurrent. Plus besoins de potes pour passer un bon week-end; le soir, seule, je rigole sur les réseaux.
 
 Le réseau social, cet outils de communication telle une arme à double tranchant ( ...) grâce à lui, plusieurs personnes se sont réalisées, moi il m'a permis de vous rencontrer, par son biais certains se sont emmerdés et de manière réussie d'autres ne cessent de se noyer... Qu'est ce qu'il a le pouvoir de nous mener! Surtout que de plus en plus il nous prend autant de temps.
 
