@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: GIRL. P O W E R
-urlphoto: 'https://lhirondellereviendra.com/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg'
+urlphoto: 'https://lhirondellereviendra.com/img/img_0015.jpg'
 date: 2019-03-08T19:58:22.094Z
 description: >+
 
