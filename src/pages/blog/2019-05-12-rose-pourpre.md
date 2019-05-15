@@ -20,9 +20,9 @@ Ma mère me l’avait offerte pendant mes vacances chez elle, à la ferme famili
 
 Elle m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Ça fait longtemps maintenant, très longtemps que je ne l’ai plus jamais porter.
+Ça fait longtemps maintenant, très longtemps.
 
- Mais cet objet m’accompagne toujours et me chérit.
+ Cet objet m’accompagne toujours et me chérit.
 
 Il y a bien des choses que l'argent n'achète pas, parce que avec tout l’or du monde, nous ne pouvons ni les avoir ni les troquer.
 
