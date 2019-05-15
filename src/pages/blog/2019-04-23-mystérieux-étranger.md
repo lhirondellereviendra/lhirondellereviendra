@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Ténébreux, intense, j’ai lu ma mort inscrite sur tes yeux.
+  Éphémère, inoubliable, c’était déjà le treizième sourire.
 tags:
   - Vie
 ---
@@ -14,11 +14,11 @@ tags:
 
 ## Il fait chaud ce jour là sur les côtes de mon cœur.
 
-C’était déjà notre treizième sourire, autant que nos baisers.
+Ténébreux, intense, j’ai lu ma mort inscrite sur tes yeux.
 
 Ton murmure a langoureusement apprivoisé mon assurance.
 
-Et dire qu’hier encore je contrôlais ma vie. 
+Et dire qu’hier encore je pouvais contrôler ma vie. 
 
 Qu’est-ce que les chemins du cœur parfois sont imprévisibles! 
 
@@ -66,7 +66,7 @@ To-ta-le-ment déchirée, brus-que-ment arrachée.
 
 J’ai vu des jours sombres après ton départ soudain, inacceptable.
 
-## Il fait chaud ce jour là sur les morceaux de mon cœur 
+## Il fait chaud ce jour là sur les morceaux de mon cœur
 
 Je n’ai pas eu le temps de m’accrocher à toi comme je m’accroche maintenant à mes espoirs.
 
@@ -88,12 +88,10 @@ Que les chemins de l’amour parfois sont difficiles!
 
 Dans un hiver de rêve et des soirées napolitaines.
 
- Sous une tonne de baisers, moi et le mystérieux étranger.
+Au bras d’un mystérieux étranger.
 
-Je penserai à ton sourire meilleur cavalier.
+Je penserai à ce quatorzième sourire, moi, mon meilleur cavalier.
 
 \#whatislove
 
 \#joke
-
-\#selflove
