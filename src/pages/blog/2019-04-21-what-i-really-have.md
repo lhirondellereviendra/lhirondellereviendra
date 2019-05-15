@@ -93,15 +93,13 @@ J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois he
 
 Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, j’en ai fait des références, j’ai trouvé de  l’inspiration mais pas plus.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, des références.
 
-Face à mes ambitions et tous ces modèles, je ne me retrouvais toujours pas. 
+D’elles je me suis inspirée mais pas plus.
 
 J’ai parfois forcé l’allure mais plus j’avançais, plus un désert à l’infini s’étalait devant moi.
 
-J’ai compris qu’il fallait que je m’arrête ou même que je me tourne un peu pour ne regarder que moi.
-
-Cardi. B est très célèbre et talentueuse mais notre génération n’a connu qu’une seule Nicky minaj.
+J’ai compris qu’il fallait que je m’arrête un court instant pour ne regarder que moi.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -127,15 +125,15 @@ La vie est faite d’expériences et certaines vont juste nous aider à nous dé
 
 Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter, c’est quelque chose dont je ne peux plus me priver.
 
-Durant ce processus qui consistait à faire connaissance avec moi même, je me suis trouvée face à un Bijou que je n’aimais pas assez.
+Durant ce processus, j’ai fait connaissance avec un Bijou que je n’aimais pas assez.
 
- Une bonne collection d’erreurs et ce n’est pas tout, les dénis de la réalité, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
+ Il y avait aussi une collection d’erreurs et ce n’est pas tout; les dénis de la réalité, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
 
 Folie des hommes!
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout bradé.
 
-![](/img/96b4c45f-1c4e-4e51-bca2-0028b266553e.jpeg)
+![null](/img/96b4c45f-1c4e-4e51-bca2-0028b266553e.jpeg)
 
 J’ai aussi profité pour apprendre à rire.
 
@@ -165,21 +163,17 @@ Ceux qui me connaissent savent que je suis très sociable et capable de me montr
 
 À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
 
-Chaque fois c’était horrible et cette situation je la connaissais tellement bien qu’elle m’etait devenue familière.
+Chaque fois c’était horrible; cette situation je la connaissais tellement bien qu’elle m’etait devenue familière.
 
 J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal, comme la dernière réaction d’un incapable.
 
  Mais encore et encore, je prenais un sombre plaisir à rester sans agir, à paraître insoucieuse alors que de l’intérieur, j’étais achevée.
 
-Je ne sais pas comment ça s’est passé, j’ai peut être eu la dernière goutte mais depuis ce déclic, j’avais ressenti que jamais plus, rien ne pourra me séparer de mes désirs. 
+Puis un jour, je n’ai pas digéré la dernière goutte.
 
-Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis.
+ J’avais compris que plus rien ne pourra me séparer de mes désirs. 
 
-![](/img/d20bfc77-2b93-437b-a206-845ca674fe61.png)
-
-Et qu’est-ce que c’est bon comme cela! 
-
-La liberté dans l’action c’est mille fois mieux que le stress, les gros rêves et la passivité.
+Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis; c’est la liberté dans l’action.
 
 Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée durant tout le cheminement mais précisément pour m’accepter comme je suis, imparfaite.
 
@@ -201,8 +195,6 @@ Le texte ne change pas, vous non plus, ou peut-être que si mais le but est de s
 
 La vie est en perpétuelle changement, ne pas accepter de se tromper, c’est refuser de grandir. 
 
-Cette phrase a changé ma vie.
-
 Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi c’est très cool mais ne pas faire attention ni chercher qui on est soi même, c’est dangereux.
 
 Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut jamais abandonner.
@@ -211,7 +203,9 @@ Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveu
 
 Avec, d’avance, j’ai gagné toutes les bonnes guerres.
 
-À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent, je l’ai écrit pour vous, au lendemain de mon anniversaire, avec toute ma persévérance.💋
+À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent...
+
+Avec toute ma persévérance.💋
 
 \#avril2019
 
