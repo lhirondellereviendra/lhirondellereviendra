@@ -11,15 +11,13 @@ description: >+
 tags:
   - Vie
 ---
-![null](/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg)
+![](/img/img_0015.jpg)
 
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
 Ce matin, je me regarde dans cette glace et un seul mot me vient à l’esprit : merci.
 
 Ma voix s’élève et je peux m’entendre dire merci à la vie tout court.
-
-![null](/img/e89574a7-8235-4d04-b1de-4d57f8c24365.png)
 
 Je suis ultra fière et reconnaissante pour tout ce que j'ai, pour la belle personne que je deviens: une jeune femme intelligente, sympathique et POSEY: une vraie diva.
 
@@ -59,21 +57,27 @@ Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
 Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions  égrainer de longs chapelets; toi pour invoquer les esprits et moi pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
+![](/img/design-sans-titre.png)
+
 Petite créature, je te veux pour construire des voies, je te veux instruite et réfléchie.
 
 S'il arrive que tu sois inquiète, si le soir tu doutes, je téléphonerais avant l'aurore. 
 
-**_Puis quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.**
+**_Quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.**
 
-**Être éducatrice est plus qu'un métier et être mère représente un sacerdoce. Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
+**Être éducatrice est plus qu'un métier et être mère représente un sacerdoce. **
+
+**Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
 
 Indéniablement, elles sont la lumière et toutes ces petites représentent l’avenir.
  Femmes fortes, filles équilibrées, femmes averties, filles mieux éduquées. 
 
 _**
-L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie. C’est cette chance que je vous souhaite à toutes._
+L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie._
 
-**Parce que seulement sur de telles pierres, nous réussirons à rebâtir le monde. **
+_ C’est cette chance que je vous souhaite à toutes._
+
+** Sur de telles pierres, nous réussirons à rebâtir le monde. **
 
 Posez les vôtres quelques soient leurs modèles. 
 
