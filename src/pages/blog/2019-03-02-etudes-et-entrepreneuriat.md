@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: ETUDES ET ENTREPRENEURIAT
-urlphoto: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/51710782_753581851679180_3500770655480053760_n.jpg
+urlphoto: 'blob:https://lhirondellereviendra.com/77e0c3af-3098-441a-99c2-4f6e0563e717'
 date: 2019-03-02T10:19:40.760Z
 description: >
   Quand on est jeune étudiant, plein d’entrain et que l’on souhaite constamment
@@ -10,7 +9,7 @@ description: >
 tags:
   - Actu
 ---
-![null](/img/1886e625-49a4-486e-b096-7c2485bfc1f2.jpeg)
+![null](/img/faf07a81-998c-4303-a0f1-2a6ef245b7c8.jpeg)
 
 Arrives-tu à concilier ton blog et tes études? Quelles sont les difficultés que tu rencontres? Sinon quels sont les conseils que tu peux donner? Voilà les questions récurrentes.
 
@@ -24,7 +23,7 @@ Quant à l’entrepreneuriat, ça touche à plus de pratiques avec les mêmes fi
 
 **S’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
 
-![](/img/ae4a587a-8b81-4f3d-b981-660efbb83495.jpeg)
+![null](/img/ae4a587a-8b81-4f3d-b981-660efbb83495.jpeg)
 
 Ainsi cette belle combinaison présente des risques. Déjà parce que le domaine entrepreneurial exige beaucoup d’efforts et de fidélité tout comme les études. **A** **l’évidence, l'on ne peut passer d’une idée simple à une entreprise toute faite de façon abrégée**. 
 
@@ -36,7 +35,7 @@ Voilà pourquoi vouloir être chef d’entreprise et étudiant en même temps, m
 
 **Le risque majeur selon moi serait de rater les deux.**
 
-![](/img/e5c9a234-aaf1-4f85-9537-94aea2da5095.png)
+![null](/img/e5c9a234-aaf1-4f85-9537-94aea2da5095.png)
 
 Posez la question à un ami entrepreneur qui a du succès, si vous en connaissez.
 
@@ -52,7 +51,7 @@ Donc il n’y a aucun mal à essayer; au contraire, et bien souvent, rien que le
 
 Quand j’écris, j’ai le sentiment de renaître : ça commence généralement par un mot; ensuite deux, puis trois, une phrase puis 5000 mots qui me servent chacun et me rapprochent de vous.
 
-![](/img/a8f85d19-8cf2-44ea-ab3b-50e5616a2ada.png)
+![null](/img/a8f85d19-8cf2-44ea-ab3b-50e5616a2ada.png)
 
 C’est comme cela que certains accomplissent de grandes œuvres parallèlement aux études sans pour autant avoir le sentiment de travailler doublement. 
 
