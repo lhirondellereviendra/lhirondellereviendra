@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: 'DU RÊVE À LA RÉALITÉ '
-urlphoto: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/50279641_811841379170265_7138089385135702016_n.jpg
+urlphoto: 'https://lhirondellereviendra.com/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg'
 date: 2018-12-31T19:22:57.524Z
 description: >-
   < Quand je serai grand, je serai millionnaire >
@@ -13,7 +12,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/50279641_811841379170265_7138089385135702016_n.jpg)
+![null](/img/395fdd83-5a8f-40ba-b9be-2c0c447eb3b2.jpeg)
 
 Mes mots, parfois je les étale partout pour ne pas qu'ils s'abîment; pour ne pas qu'ils me quittent. Aussi, je les croise souvent comme dans un jeu pour en faire des chants qui au besoin m'entraînent loin le jour et la nuit, me bercent.
 
@@ -45,7 +44,7 @@ Le boulanger ne fait pas l'exception; il est condamné à se lever tôt car dans
 
 Et toi, un jour tu rêves de réaliser ton plus grand rêve... tu te vois entrain de conquérir le monde mais étant ce qu'il est, le lendemain, des obstacles se dressent. De nouveaux chapitres apparaissent et ne les maîtrisant pas tous, tu paniques. Plus sûr de vouloir toutes ces belles choses et donc tu doutes de tes capacités. Paresse et démotivation se rencontrent pour se mêler au désespoir. Tu perds toute confiance en toi. Le surlendemain, tu te réveilles avec une nouvelle résolution : il vaut mieux oublier toutes ces idées impossibles, de toute façon elles sont trop grandes et toi trop petit. **En plus tu as encore du temps,** d'ailleurs ça commence par te soûler! tout ce que tu essaies échoue, c'est sûre tu as la poisse*. Vite, tu passes un coup d'aspirateur, anciens et nouveaux projets dans le placard plus d'audace et voilà la peur s'installe.
 
-![null](/img/50133399_1993203920988017_1022753106133254144_n.png)
+![null](/img/50279641_811841379170265_7138089385135702016_n.jpg)
 
 La peur! tout le piège se trouve dans ce petit mot. Il a malheureusement plus de pouvoir qu'on ne le pense. A trop craindre le pire on l'oblige à venir dit-on. Il serait profitable donc d'aller chercher ailleurs; du côté de la persévérance peut-être; et si ce mot aussi fait peur alors procédons par étapes.** Avoir une vision, y croire ou non, passer à l'action quand même, échouer peut être, recommencer surtout, encore et sans relâche pour aboutir, finir par y croire et savourer la réussite.**
 
