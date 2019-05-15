@@ -25,7 +25,7 @@ Souvent j’ai le sentiment d’avoir déjà vécu ici avec toi et TOUT en ce jo
 
 Je refuse de croire qu’autant de kilomètres nous séparent; espérant que tu reviennes du marché le soir, comme avant, comme quand j’avais dix ans; espérant qu’à nouveau tu me dises un de tes inspirants récits.
 
-![](/img/497b81f3-ed8a-41c3-b885-357cfc5e7515.jpeg)
+![null](/img/497b81f3-ed8a-41c3-b885-357cfc5e7515.jpeg)
 
 Chères mamans, à l’occasion je voudrais vous redire que les plus beaux moments de nos vies sont ceux passés avec vous. Tellement vous avez tout, tellement le sel est doux ; si belles vous êtes mères! Vous aimez délicieusement nos pères et intensément nos frères.
 
@@ -43,7 +43,7 @@ A chaque fois c'était de douloureuses séparations; maman me cachait ses larmes
 
 Finalement, je rentrais bredouille puisqu'elle s’en allait avec tout et pour essayer d'aller mieux, je la rappelais aussitôt pour écouter sa voix, recherchant déjà son odeur. 
 
-![](/img/dc95315a-b495-480f-8a19-e497660e91df.jpeg)
+![null](/img/d9aeb36b-a221-4b3c-a9f3-886cec0960e5.jpeg)
 
 Nous ne pouvions nous empêcher de libérer nos larmes, elles étaient chaudes venant de nos âmes et amères coulant sur nos lèvres.
 
