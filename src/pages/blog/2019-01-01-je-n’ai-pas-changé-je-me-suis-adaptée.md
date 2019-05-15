@@ -41,7 +41,7 @@ Ce poids, cette douleur sur mes épaules, elle a duré jusqu'à hier.. c'était 
 
 Pourtant mon père, d'un air avertisseur, ne cessait de répéter que si cela ne tenait qu'à lui, je partirais avec une valise vide.  Moi toute seule, plus tard à Paris, sous ma croix de cinquante six kilos, j'ai repensé à eux deux; cette scène entre la protectrice et le préventif ne sachant qui remercier sur le coup, je me suis contentée de lâcher un sourire très court. 
 
-![null](/img/b9aa67d7-2de2-4efc-bad6-bf1e1d578657.jpeg)
+![null](/img/93d3e8f1-bdfa-4cd6-bdeb-ee263f6bd2cb.jpeg)
 
  Le lendemain matin, j'ai payé soixante dix euros pour échanger mon fardeau avec le premier TGV qui nous transporta jusqu'à Montpellier.  Aussitôt a t-il démarré, que je ne voulais plus y aller. 
 
