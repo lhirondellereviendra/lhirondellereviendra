@@ -28,7 +28,7 @@ description: >
 tags:
   - Réflexions
 ---
-![](/img/img_0042.jpg)
+![null](/img/img_0042.jpg)
 
  Et dire que souvent nous cherchons loin ce qui se trouve à proximité. Le bonheur a t-il de saison ?
 
@@ -44,6 +44,8 @@ Il faut se donner la capacité d’être heureux en regardant tout, profondémen
 
 LA RECONNAISSANCE
 
+![](/img/de2c381d-5f01-40c5-9732-a32debee9c1c.png)
+
 La vie est un présent pour lequel je ne cesserai de dire MERCI.
 
 J’apprends à sourire plus souvent et à rendre grâce pour ma situation car telle la gloire succède à l’humilité, la gratitude précède l’accomplissement et l’abondance. 
@@ -57,6 +59,8 @@ let’s focus on the present guys! parlons de jeunesse, vivons cette étape remp
 C’est sûr qu’en conciliant le tout nous pouvons tirer plein profit.
 
 LA RÉ-CONCILIATION
+
+![](/img/ef14d9dc-5246-4902-904f-da71e1e1fba4.png)
 
 Je dois dire que cela implique la joie de vivre, la positivité, la mansuétude car la rancœur empêche d’être heureux et l’hypocrisie rend malheureux. 
 
@@ -72,6 +76,8 @@ Sans doute c’est une très belle arme, celle dont se servent les âmes fortes 
 
 Alors, LA CONFIANCE EN SOI devrait-on encore en parler?
 
+![](/img/ae4a587a-8b81-4f3d-b981-660efbb83495.jpeg)
+
 La vérité c’est que tout le monde a des problèmes et donc les uns se foutent à raison de ceux des autres.
 
 C’est clair que personne ne fera rien à ta place et que seul le travail acharné, le même qui sépare le rêve de la réalité pourra te libérer.
@@ -80,9 +86,11 @@ Face à cela, tu n’as qu’un seul choix: prendre confiance et essayer le plus
 
 Prévoyez!
 
-![](/img/img_0055-1-.jpg)
+![null](/img/img_0055-1-.jpg)
 
 LA PRÉVOYANCE
+
+![](/img/50294480_602422697251682_1274904154975764480_n.png)
 
 Si vous êtes de bons observateurs, vous verrez que le bonheur n’est pas constant. 
 
@@ -100,6 +108,8 @@ Simplify! simplify! please, forgive and simplify.
 
 L’INSOUCIANCE ET LE CONTENTEMENT
 
+![](/img/50015958_839415146390480_670990250889183232_n.png)
+
 Je ne peux contrôler ni le monde ni ce qu’il contient.
 
 Donc si les résultats ne suivent pas mes actions ou pas comme je souhaite, parfois je choisis de ne pas épuiser pour autant mes forces; je fais table rase et je garde le sourire.
@@ -111,6 +121,8 @@ Le bonheur serait un état d’esprit; un malheur qui enseigne mieux, des coups 
 « J’étais malheureux de n’avoir pas de souliers, Alors j’ai rencontré un homme qui n’avait pas de pieds et je me suis trouvé content de mon sort ». Ce contentement dont parle Meng-Tsen, il l’a trouvé dans l’être en minimisant l’avoir.
 
 Si tu es croyant je vais dire abandonne-toi à Dieu; si non je dirai détache toi des choses à des moments donnés et connecte-toi à toi même; la seule personne que tu peux contrôler finalement.
+
+![](/img/img_0055-1-.jpg)
 
 Pour moi, le sourire, le partage, les amis, la vie; c’est maintenant.
 
