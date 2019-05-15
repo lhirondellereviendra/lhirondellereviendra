@@ -22,11 +22,9 @@ Les deux me vont si bien, tels le marteau et l'enclume, je me réserve ainsi d'u
 
 En ce qui concerne ce blog, c'est un rêve d'ado. Mes potes m'ont surnommée Bijou la blogueuse car je répétais que je voulais être blogueuse sans même connaître la définition de ce mot. Aujourd'hui je ne peux plus attendre, je veux écrire, me raconter et mettre en œuvre ma créativité. Essentiellement, je voudrais pouvoir faire découvrir je ne sais encore quoi exactement. Je me lance quand même sans me soucier de demain car à coup sûr il est rempli de perspectives encore largement inexplorées.
 
-![](/img/b3271d2a-0926-40b3-827f-699979a2035d.jpeg)
-
 Ensemble donc, vous et moi y parviendrons, Nous, parce que je ne suis pas la seule à avoir réalisé cette complicité entre le soleil et la lune si bien que quelque soit la durée de la nuit, le jour finit toujours par apparaître! c'est merveilleux n'est ce pas? Mais vous savez aussi que les regards se fixent beaucoup plus sur l'apparence que sur l'essence même des personnes et des choses. Ça c'est moins merveilleux. Quoi qu'il en soit, le secret c'est de savoir se passer du jugement des autres, pour y arriver, il faut apprendre à se redécouvrir, s'aimer et se préférer.
 
-![](/img/c68a1819-7086-4ac5-aa8b-760bb600a92f.jpeg)
+![null](/img/c68a1819-7086-4ac5-aa8b-760bb600a92f.jpeg)
 
 Ce n'est pas pour rien que chacun a un prénom même si tout le monde s'appelle les Hommes et c'est incontestablement pareil dans les familles c'est la force individuelle, j'appelle cela le phénomène de l'étiquetage.
 
