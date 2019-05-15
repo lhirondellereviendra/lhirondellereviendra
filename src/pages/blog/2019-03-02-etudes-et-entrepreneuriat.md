@@ -23,7 +23,7 @@ Quant à l’entrepreneuriat, ça touche à plus de pratiques avec les mêmes fi
 
 **S’engager à faire les deux simultanément parait une idée géniale quoique en pratique, cela appelle à souffler et humer en même temps**.
 
-![null](/img/ae4a587a-8b81-4f3d-b981-660efbb83495.jpeg)
+![null](/img/bcdb1a1e-a9ac-49d8-9b7a-11f4acdc035a.png)
 
 Ainsi cette belle combinaison présente des risques. Déjà parce que le domaine entrepreneurial exige beaucoup d’efforts et de fidélité tout comme les études. **A** **l’évidence, l'on ne peut passer d’une idée simple à une entreprise toute faite de façon abrégée**. 
 
@@ -35,7 +35,7 @@ Voilà pourquoi vouloir être chef d’entreprise et étudiant en même temps, m
 
 **Le risque majeur selon moi serait de rater les deux.**
 
-![null](/img/e5c9a234-aaf1-4f85-9537-94aea2da5095.png)
+![null](/img/eb47b10b-8080-4db7-98a6-b3c8ede67a6d.png)
 
 Posez la question à un ami entrepreneur qui a du succès, si vous en connaissez.
 
@@ -51,7 +51,7 @@ Donc il n’y a aucun mal à essayer; au contraire, et bien souvent, rien que le
 
 Quand j’écris, j’ai le sentiment de renaître : ça commence généralement par un mot; ensuite deux, puis trois, une phrase puis 5000 mots qui me servent chacun et me rapprochent de vous.
 
-![null](/img/a8f85d19-8cf2-44ea-ab3b-50e5616a2ada.png)
+![null](/img/e9902e3d-ecf8-4f46-8264-e6d77e29d2a6.png)
 
 C’est comme cela que certains accomplissent de grandes œuvres parallèlement aux études sans pour autant avoir le sentiment de travailler doublement. 
 
