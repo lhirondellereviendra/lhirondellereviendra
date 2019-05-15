@@ -23,7 +23,7 @@ Il m’a fallu deux interminables années pour accepter que je ne suis pas faite
 
 Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes plus grandes vertus, enchaîner des pro-bono: c’etait ça le projet.
 
-![null](/img/17331484-7e4c-4115-a464-0cc25dee2d25.png)
+![null](/img/a4b6c1b4-0ee1-4c4d-a9de-d769ce759355.png)
 
 À tout point de vue, l’argent n’a jamais été un secret pour moi et il m’en fallait plus pour continuer à chérir l’aumône.
 
@@ -47,7 +47,7 @@ Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté
 
 Comme des personnages peuvent considérablement booster nos pensées de jeunes lycéennes!
 
-![null](/img/3a81ffed-e710-493d-a4d9-6a39c940c36e.png)
+![null](/img/ed66e449-18c2-4991-92c9-29f858173748.png)
 
 Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que j’attrape des troubles de sommeil. 
 
@@ -63,11 +63,9 @@ Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femm
 
 Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour qu’ils ne soient plus là.
 
-C’est surtout aussi pour réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Je voulais réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
-Le lendemain matin j'étais devenue une belle étrangère dans une magnifique ville du sud de la France. 
-
-Fragile n’est-ce pas ? Beau aussi peut-être; quoi qu’il en soit, c’est de cette façon pque nous disons oui à l’aventure.
+J’etais une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -109,7 +107,7 @@ Dans son livre, « becoming », Michelle O. écrit « votre histoire vous app
 
 Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité, ma redécouverte »?
 
-![null](/img/9cfa0888-7215-4d2a-841c-8dd414443259.png)
+![null](/img/af77bc7d-c6b0-448e-a382-b43fe9116655.jpeg)
 
 Vous savez, en toute chose, il y a malheureusement ou à profit, des non dits. 
 
@@ -137,6 +135,8 @@ Folie des hommes!
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout bradé.
 
+![](/img/96b4c45f-1c4e-4e51-bca2-0028b266553e.jpeg)
+
 J’ai aussi profité pour apprendre à rire.
 
 C’est sincère, je ne l’avais jamais fait avant. J’ai essayé devant un miroir, une fois et puis j’ai eu le courage de recommencer jusqu’à ce que je le fasse à gorge déployée et je vous assure c’est une potion.
@@ -149,7 +149,7 @@ J’ai même marqué dans mon dictionnaire, avec un surligneur rose, des mots co
 
 Chaque matin, je les prononce et c’est tout; jusqu’à ce qu’ils deviennent ma réalité, c’est une sorte de prophétie auto réalisatrice, pour moi ça marche, à vous de croire ou non.
 
-![null](/img/0d6cb9fe-f557-4eb4-ad21-a130d983faa1.png)
+![null](/img/b80e976a-2439-4013-b7dd-c1f5343f60d6.png)
 
 Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
 
@@ -174,6 +174,8 @@ J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains 
 Je ne sais pas comment ça s’est passé, j’ai peut être eu la dernière goutte mais depuis ce déclic, j’avais ressenti que jamais plus, rien ne pourra me séparer de mes désirs. 
 
 Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis.
+
+![](/img/d20bfc77-2b93-437b-a206-845ca674fe61.png)
 
 Et qu’est-ce que c’est bon comme cela! 
 
