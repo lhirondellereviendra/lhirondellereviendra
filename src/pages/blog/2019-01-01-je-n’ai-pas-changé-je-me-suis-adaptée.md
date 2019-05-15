@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: 'JE N’AI PAS CHANGÉ, JE ME SUIS ADAPTÉE'
-urlphoto: >-
-  https://lhirondellereviendra.com/img/50614955_2122479414749334_1787267060166819840_n.jpg
+urlphoto: 'blob:https://lhirondellereviendra.com/17e49acb-846a-4c21-a795-ea8ac9b4be43'
 date: 2019-01-01T09:11:36.211Z
 description: >-
   Récemment j'ai effectué un trajet paris-Montpellier en TGV. J'étais très
@@ -14,7 +13,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/50614955_2122479414749334_1787267060166819840_n.jpg)
+![null](/img/d081bcc4-f67f-4497-a49b-6515fb0c07bf.jpeg)
 
  Ouf!!!  C'était un soulagement de pouvoir prendre le chemin de retour. Complètement emportée, je revoyais déjà des rayons de soleil caressant mon corps de nouveau.
 
@@ -26,9 +25,9 @@ Ainsi, je suis entrée dans le TGV au grand galop. Mais contre tout espoir, tel 
 
  Étonnement ou mécontentement, dès les premiers instants, mon humeur a basculé et je me suis retrouvée dans un état d'esprit inexplicable. 
 
- Avec succès, ce voyage m'a complètement bouleversée; je n'aurais pas dû, un vol aurait été mieux, si j'avais su! en tout cas la prochaine fois je préférerais un covoiturage. 
+ Avec succès, ce voyage m'a complètement bouleversée; je n'aurais pas dû, un vol aurait été mieux, si j'avais su! en tout cas la prochaine fois je partirais pour un covoiturage. 
 
-![null](/img/50721802_293010544715981_2947503843266527232_n.jpg)
+![null](/img/50614955_2122479414749334_1787267060166819840_n.jpg)
 
 Toutefois, j'apprécie les voyages en TGV; j'adore ce moment où je me retrouve seule au milieu des tous, occupée par mes pensées.
 
@@ -42,7 +41,7 @@ Ce poids, cette douleur sur mes épaules, elle a duré jusqu'à hier.. c'était 
 
 Pourtant mon père, d'un air avertisseur, ne cessait de répéter que si cela ne tenait qu'à lui, je partirais avec une valise vide.  Moi toute seule, plus tard à Paris, sous ma croix de cinquante six kilos, j'ai repensé à eux deux; cette scène entre la protectrice et le préventif ne sachant qui remercier sur le coup, je me suis contentée de lâcher un sourire très court. 
 
-![null](/img/50163175_608596859589629_3750178242422636544_n.jpg)
+![null](/img/b9aa67d7-2de2-4efc-bad6-bf1e1d578657.jpeg)
 
  Le lendemain matin, j'ai payé soixante dix euros pour échanger mon fardeau avec le premier TGV qui nous transporta jusqu'à Montpellier.  Aussitôt a t-il démarré, que je ne voulais plus y aller. 
 
@@ -52,7 +51,7 @@ Je ne me rappelle pas de tout mais je revois une jeune fille, vêtue d'un "blue 
 
  Ces trois derniers mots m'ont fait beaucoup de peine, je ne cessais d'y réfléchir. Comment changer de pays, de continent et ne pas changer moi-même ? De quel changement parlait-on il y a vingt quatre heures? Quoi qu'il en soit, j'avais fait une promesse.  Durant ce trajet, j'ai regardé ma montre plus de mille fois, j'espérais que le temps s'arrête mais rien n'y fit. Je voulais ouvrir les yeux pour me retrouver de façon abracadabrante à Cotonou.
 
-![null](/img/50183077_363493461109861_6995791522276835328_n.jpg)
+![null](/img/566711bf-9c33-46cd-8b48-28d504f89d7e.jpeg)
 
  Mais ça non plus ne s'est réalisé. Moi qui avais tant rêvé d'un paradis, serais-je entrain de me rendre compte que je venais de le quitter?  Ce fut le plus long voyage de ma vie, et là j'imagine celui que faisaient ces êtres condamnés à la peine capitale.
 
