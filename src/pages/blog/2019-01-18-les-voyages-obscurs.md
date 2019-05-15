@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: LES VOYAGES OBSCURS
-urlphoto: >-
-  https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/50234184_2241977532745744_756286982832783360_n.jpg
+urlphoto: 'blob:https://lhirondellereviendra.com/3b7d9c7e-1e62-4bc2-9d58-e0ebe32aa9fa'
 date: 2019-01-18T22:05:09.878Z
 description: >-
   Je voyage à travers le monde tantôt fuyant la guerre et la précarité tantôt
@@ -13,7 +12,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/50234184_2241977532745744_756286982832783360_n.jpg)
+![null](/img/064c5e62-cd3d-488a-bcbb-1cb4f0635d88.jpeg)
 
 C’est dommage de devoir quitter le bercail de cette manière. C’est fatal toutes les âmes englouties au fond de la mer Méditerranée. 
 
@@ -23,7 +22,11 @@ Nous avions fui les dettes et la misère, perdu nos richesses de premières néc
 
 C’est une perte pour l’Afrique tous ces frères portés disparus, c’est triste le nombre d’enfants victimes de cette rude traversée.
 
- En leurs mémoires je scrute les défuntes années où nos ventres devenaient de plus en plus creux pendant que montaient l’incertitude et les dysfonctionnements politiques et économiques.
+ 
+
+![](/img/50234184_2241977532745744_756286982832783360_n.jpg)
+
+En leurs mémoires je scrute les défuntes années où nos ventres devenaient de plus en plus creux pendant que montaient l’incertitude et les dysfonctionnements politiques et économiques.
 
 Mais je n’ai pas oublié les marques de fraternité, la joie de vivre et la sérénité malgré tout et surtout la liberté de se déplacer.
 
