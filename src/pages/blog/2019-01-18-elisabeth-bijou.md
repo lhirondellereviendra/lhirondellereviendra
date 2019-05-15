@@ -10,7 +10,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![](/img/1b1dd375-967f-4d04-a098-2beafe230433.jpeg)
+![null](/img/1b1dd375-967f-4d04-a098-2beafe230433.jpeg)
 
 C’ est le prénom qui me raconte mieux car je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
@@ -18,11 +18,15 @@ Bijou est une coquille et Elisabeth la substance.
 
 Les deux me vont si bien, tels le marteau et l'enclume, je me réserve ainsi d'un quelconque choix.
 
-![null](/img/49343205_1569430366522047_7915797607551598592_n.jpg)
+![null](/img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg)
 
 En ce qui concerne ce blog, c'est un rêve d'ado. Mes potes m'ont surnommée Bijou la blogueuse car je répétais que je voulais être blogueuse sans même connaître la définition de ce mot. Aujourd'hui je ne peux plus attendre, je veux écrire, me raconter et mettre en œuvre ma créativité. Essentiellement, je voudrais pouvoir faire découvrir je ne sais encore quoi exactement. Je me lance quand même sans me soucier de demain car à coup sûr il est rempli de perspectives encore largement inexplorées.
 
+![](/img/b3271d2a-0926-40b3-827f-699979a2035d.jpeg)
+
 Ensemble donc, vous et moi y parviendrons, Nous, parce que je ne suis pas la seule à avoir réalisé cette complicité entre le soleil et la lune si bien que quelque soit la durée de la nuit, le jour finit toujours par apparaître! c'est merveilleux n'est ce pas? Mais vous savez aussi que les regards se fixent beaucoup plus sur l'apparence que sur l'essence même des personnes et des choses. Ça c'est moins merveilleux. Quoi qu'il en soit, le secret c'est de savoir se passer du jugement des autres, pour y arriver, il faut apprendre à se redécouvrir, s'aimer et se préférer.
+
+![](/img/c68a1819-7086-4ac5-aa8b-760bb600a92f.jpeg)
 
 Ce n'est pas pour rien que chacun a un prénom même si tout le monde s'appelle les Hommes et c'est incontestablement pareil dans les familles c'est la force individuelle, j'appelle cela le phénomène de l'étiquetage.
 
