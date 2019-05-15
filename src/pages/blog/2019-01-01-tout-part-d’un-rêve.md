@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: TOUT PART D'UN RÊVE
-urlphoto: 'https://lhirondellereviendra.com/img/350d6fcb-0569-40f5-b748-3fb604a66459.jpeg'
+urlphoto: 'blob:https://lhirondellereviendra.com/ad7794bb-03a6-40d3-9858-a693e42a7566'
 date: 2019-01-01T08:57:21.467Z
 description: "Pendant que le printemps fait son petit chemin, un planning montagneux se dresse sur le mien. Paniquer ou garder la pêche, il faudra choisir au plus vite. \PDepuis quelques jours le temps s'est rajeuni, moins frais le vent qui souffle, le soleil luit avec plus de précisions et les journées se rallongent pour le bonheur de tous. Un nouvel atmosphère comme pour nous dire qu'on a assez dormi."
 tags:
   - Réflexions
 ---
-![null](/img/350d6fcb-0569-40f5-b748-3fb604a66459.jpeg)
+![null](/img/e508466f-4788-4a1c-9db6-9756556fbe53.jpeg)
 
  Là il sonne midi, une force inhabituelle me donne envie de bouger. De mon coeur jaillit un nouvel engouement pour la vie, sensation connue des premiers jours de l'an. Je suis toute fraîche; oui l'hiver est fini. Tant pis si bientôt on crie la chaleur, l'avantage sera de retourner à la plage.
 
@@ -25,11 +25,11 @@ Pour le moment je suis ici, posée sur le canapé, jouissant de ma liberté de p
 
 J'ai une pensée pour un grand homme; il tenait tant à voir une Afrique du Sud démocratique et multiraciale; libéré après 27 années obscures, il devint lumière pour le monde. Quoiqu'il puisse arriver à un être humain, sa liberté de pensée demeure intouchable. 
 
-![](/img/50323480_491823004557911_2942706283192516608_n.png)
+![null](/img/50323480_491823004557911_2942706283192516608_n.png)
 
  Si un jour je n'ai plus de rêve, j'avoue je m'inquiéterais. Pour moi, c'est le moteur de toute réalisation, c'est la seule chose qui me guide vers le bonheur et minimise mes regrets. Alors pourquoi ne te focalises-tu par sur tes petites victoires pour laisser le poids de l'échec derrière toi?
 
-![](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
+![null](/img/50248134_2257862741204398_7263835453353099264_n.jpg)
 
 ** Par ailleurs, le rêve est un stimulant sans lequel tout est au ralenti. Il est le carburant qui procurera l'énergie nécessaire pour arborer ce continent; **puisqu'il pousse l'homme à l'effort et fait naître l'amour du travail, puisqu'on ferait tout pour retrouver une Afrique nouvelle et victorieuse, puisque moi je donnerais tant pour vivre ce coucher du soleil afro futuriste; vous l'auriez vu; très pur, sans poids ni peine; dans mon rêve, il est meilleur que celui du Wakanda. 
 
