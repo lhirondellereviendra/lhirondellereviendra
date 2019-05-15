@@ -42,7 +42,7 @@ Je n'avais du temps pour rien ni pour personne, même pas pour moi.
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
-![null](/img/ce0d6378-4603-459f-8037-ffac663587e0.jpeg)
+![null](/img/b3271d2a-0926-40b3-827f-699979a2035d.jpeg)
 
 Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte pour moi, je n'attendrai plus le meilleur moment de peur qu'il me file entre les doigts. Ainsi je crée les occasions, saisis les opportunités, elles sont toutes bonnes en fin de compte, il suffit que j'aille à mon rythme. Je décide de m'entourer de personnes déterminées, celles qui sont toujours prêtes à essayer, je veux faire ce que j'aime, il est temps d'écourter ce sommeil.
 
