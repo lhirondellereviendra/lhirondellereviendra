@@ -22,7 +22,7 @@ Depuis toujours, nous sommes témoins de tant de phénomènes; naturels ou non, 
 
 Cependant, secondes, minutes, instants, moments, chaque jour plusieurs attendent le temps ! "Why is that?" Pendant ce temps, d'autres ont compris, ils entrent en compétition avec, la course est rude. Il est cher le temps, il faut savoir l'employer, éviter d'en perdre pour ne pas tomber dans son piège.
 
-![](/img/5bc33081-82c0-4010-ab05-b3ab809dd07f.png)
+![null](/img/5bc33081-82c0-4010-ab05-b3ab809dd07f.png)
 
 Il est aussi défini comme la dimension dans laquelle des événements peuvent être ordonnés du passé au futur en passant par le présent. C'est grâce au temps qu'on passe les saisons, de la pluie à la sécheresse, de la soudure à l'abondance. Le temps m'a ôtée de la misère pour m'offrir le nécessaire, il a réglé mes impulsions et depuis, j'agis avec pondération. Il n'a pas hésité à faire de nos mères des grands-mères. Nous l'avons vu réduire des présidents à de malheureux prisonniers, du télégramme, on est passé aux messages instantanés. Il rend l'impossible possible, il nous fait voir de toutes les couleurs.
 
@@ -42,7 +42,7 @@ Je n'avais du temps pour rien ni pour personne, même pas pour moi.
 
 # **Désormais, je choisis d'en faire un meilleur allié.**
 
-![](/img/0880eba1-ccac-4667-9004-6ab798b8b592.png)
+![null](/img/ce0d6378-4603-459f-8037-ffac663587e0.jpeg)
 
 Je suis accrochée au temps , peu importe ce que ça va coûter, seul lui compte pour moi, je n'attendrai plus le meilleur moment de peur qu'il me file entre les doigts. Ainsi je crée les occasions, saisis les opportunités, elles sont toutes bonnes en fin de compte, il suffit que j'aille à mon rythme. Je décide de m'entourer de personnes déterminées, celles qui sont toujours prêtes à essayer, je veux faire ce que j'aime, il est temps d'écourter ce sommeil.
 
@@ -52,7 +52,7 @@ C'est beau tout ça mais sans doute difficile dans la pratique.
 
 Ce qui est faisable, c'est de choisir un camp. Celui des savants ou mourir ignorant! Dites moi donc, quel est votre choix?
 
-![](/img/11455046-6bdb-445e-ad9d-82a696b40bd8.png)
+![null](/img/11455046-6bdb-445e-ad9d-82a696b40bd8.png)
 
 Bien heureusement, nous sommes à l'ère du savoir, la connaissance est à portée de main, on peut tout voir, internet est là et tout ça grâce au temps. Les enfants croient de moins en moins leurs parents, le temps a fait de Google l'ultime concurrent. Plus besoins de potes pour passer un bon week-end; le soir, seule, je rigole sur les réseaux.
 
