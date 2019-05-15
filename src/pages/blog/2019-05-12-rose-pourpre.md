@@ -20,7 +20,9 @@ Ma mère me l’avait offerte pendant mes vacances chez elle, à la ferme famili
 
 Elle m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Ça fait longtemps maintenant, très longtemps et cet objet toujours m’accompagne et me chérit.
+Ça fait longtemps maintenant, très longtemps que je ne l’ai plus jamais porter.
+
+ Mais cet objet m’accompagne toujours et me chérit.
 
 Il y a bien des choses que l'argent n'achète pas, parce que avec tout l’or du monde, nous ne pouvons ni les avoir ni les troquer.
 
@@ -36,7 +38,9 @@ En ce moment même je me trouve comme sur un grand carrefour. Je tiens ma valise
 
 Seulement un pont nous sépare du navire qui m’attend. Ils n’auront pas à me conduire à quai, encore moins embarquer.
 
-Je pars victorieuse, mûre et mature et même si demain encore je continuerai à apprendre de mes erreurs, je garde en mémoire une vingtaine d'années de contradictions, une bonne quantité de sang froid, nos joutes de répliques comme un combat de coqs, silencieux, familial.
+Je suis prête, mûre et mature même si demain encore je continuerai à apprendre de mes erreurs.
+
+De toutes nos victoires ensemble, une vingtaine d’années de contradictions aussi, une bonne quantité de sang froid, nos joutes de répliques comme un combat de coqs, silencieux, familial.
 
 Montesquieu disait ceci: heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour.j’ai appris à être mûre et mature.
 
@@ -48,18 +52,30 @@ Nous avons échangé nos joies et bien au delà, de belles histoires et l’envi
 
 Toutes les personnes qui seront là encore demain, celles qu’on ne prévient pas toujours, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
 
-J’ai aussi des camarades et des cousines de coeur, celles qui nous aiment sans d’abord résoudre les probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus ni retenus et les personnes à qui j'ai donné plus qu'il n’en fallait.
+J’ai aussi des camarades et des cousines de coeur, celles qui nous aiment sans faire de probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus ni retenus et les personnes à qui j'ai donné plus qu'il n’en fallait...
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, j’offrirai ce que je n’avais pas pu avant, je vous aimerai encore plus fort. Ma force est intarissable et ma détermination de taille chaque fois que j’observe mon foulard, chaque fois que l’on se plonge dans des gestes que le temps n’a pas réussi à éteindre.
+Si l’on vit pour améliorer les tires, j’offrirai ce que je n’avais pas pu avant, je vous aimerai d’un amour intarissable.
 
-Le même objet qui des années m’a entraînée dans l’illusion de mes émotions, me place exactement là où rien ne me fait peur.
+Ma force est robuste et ma détermination de taille, maintenant que je sais observer cette écharpe, chaque fois que l’on se plonge dans des gestes que le temps n’a pas réussi à éteindre.
 
-Vous êtes ma joie, mon espérance, vous êtes l’Amour au dessus de tout.J’ai conquis ma liberté dans l’exacte mesure de cette couleur; ma rose pourpre, mon équilibre, la douceur et féminité, ma victoire, la virilité.
+Cet objet qui pendant des années m’a entraînée  dans l’illusion de mes émotions, me place exactement là où rien ne me fait peur.
+
+C’est ma joie, mon espérance, l’Amour au dessus de tout.
+
+J’ai conquis ma liberté dans l’exacte mesure de cette couleur; ma rose pourpre, mon équilibre, douceur et féminité, ma victoire, la virilité.
 
 J’y vois du vert et de nouvelles semences, j’y vois tout, du rouge, du violet et du bleu.
 
-Certes il y a bien des choses qui ne se corrigent pas, comme le temps perdu et ce que nous ne voulons pas corriger.Mais surtout il y a toutes ces choses qui nous ont fait souffrir mais qui aujourd’hui ne peuvent plus nous étouffer.
+Certes il y a bien des choses qui ne se corrigent pas, comme le temps perdu et ce que nous ne voulons pas corriger.
 
-Bonne fête des mères à mon père et à mes deux mamans.À ma deuxième famille, celle que j’ai choisie et réciproquement.#mai2019#rosepourpre#famille#vie
+Mais surtout il y a toutes ces choses qui nous ont fait souffrir mais qui aujourd’hui ne peuvent plus nous étouffer.
+
+\#rosepourpre
+
+\#famille#vie
+
+\#mai2019
+
+\#Bonne fête des mères
