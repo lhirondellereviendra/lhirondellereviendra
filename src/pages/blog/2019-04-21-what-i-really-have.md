@@ -21,7 +21,7 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour le métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes plus grandes vertus, enchaîner des pro-bono: c’etait ça le projet.
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes plus grandes vertus, enchaîner des pro-bono: c’etait ça le projet, mes gens démunies et défavorisées.
 
 ![null](/img/a4b6c1b4-0ee1-4c4d-a9de-d769ce759355.png)
 
@@ -43,15 +43,17 @@ De toutes façons, j’avais moi aussi mes propres rêves alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO depuis que j’avais interprété avec brio le rôle de cette jeune avocate, Virginie, héroïne d’un des best-sellers de feu Jean Pliya.
+Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO.
 
-Comme des personnages peuvent considérablement booster nos pensées de jeunes lycéennes!
+Puis cette jeune avocate, Virginie, héroïne d’un des best-sellers de feu Jean Pliya.
+
+Comme des personnages peuvent considérablement booster nos pensées de jeunes collégiennes!
 
 ![null](/img/ed66e449-18c2-4991-92c9-29f858173748.png)
 
 Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que j’attrape des troubles de sommeil. 
 
-Je m’amusais à fouiller des curriculum vitae sur le site internet des universités et celui des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
+Je m’amusais à fouiller des curriculum vitae sur le site internet des universités et des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
 
 Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans nos pays sans avoir d’abord séjourné dans une école étrangère.
 
@@ -61,11 +63,9 @@ Vous avez compris!
 
 Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je ne connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour qu’ils ne soient plus là.
+Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour que les miens ne soient plus là, pour réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
-Je voulais réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
-
-J’etais une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
+Une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
