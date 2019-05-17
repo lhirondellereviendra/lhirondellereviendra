@@ -6,7 +6,7 @@ urlphoto: >-
 date: 2019-04-23T07:43:07.178Z
 description: |-
   Il fait chaud ce jour là sur les côtes de mon cœur.
-  Éphémère, inoubliable, c’était déjà le treizième sourire.
+  Éphémère, inoubliable, c’était déjà notre quatorzième sourire.
 tags:
   - Vie
 ---
@@ -16,7 +16,7 @@ tags:
 
 Ténébreux, intense, j’ai lu ma mort inscrite sur tes yeux.
 
-Ton murmure a langoureusement apprivoisé mon assurance.
+Quand ton murmure a langoureusement apprivoisé mon assurance.
 
 Et dire qu’hier encore je pouvais contrôler ma vie. 
 
@@ -34,9 +34,9 @@ Que c’est fou l’amour, il n’a jamais si bien porté son nom.
 
  Je perds la raison, c’est la panique des frissons.
 
-Obéis moi, jettes moi un sort.
+Obéis moi, jette moi un sort.
 
-Contrôle, doses jusqu'à l'unisson.
+Contrôle, dose jusqu'à l'unisson.
 
 Tic tic tic, toi mon arc-en-ciel, tout ça ainsi que les couleurs du miel.
 
@@ -84,13 +84,11 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-## Il fera chaud ce jour là sur les côtes de mon cœur.
+## Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Dans un hiver de rêve et des soirées napolitaines.
+Lorsqu’un autre mal m’offrira son bras ainsi qu’un milliard de sourire.
 
-Au bras d’un mystérieux étranger.
-
-Je penserai à ce quatorzième sourire, moi, mon meilleur cavalier.
+Que nous enchaînerons des hivers de rêve et des soirées napolitaines( ...)
 
 \#whatislove
 
