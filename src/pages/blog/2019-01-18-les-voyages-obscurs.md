@@ -22,15 +22,13 @@ Nous avions fui les dettes et la misère, perdu nos richesses de premières néc
 
 C’est une perte pour l’Afrique tous ces frères portés disparus, c’est triste le nombre d’enfants victimes de cette rude traversée.
 
- 
-
-![](/img/50234184_2241977532745744_756286982832783360_n.jpg)
+![null](/img/50234184_2241977532745744_756286982832783360_n.jpg)
 
 En leurs mémoires je scrute les défuntes années où nos ventres devenaient de plus en plus creux pendant que montaient l’incertitude et les dysfonctionnements politiques et économiques.
 
 Mais je n’ai pas oublié les marques de fraternité, la joie de vivre et la sérénité malgré tout et surtout la liberté de se déplacer.
 
-![null](/img/50015958_839415146390480_670990250889183232_n.png)
+![null](/img/49212935_1178448485640993_1760580684600049664_n.png)
 
 l’Afrique de mes ancêtres, la même qui aujourd’hui dessine un énorme progrès.
 
