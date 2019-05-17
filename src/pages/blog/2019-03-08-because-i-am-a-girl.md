@@ -11,7 +11,7 @@ description: >+
 tags:
   - Vie
 ---
-![](/img/img_0015.jpg)
+![null](/img/img_0015.jpg)
 
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
@@ -29,13 +29,11 @@ Ici, la loyauté sexiste est en crise,  inégalités par dessus inégalités.
 
 ![null](/img/243189d2-5216-4964-a039-b1e39982c9f4.jpeg)
 
-## n’opte pas souvent pour les compromis, mène des combats.
+## N’opte pas souvent pour les compromis, mène des combats.
 
 Du rose ou du bleu, pilote ou présidente, une brebis ou un bélier, tu as le libre choix tu en as plein droit car tu es la plus grande richesse du monde. 
 
 Tu es l’espoir, tu es le lendemain et pour qu’il soit radieux, je me dois de t’enseigner la confiance ainsi que le courage de tout affronter. 
-
-S’il le faut, j’irai au delà des mots.
 
 Une façon,
 
@@ -55,11 +53,11 @@ Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
  Peut t-on ôter la prunelle des yeux d’une maman? le corps humain saurait-il fonctionner sans son organe le plus précieux? non: « Kabdati », mon foi, mon enfant.
 
-Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions  égrainer de longs chapelets; toi pour invoquer les esprits et moi pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
+Les étoiles dans les yeux, tu me confieras tes rêves ardemment fabuleux, tes pleurs et tes hontes pour qu’à deux, nous puissions égrainer de longs chapelets; toi pour invoquer les esprits et moi pour implorer la guérison de mes blessures intérieures, pour regretter mes rides, corollaire de plusieurs secrets un peu trop lourds à piloter.
 
 ## Petite créature que je n’ai jamais vue
 
-![](/img/8a3b3414-59e3-48f1-9896-78d2328cc32e.png)
+![null](/img/8a3b3414-59e3-48f1-9896-78d2328cc32e.png)
 
 Je te veux pour construire des voies, je te veux instruite et réfléchie.
 
@@ -75,9 +73,7 @@ Indéniablement, elles sont la lumière et toutes ces petites représentent l’
 _**
 L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie._
 
-_ C’est cette chance que je vous souhaite à toutes._
-
-** Sur de telles pierres, nous réussirons à rebâtir le monde. **
+_ C’est cette chance que je vous souhaite à toutes puisque c’est seulement sur _**de telles pierres que nous réussirons à rebâtir le monde. **
 
 Posez les vôtres quelques soient leurs modèles. 
 
