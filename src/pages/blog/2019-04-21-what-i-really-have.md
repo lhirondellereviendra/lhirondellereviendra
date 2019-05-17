@@ -65,7 +65,7 @@ Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femm
 
 Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour que les miens ne soient plus là, pour réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
-Une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
+Devenir une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
 
 Il paraît que voyager, c’est vivre et rester exister.
 
@@ -73,7 +73,7 @@ Dans ma marche vers la vie, j’ai multiplié les rencontres; la liste de mes po
 
 ![null](/img/53444f52-0922-40da-8f10-10958a930af6.jpeg)
 
-En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas su m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
+En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas pu m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
 À mon avis, cela ne me rend pas plus belle; ne cherchez pas à comprendre: c’est simplement une question d’ADN. 
 
@@ -83,9 +83,9 @@ Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfre
 
 Puis Fatou Diome, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
-Oui je sais, il n’est jamais trop tard pour recommencer;j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
+Oui je sais, il n’est jamais trop tard pour recommencer; j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
- Séréna Williams et son message à l’endroit de la jeunesse, l’inspiration à flot et la force dans ses muscles. 
+ Séréna Williams, l’inspiration qui coule à flot, ses muscles et sa force.
 
 ![null](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
 
@@ -93,13 +93,11 @@ J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois he
 
 Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes, des références.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes devenues mes références. Mais d’elles, je me suis inspirée et pas plus.
 
-D’elles je me suis inspirée mais pas plus.
+J’ai parfois forcé l’allure mais plus j’avance encore aujourd’hui, plus un désert à l’infini s’étale devant moi.
 
-J’ai parfois forcé l’allure mais plus j’avançais, plus un désert à l’infini s’étalait devant moi.
-
-J’ai compris qu’il fallait que je m’arrête un court instant pour ne regarder que moi.
+Mais à un moment j’avais compris qu’il fallait que je m’arrête ne serait-ce qu’une journée pour ne regarder que moi.
 
 Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
 
@@ -115,7 +113,7 @@ C’était un succès mais personne ne pouvait imaginer, je vous épargne la qua
 
 Pour mes lecteurs, c’était comme l’œuf de pâque et pour moi même, c’était au mieux, le baiser de Judas et au pire la fameuse couronne d’épine. 
 
-C’était plus profond que le pseudo Bijoulisa et ce rêve,  cette adolescente qui voulait devenir une blogueuse.
+C’était plus profond que le pseudo Bijoulisa et ce rêve,  cette adolescente qui voulait à tout prix devenir une blogueuse.
 
 Même si finalement je n’ai pas « blogué » grand chose, je sais aujourd’hui que je suis totalement à la hauteur de ce job.
 
@@ -125,7 +123,7 @@ La vie est faite d’expériences et certaines vont juste nous aider à nous dé
 
 Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter, c’est quelque chose dont je ne peux plus me priver.
 
-Durant ce processus, j’ai fait connaissance avec un Bijou que je n’aimais pas assez.
+Durant ce processus, j’ai dû faire connaissance avec un Bijou que je n’aimais pas assez.
 
  Il y avait aussi une collection d’erreurs et ce n’est pas tout; les dénis de la réalité, la violence, cet environnement de frayeur et de domination dans la quelle j’ai grandi. 
 
@@ -153,9 +151,9 @@ Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la m
 
 Ce n’était pas évident avant; je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur.
 
-Cela ne signifie pas que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’ecris, c’était quasiment une maladie.
+Cela ne signifie pas que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’écris, c’était quasiment une maladie.
 
-Ceux qui me connaissent savent que je suis très sociable et capable de me montrer tolérante avec n’importe qui et bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas cool.
+Ceux qui me connaissent savent que je suis très sociable et capable de me montrer tolérante avec n’importe qui et bien que mon père m’ait beaucoup enseigné sur l’humilité et le détachement, avec moi même, j’étais plutôt pas COOL.
 
  Je flottais constamment dans l’inquiétude.
 
@@ -163,19 +161,19 @@ Ceux qui me connaissent savent que je suis très sociable et capable de me montr
 
 À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
 
-Chaque fois c’était horrible; cette situation je la connaissais tellement bien qu’elle m’etait devenue familière.
+Chaque fois c’était horrible; cette situation je la connaissais tellement bien qu’elle m’était devenue familière.
 
 J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal, comme la dernière réaction d’un incapable.
 
  Mais encore et encore, je prenais un sombre plaisir à rester sans agir, à paraître insoucieuse alors que de l’intérieur, j’étais achevée.
 
-Puis un jour, je n’ai pas digéré la dernière goutte.
+Puis un jour, je n’ai pas digéré la ènieme goutte.
 
- J’avais compris que plus rien ne pourra me séparer de mes désirs. 
+J’avais senti que plus rien ne pourra me séparer de mes désirs. 
 
 Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis; c’est la liberté dans l’action.
 
-Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée durant tout le cheminement mais précisément pour m’accepter comme je suis, imparfaite.
+Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée durant tout le cheminement et plus précisément pour m’accepter comme je suis, imparfaite.
 
 Pour faire une place pour la honte et les défaites, pour apprendre à dire NON tout en souriant. 
 
@@ -199,7 +197,7 @@ Avoir des mentors, c’est bien, s’inspirer des personnes qui ont réussi c’
 
 Pour se connaître, il faut du temps, pour s’affirmer aussi pareil et pour réussir, il ne faut jamais abandonner.
 
-Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, cette arme que j’ai longtemps forgée.
+Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveurs, il me restera la PERSÉVÉRANCE, mon fidèle ami, la seule arme que j’ai moi-même forgée.
 
 Avec, d’avance, j’ai gagné toutes les bonnes guerres.
 
