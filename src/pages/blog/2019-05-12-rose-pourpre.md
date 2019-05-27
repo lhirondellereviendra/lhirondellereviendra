@@ -14,23 +14,23 @@ Christian Bobin- la part manquante.
 
 ![null](/img/78fa0eb6-9181-4e26-bf79-7a348661e2a3.png)
 
-Je possède une écharpe depuis l’age de 14 ans.
+C’etait maintenant devenu mon meilleur compagnon.
 
-Ma mère me l’avait offerte pendant mes vacances chez elle, à la ferme familiale.
+Je possède cet objet depuis l’age de 14 ans.
 
-Elle m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
+Ma mère m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a longtemps maintenant, très longtemps que cet objet m’accompagne et me chérit.
+Il y a longtemps, très longtemps que mon écharpe me guide et me chérit.
 
-Il y a bien des choses que l'argent n'achète pas parce que avec tout l’or du monde, nous ne pourrons ni les avoir ni les troquer; des souvenirs authentiques, des sentiments vitaux.
+Il y a bien des choses que l'argent n'achète pas parce que avec tout l’or du monde, nous ne pourrons ni les avoir ni les troquer. Ce sont des souvenirs authentiques, des gestes que nous n’oubl pas: sentiments vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie en me transmettant des valeurs.
+Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie en me transmettant des valeurs nécessaires.
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-En ce moment même je me trouve comme sur un grand carrefour. Je tiens ma valise, ma mère se à côté de moi et mon père tout près d’elle.
+En ce moment même je me trouve comme sur un grand carrefour. Je tiens ma valise, ma mère se trouve à côté de moi et mon père près d’elle.
 
 Encore un pont nous sépare du navire qui m’attend. Ils n’auront pas à me conduire à quai, encore moins embarquer.
 
