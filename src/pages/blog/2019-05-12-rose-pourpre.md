@@ -42,7 +42,7 @@ Je suis chargée de nos victoires communes.
 
 C’est plus d’une vingtaine d’années de contradictions.
 
-Nous avions déchargé une bonne quantité de sang froid.
+Une bonne quantité de sang froid.
 
 Nos joutes de position comme des combat de coq, silencieux, imparfaits.
 
@@ -56,15 +56,15 @@ De belles histoires et des envies de réussir à ne point en finir.
 
 Toutes celles qui seront là encore demain, les personnes qu’on ne prévient pas souvent, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
 
-Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus.
-
-Toutes les personnes à qui j'ai donné plus qu'il n’en fallait...
+Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans probabilités, toutes les choses qui m'ont fait rêver, les amis d'enfance que je n'ai pas eus et celles à qui j’ai donné plus qu’il n’en fallait.
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, j’offrirai encore plus, je vous aimerai d’un amour intarissable.
+Si l’on vit pour améliorer les tires, j’offrirai encore plus, j’aimerai d’un amour intarissable.
 
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe, dans les conditions que le temps n’a pas réussi à éteindre.
+Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe, ma mère et sa fille.
+
+Je me retrouve dans des conditions que le temps n’a pas réussi à éteindre.
 
 Je conquiers ma liberté dans l’exacte mesure de sa couleur; ma rose pourpre, mon équilibre, douceur et féminité; ma victoire, la virilité.
 
