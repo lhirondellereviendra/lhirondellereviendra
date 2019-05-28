@@ -16,13 +16,17 @@ Christian Bobin- la part manquante.
 
 C’était maintenant devenu mon fidèle compagnon.
 
-Ça va faire bientôt, environ 1513 jours que ma mère m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
+Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu’elle me tendit dans un sourire vertigineux.
 
-Il y a longtemps, très longtemps et depuis cet objet me guide, me chérit et sait m’attendre, patiemment.
+Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a bien des choses que l'on ne réussira pas à troquer, ni acheter; même pas avec tout l’or du monde.
+Il y a longtemps, très longtemps, disons environ 1513 jours que cet objet me chérit et sait m’attendre, patiemment.
 
-Tous ces souvenirs authentiques, des gestes que nous n’oublierons jamais, ce sont des vitaux.
+
+
+Il y a bien des choses que l'on ne réussira pas à troquer, même contre tout l’or du monde.
+
+Nos. souvenirs authentiques, des gestes que nous ne sommes pas prêt d’oublier, des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
