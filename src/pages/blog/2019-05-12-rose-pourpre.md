@@ -16,35 +16,29 @@ Christian Bobin- la part manquante.
 
 C’était maintenant devenu mon fidèle compagnon.
 
-Ça va faire bientot environ 1513 jours que ma mère m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
+Ça va faire bientôt, environ 1513 jours que ma mère m’avait demandé de l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a longtemps, très longtemps.
+Il y a longtemps, très longtemps et depuis cet objet me guide, me chérit et sait m’attendre, patiemment.
 
-Cet objet me guide, me chérit et sait m’attendre, patiemment.
+Il y a bien des choses que l'on ne réussira pas à troquer, ni acheter; même pas avec tout l’or du monde.
 
-Il y a bien des choses que l'argent n'achète pas, parce que avec tout l’or du monde, nous ne pourrons ni les avoir ni les troquer. 
-
-Ce sont des souvenirs authentiques, des gestes que nous n’oublierons jamais; des sentiments vitaux.
+Tous ces souvenirs authentiques, des gestes que nous n’oublierons jamais, ce dont des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie en me transmettant des valeurs nécessaires.
+Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie en me transmettant de grandes valeurs .
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-En ce moment même je me trouve comme sur un grand carrefour. Je tiens ma valise, ma mère se trouve à côté de moi et mon père près d’elle.
+Et si en ce moment même je me retrouve comme sur un rond point, tenant ma valise, ma mère à côté de moi et mon père près d’elle, encore un pont nous sépare du navire qui m’attend. 
 
-Encore un pont nous sépare du navire qui m’attend. Ils n’auront pas à me conduire à quai, encore moins embarquer.
+Voudront-ils me conduire à quai ou même embarquer?
 
-Je suis prête et mûre, et demain encore je continuerai à apprendre de mes erreurs.
+ Moi je suis chargée de nos victoires communes.
 
-Je suis chargée de nos victoires communes.
+C’est plus d’une vingtaine d’années de contradictions; les toutes dernières m’ont apprêtée et mûrie et demain encore je continuerai à apprendre de mes erreurs.
 
-C’est plus d’une vingtaine d’années de contradictions.
-
-Une bonne quantité de sang froid.
-
-Nos joutes de position comme des combat de coq, silencieux, imparfaits.
+De nos joutes de position c’était de véritables combats de coqs, silencieux, imparfaits.
 
 Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour », disait Montesquieu.
 
