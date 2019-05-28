@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ROSE POURPRE
-urlphoto: 'blob:https://lhirondellereviendra.com/0a7d6978-65a2-4f01-8e36-2ba1082a17c4'
+urlphoto: 'https://lhirondellereviendra.com/img/78fa0eb6-9181-4e26-bf79-7a348661e2a3.png'
 date: 2019-05-12T18:32:07.388Z
 description: >-
   Ce n’est pas pour devenir écrivain qu’on écrit. C’est pour rejoindre en
@@ -22,11 +22,11 @@ Il y a longtemps, très longtemps et depuis cet objet me guide, me chérit et sa
 
 Il y a bien des choses que l'on ne réussira pas à troquer, ni acheter; même pas avec tout l’or du monde.
 
-Tous ces souvenirs authentiques, des gestes que nous n’oublierons jamais, ce dont des vitaux.
+Tous ces souvenirs authentiques, des gestes que nous n’oublierons jamais, ce sont des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie en me transmettant de grandes valeurs .
+Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie.
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
@@ -34,11 +34,9 @@ Et si en ce moment même je me retrouve comme sur un rond point, tenant ma valis
 
 Voudront-ils me conduire à quai ou même embarquer?
 
- Moi je suis chargée de nos victoires communes.
+ Moi je suis chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
 
-C’est plus d’une vingtaine d’années de contradictions; les toutes dernières m’ont apprêtée et mûrie et demain encore je continuerai à apprendre de mes erreurs.
-
-De nos joutes de position c’était de véritables combats de coqs, silencieux, imparfaits.
+J’ai pris de la hauteur et mûrie et demain encore je continuerai à apprendre de mes erreurs, de nos joutes de position; c’était de véritables combats de coqs, silencieux, imparfaits.
 
 Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour », disait Montesquieu.
 
