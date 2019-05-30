@@ -86,9 +86,37 @@ Que les chemins de l’amour parfois sont difficiles!
 
 ## Il fera chaud ces jours là sur les côtes de mon cœur.
 
-Lorsqu’un autre mal m’offrira son bras ainsi qu’un milliard de sourire.
+Lorsque d’autres mâles viendront m’offrir leurs bras ainsi qu’un milliard de baisers.
 
-Que nous enchaînerons des hivers de rêve et des soirées napolitaines( ...)
+
+
+Dans des hivers de rêve, leurs désirs d’anéantir mes malheurs, des soirées napolitaines.
+
+
+
+J’evoquerai notre quinzième sourire.
+
+ Tu seras déjà du passé.
+
+
+
+Et si ma volonté restait sur l’étagère,
+
+Et si je n’étais pas achevée par ces atroces plaisirs qui m’ont menée à la catastrophe.
+
+
+
+Et si nous sommes sceptiques, mes instincts et moi.
+
+
+
+Néant, néant.
+
+
+
+ Il fait beau  (...) 
+
+
 
 \#whatislove
 
