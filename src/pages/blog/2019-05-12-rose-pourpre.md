@@ -20,13 +20,11 @@ Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu�
 
 Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a longtemps, très longtemps, disons environ 1513 jours que cet objet me chérit et sait m’attendre, patiemment.
-
-
+Il y a longtemps, très longtemps, disons environ 1513 semaines que cet objet me chérit et sait m’attendre, patiemment.
 
 Il y a bien des choses que l'on ne réussira pas à troquer, même contre tout l’or du monde.
 
-Nos. souvenirs authentiques, des gestes que nous ne sommes pas prêt d’oublier, des vitaux.
+Il y a des situations que le temps ne réussit pas à éteindre, il y a des souvenirs authentiques, des gestes vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
@@ -34,21 +32,19 @@ Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont par
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Et si en ce moment même je me retrouve comme sur un rond point, tenant ma valise, ma mère à côté de moi et mon père près d’elle, encore un pont nous sépare du navire qui m’attend. 
+Je tiens une valise, ma mère à côté de moi et mon père près d’elle, encore un pont nous sépare du navire qui m’attend. 
 
 Voudront-ils me conduire à quai ou même embarquer?
 
- Moi je suis chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
+ Je suis chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
 
-J’ai pris de la hauteur et mûrie et demain encore je continuerai à apprendre de mes erreurs, de nos joutes de position; c’était de véritables combats de coqs, silencieux, imparfaits.
+J’ai pris de la hauteur, j’ai mûri et demain encore je continuerai à apprendre de mes erreurs, de nos joutes de positions; c’étaient de véritables combats de coqs, silencieux, imparfaits.
 
-Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour », disait Montesquieu.
+« Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour », disait Montesquieu.
 
 ![null](/img/81eaa0a3-8220-4589-b897-357d3d9b6355.png)
 
-Des terres, des jours... j’ai eu la chance de connaître une deuxième famille; on a tant partagé, la  joie et bien au delà.
-
-De belles histoires et des envies de réussir à ne point en finir.
+Des terres, des jours... j’ai eu la chance de connaître une deuxième famille; on a tant partagé, la  joie et bien au delà; de belles histoires et des envies de réussir à ne point en finir.
 
 Toutes celles qui seront là encore demain, les personnes qu’on ne prévient pas souvent, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
 
@@ -56,11 +52,9 @@ Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, j’offrirai encore plus, j’aimerai d’un amour intarissable.
+Si l’on vit pour améliorer les tires, j’offrirai la juste mesure, j’aimerai d’un amour intarissable.
 
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe, ma mère et sa fille.
-
-Je me retrouve dans des conditions que le temps n’a pas réussi à éteindre.
+Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe.
 
 Je conquiers ma liberté dans l’exacte mesure de sa couleur; ma rose pourpre, mon équilibre, douceur et féminité; ma victoire, la virilité.
 
