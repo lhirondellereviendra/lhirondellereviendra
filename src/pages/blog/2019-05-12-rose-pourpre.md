@@ -20,11 +20,11 @@ Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu�
 
 Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a longtemps, très longtemps, disons environ 1513 semaines que cet objet me chérit et sait m’attendre, patiemment.
+Il y a longtemps, très longtemps, disons environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
 
 Il y a bien des choses que l'on ne réussira pas à troquer, même contre tout l’or du monde.
 
-Il y a des situations que le temps ne réussit pas à éteindre, il y a des souvenirs authentiques, des gestes vitaux.
+Il y a des situations que le temps ne réussit pas à éteindre, nous vivons de souvenirs authentiques et de gestes vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
@@ -32,15 +32,19 @@ Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont par
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Je tiens une valise, ma mère à côté de moi et mon père près d’elle, encore un pont nous sépare du navire qui m’attend. 
+Puis un jour, le navire m’attendra de l’autre côté du pont . 
 
-Voudront-ils me conduire à quai ou même embarquer?
+Ma mère marchera à côté de moi et mon père sera près d’elle.
 
- Je suis chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
+Oseront-ils me conduire à quai ou même embarquer?
 
-J’ai pris de la hauteur, j’ai mûri et demain encore je continuerai à apprendre de mes erreurs, de nos joutes de positions; c’étaient de véritables combats de coqs, silencieux, imparfaits.
+Je serai chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
 
-« Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour », disait Montesquieu.
+J’ai pris de la hauteur, j’ai mûri et demain encore je continuerai à apprendre de mes erreurs.
+
+Je revisiterai nos joutes de positions; ce fût de véritables combats de coqs, silencieux, imparfaits.
+
+Montesquieu disait: « Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour ».
 
 ![null](/img/81eaa0a3-8220-4589-b897-357d3d9b6355.png)
 
@@ -52,13 +56,11 @@ Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, j’offrirai la juste mesure, j’aimerai d’un amour intarissable.
+Si l’on vit pour améliorer les tires, je resterai and la mesure, j’aimerai d’un amour intarissable car ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe.
 
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe.
+J’ai conquis ma liberté dans l’exacte mesure de sa couleur; ma rose, pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
 
-Je conquiers ma liberté dans l’exacte mesure de sa couleur; ma rose pourpre, mon équilibre, douceur et féminité; ma victoire, la virilité.
-
-C’est ma joie, mon espérance, c’est l’Amour au dessus de tout.
+C’est joie et mon espérance, c’est l’Amour au dessus de tout.
 
 Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent, exactement là où rien ne me fait peur.
 
