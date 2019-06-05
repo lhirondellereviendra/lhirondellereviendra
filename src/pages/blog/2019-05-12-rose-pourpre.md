@@ -22,9 +22,9 @@ Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le d
 
 Il y a longtemps, très longtemps, disons environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
 
-Il y a bien des choses que l'on ne réussira pas à troquer, même contre tout l’or du monde.
+Il y a bien des choses que l'on ne réussira pas à troquer.
 
-Il y a des situations que le temps ne réussit pas à éteindre, nous vivons de souvenirs authentiques et de gestes vitaux.
+Il y a bien des situations que le temps ne réussira pas à éteindre; il y a souvenirs authentiques et puis il y a tous ces gestes, des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
@@ -32,23 +32,21 @@ Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont par
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Puis un jour, le navire m’attendra de l’autre côté du pont . 
+Puis viendra le jour où le navire m’attendra de l’autre côté, près de la mer.
 
-Ma mère marchera à côté de moi et mon père sera près d’elle.
+Ma mère marchera à côté de moi et mon père sera tout près d’elle.
 
-Oseront-ils me conduire à quai ou même embarquer?
+Oseront-ils me conduire à quai, voudront-ils embarquer?
 
-Je serai chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
+Me voilà, qui, chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
 
-J’ai pris de la hauteur, j’ai mûri et demain encore je continuerai à apprendre de mes erreurs.
-
-Je revisiterai nos joutes de positions; ce fût de véritables combats de coqs, silencieux, imparfaits.
+J’aurai pris de la hauteur, j’aurai assez mûri et le lendemain encore je continuerai à apprendre de mes erreurs; de nos joutes de positions, c’etait incroyable, de véritables combats de coqs, silencieux, imparfaits.
 
 Montesquieu disait: « Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour ».
 
 ![null](/img/81eaa0a3-8220-4589-b897-357d3d9b6355.png)
 
-Des terres, des jours... j’ai eu la chance de connaître une deuxième famille; on a tant partagé, la  joie et bien au delà; de belles histoires et des envies de réussir à ne point en finir.
+Des terres, des jours...; on a tant partagé, la  joie et bien au delà; de belles histoires et des envies de réussir à ne point en finir.
 
 Toutes celles qui seront là encore demain, les personnes qu’on ne prévient pas souvent, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
 
@@ -56,19 +54,23 @@ Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, je resterai and la mesure, j’aimerai d’un amour intarissable car ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans mon écharpe.
+Si l’on vit pour améliorer les tires, je ne quitterai pas la mesure, j’aimerai d’un amour intarissable.
 
-J’ai conquis ma liberté dans l’exacte mesure de sa couleur; ma rose, pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
+Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans cette charpe.
 
-C’est joie et mon espérance, c’est l’Amour au dessus de tout.
+Je conquiers ma liberté dans l’exacte mesure de sa couleur.
 
-Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent, exactement là où rien ne me fait peur.
+Ma rose, si pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
+
+C’est ma joie et mon espérance, c’est l’Amour au dessus de tout.
+
+Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
 J’y vois du vert et de nouvelles semences, j’y vois tout, du rouge, du bleu et du jaune.
 
 Il est vrai que le temps perdu ne se corrige pas et ce que nous ne voulons pas changer ne changera pas non plus.
 
-Mais surtout, il y a toutes ces choses qui nous ont fait souffrir dans le passé et qui aujourd’hui ne peuvent plus nous étouffer.
+Mais surtout, il y a toutes ces choses qui nous ont fait souffrir dans le passé et qui aujourd’hui ne peuvent plus nous anéantir.
 
 Bisous💋
 
