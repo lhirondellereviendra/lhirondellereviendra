@@ -86,24 +86,22 @@ Que les chemins de l’amour parfois sont difficiles!
 
 ## Il fera chaud ces jours là sur les côtes de mon cœur.
 
-D’autres mâles m’offriront leurs bras ainsi qu’un milliard de baisers.
+D’autres mâles m’offriront leurs bras et des tas de baisers.
 
-Dans des hivers de rêve, quand ils parleront d’anéantir mes malheurs.
+Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
 
-Dans des soirées napolitaines, quand je penserai à notre quinzième sourire.
+Dans des hivers de rêves je dépasserai notre quinzième sourire.
 
-Tu seras déjà du passé.
+Que ma volonté ne demeure pas sur l’étagère,
 
-Si ma volonté restait sur l’étagère,
+Que ne m’achèvent pas, ces atroces plaisirs qui nous mènent à la catastrophe.
 
-Si je n’étais pas achevée par ces atroces plaisirs qui m’ont menée à la catastrophe.
-
-Si nous restions sceptiques, mes instincts et moi.
+Step tiques, mes instincts et moi.
 
 Néant, néant.
 
- Il fera  beau pour toujours ✨ (...) 
+ Il fera beau pour toujours ✨ (...) 
 
-\#whatislove
+\#selflove
 
-\#joke
+\#G I R L P O W E R
