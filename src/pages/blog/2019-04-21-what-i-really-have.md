@@ -43,9 +43,9 @@ De toutes façons, j’avais moi aussi mes propres rêves alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise GBEDO.
+Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître #marie Elise GBEDO.
 
-Puis cette jeune avocate, Virginie, héroïne d’un des best-sellers de feu Jean Pliya.
+Puis par cette jeune avocate, Virginie, l’héroïne d’un des best-sellers de feu #Jean Pliya.
 
 Comme des personnages peuvent considérablement booster nos pensées de jeunes collégiennes!
 
@@ -55,51 +55,51 @@ Il se passait de grandes choses dans ma tête, ainsi de suite jusqu’à ce que 
 
 Je m’amusais à fouiller des curriculum vitae sur le site internet des universités et des ministères, notamment ceux de l’enseignement supérieur, de la justice ou sur d’autres plateformes similaires.
 
-Sorbonne, Bordeaux, Lyon, Liège, Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans nos pays sans avoir d’abord séjourné dans une école étrangère.
+\#Sorbonne, #Bordeaux, #Lyon, #Liège, #Saint-Pétersbourg..., malheureusement tout portait à croire que l’on ne pouvait être nommé à de grands postes de responsabilité dans nos pays sans avoir d’abord séjourné dans une école étrangère.
 
 Vous avez compris!
 
 ![null](/img/3546d3de-7889-4f7b-83b3-cccd07370d07.jpeg)
 
-Il fallait absolument que je quitte le Bénin; mes racines, ma mère, cette femme que je ne connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
+Il fallait absolument que je quitte le #Bénin; mes racines, ma mère, cette femme que je ne connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
-Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour que les miens ne soient plus là, pour réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
+Je n’ai pas voulu partir loin de tout ça non mais compte tenu des circonstances, je devais fermer les yeux pour qu’à mon réveil, le mal, pour que les miens ne soient plus là.
 
-Devenir une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
+Je désirais une chose plus que toutes les autres: réussir à saisir de nouvelles opportunités dans l’espoir qu’elles me dynamisent.
 
-Il paraît que voyager, c’est vivre et rester exister.
+C’est comme cela que je suis devenue une belle étrangère dans une magnifique ville du sud de la France, c’est de cette façon que nous disons oui à l’aventure.
+
+Eh oui! voyager, c’est vivre et rester, exister.
 
 Dans ma marche vers la vie, j’ai multiplié les rencontres; la liste de mes potentiels modèles ne cesse de s’allonger.
 
 ![null](/img/53444f52-0922-40da-8f10-10958a930af6.jpeg)
 
-En premier, je vais vous parler de Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas pu m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
+En premier, je vais vous parler de #Lupita Nyong'o, face au naturel de cette jeune actrice, je n’ai pas pu m’entêter trop longtemps. Ça fera bientôt deux ans que je suis devenue Nappy et fière. 
 
-À mon avis, cela ne me rend pas plus belle; ne cherchez pas à comprendre: c’est simplement une question d’ADN. 
+À mon avis, cela ne m’a pas rendue plus belle; ne cherchez pas à comprendre: c’est tout simplement une question d’ADN. 
 
-Angélique Kidjo, l’énergie et la vivacité de toute une nation, Oprah Winfrey, la puissance des puissances.
+Vous connaissez sans doute #Angélique Kidjo, l’énergie et la vivacité de toute une nation et #Oprah Winfrey alors? (Sourire) la puissance des puissances.
 
-![null](/img/a1511e9f-3971-4e82-9831-b7eacb3aa4e8.jpeg)
+Puis #Fatou Diome, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
-Puis Fatou Diome, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
+Oui je sais, il n’est jamais trop tard pour recommencer; j’ai souvent lu et écouté #chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
 
-Oui je sais, il n’est jamais trop tard pour recommencer; j’ai souvent lu et écouté Chimamanda Ngozi pour comprendre que dans la vie tout est possible. 
-
- Séréna Williams, l’inspiration qui coule à flot, ses muscles et sa force.
+\#Séréna Williams, l’inspiration qui coule à flot, ses muscles et sa force.
 
 ![null](/img/d637aabe-7a7d-4feb-a4fc-18fa7ac24a9b.jpeg)
 
 J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour abriter mon esprit sain.
 
-Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très Kardashian. 
+Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très #Kardashian. 
 
-J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes devenues mes références. Mais d’elles, je me suis inspirée et pas plus.
+J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; d’elles, je me suis inspirée et pas plus.
 
 J’ai parfois forcé l’allure mais plus j’avance encore aujourd’hui, plus un désert à l’infini s’étale devant moi.
 
 Mais à un moment j’avais compris qu’il fallait que je m’arrête ne serait-ce qu’une journée pour ne regarder que moi.
 
-Dans son livre, « becoming », Michelle O. écrit « votre histoire vous appartient... »
+Dans son livre, « becoming », #Michelle OBAMA écrit « votre histoire vous appartient... »
 
 Vous vous souvenez, il y a un an, j’écrivais sur wordpress « mon identité, ma redécouverte »?
 
@@ -121,7 +121,7 @@ Même si finalement je n’ai pas « blogué » grand chose, je sais aujourd�
 
 La vie est faite d’expériences et certaines vont juste nous aider à nous découvrir pour savoir plus ou moins qui nous voulons être.
 
-Bien sûr que je continuerai à écrire sur ce site parce que j’adore me raconter, c’est quelque chose dont je ne peux plus me priver.
+Bien sûr que je continuerai à écrire sur ce site parce que je prends vraiment du plaisir à me raconter, c’est quelque chose dont je ne peux plus me priver.
 
 Durant ce processus, j’ai dû faire connaissance avec un Bijou que je n’aimais pas assez.
 
@@ -147,9 +147,9 @@ Chaque matin, je les prononce et c’est tout; jusqu’à ce qu’ils deviennent
 
 ![null](/img/b80e976a-2439-4013-b7dd-c1f5343f60d6.png)
 
-Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et le yoga jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
+Par conséquent, j’ai banni l’impulsivité et le stress, j’ai essayé la méditation, la sophrologie et autres  jusqu’à l’échelle d’un total lâcher prise, la maîtrise de soi et la confiance.
 
-Ce n’était pas évident avant; je suis une perfectionniste née et donc je me suis longtemps privée du droit à l’erreur.
+Ce n’était pas évident avant; je suis une perfectionniste née qui s’est longtemps privé du droit à l’erreur.
 
 Cela ne signifie pas que je n’en fais pas mais je ne les acceptais pas du tout; c’est plus compliqué que ces quelques mots que j’écris, c’était quasiment une maladie.
 
@@ -157,11 +157,9 @@ Ceux qui me connaissent savent que je suis très sociable et capable de me montr
 
  Je flottais constamment dans l’inquiétude.
 
- Je pense qu’à certains moments, j’avais dû être folle. 
+ Je pense qu’à certains moments, j’avais dû être folle, attendant dans une terreur affreuse, si affreuse que je ne pouvais agir. 
 
-À d’autres, j’avais attendu dans une terreur affreuse, si affreuse que je ne pouvais agir. 
-
-Chaque fois c’était horrible; cette situation je la connaissais tellement bien qu’elle m’était devenue familière.
+C’était horrible cette situation; je la connaissais tellement bien qu’elle m’était devenue familière.
 
 J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains comme le signal fatal, comme la dernière réaction d’un incapable.
 
@@ -169,11 +167,13 @@ J’ai observé souvent de la sueur, glissant sur mes cuisses et dans mes mains 
 
 Puis un jour, je n’ai pas digéré la ènieme goutte.
 
-J’avais senti que plus rien ne pourra me séparer de mes désirs. 
+J’avais senti que plus rien ne pouvait me séparer de mes désirs. 
 
-Les choses maintenant je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis; c’est la liberté dans l’action.
+Les choses, depuis lors, je les fais et c’est tout, je ne lutte plus, je ne calcule pas, je vis; c’est la liberté dans l’action.
 
-Je partage avec vous cet exercice que j’aime particulièrement et qui m’a beaucoup aidée durant tout le cheminement et plus précisément pour m’accepter comme je suis, imparfaite.
+Je partage avec vous cet exercice que j’aime particulièrement.
+
+Je le pratique pour m’accepter comme je suis, imparfaite.
 
 Pour faire une place pour la honte et les défaites, pour apprendre à dire NON tout en souriant. 
 
