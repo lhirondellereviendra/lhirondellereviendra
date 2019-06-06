@@ -90,13 +90,13 @@ D’autres mâles m’offriront leurs bras et des tas de baisers.
 
 Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
 
-Dans des hivers de rêves je dépasserai notre quinzième sourire.
+Je traverserai des hivers de rêve jusqu’à enterrer notre quinzième sourire.
 
-Que ma volonté ne demeure pas sur l’étagère,
+Que ma volonté demeure sur l’étagère,
 
 Que ne m’achèvent pas, ces atroces plaisirs qui nous mènent à la catastrophe.
 
-Step tiques, mes instincts et moi.
+Quand nous serons morts mes instincts et moi.
 
 Néant, néant.
 
