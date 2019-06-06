@@ -25,8 +25,6 @@ Souvent j’ai le sentiment d’avoir déjà vécu ici avec toi et TOUT en ce jo
 
 Je refuse de croire qu’autant de kilomètres nous séparent; espérant que tu reviennes du marché le soir, comme avant, comme quand j’avais dix ans; espérant qu’à nouveau tu me dises un de tes inspirants récits.
 
-![null](/img/497b81f3-ed8a-41c3-b885-357cfc5e7515.jpeg)
-
 Chères mamans, à l’occasion je voudrais vous redire que les plus beaux moments de nos vies sont ceux passés avec vous. Tellement vous avez tout, tellement le sel est doux ; si belles vous êtes mères! Vous aimez délicieusement nos pères et intensément nos frères.
 
 Moi ma dulcinée est un ange, Elle veille sur toute la maisonnée. Elle est très patiente et fiable; elle assure ma sécurité. Quand il le faut, elle se transforme en médecin et pas n’importe lequel. Maman est cardiologue; elle contrôle les battements de mon cœur et les jours où elle porte son costume d’enquêteurs, il lui arrive de me poser des questions dont elle a déjà les réponses. Maman est douée pour panser mes plaies tout en ressentant plus de douleur que moi.
