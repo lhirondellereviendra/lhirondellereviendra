@@ -91,7 +91,7 @@ Oui je sais, il n’est jamais trop tard pour recommencer; j’ai souvent lu et 
 
 J’ai commencé à entraîner mon mental tout en façonnant mon corps; trois heures de musculation quatre fois par semaine pour abriter mon esprit sain.
 
-Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, les côtés obscurs que l’on ne laissent pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très #Kardashian. 
+Ma liste n’est pas exhaustive; il y a des personnes que je choisis de ne pas mentionner ici, des choses aussi qui m’inspirent, tout ce que l’on ne laisse pas paraître. C’est comme ça; nous avons toutes en nous quelque chose de très #Kardashian. 
 
 J’ai longtemps décalqué l’une ou l’autre de toutes ces belles personnes; d’elles, je me suis inspirée et pas plus.
 
