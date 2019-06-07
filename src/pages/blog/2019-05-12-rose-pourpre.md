@@ -22,9 +22,9 @@ Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le d
 
 Il y a longtemps, très longtemps, environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
 
-Il y a bien des choses que l'on ne réussira pas à troquer.
+Il y a bien des choses que l'on ne sait pas à troquer.
 
-Il y a toutes ces situations que le temps ne saura éteindre; il y a souvenirs authentiques, des gestes, des vitaux.
+Il y a des situations que le temps ne réussira pas à éteindre; il y a tous ces gestes, des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
@@ -32,25 +32,21 @@ Ma coupe déborde d’une immense gratitude pour les deux êtres formidables qui
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Eux, c’est aussi une vingtaine d’années de contradictions, des joutes de positions; c’etait incroyable; de véritables combats de coqs, silencieux, imparfaits.
+Nous avons tant partagé, une vingtaine d’années de contradictions, des joutes de positions; c’etait incroyable; de véritables combats de coqs, silencieux, imparfaits.
 
-J’ai pris de la hauteur, j’aii mûri et demain encore je continuerai à apprendre de mes erreurs.
+Ensemble nous avons pris de la hauteur, nous avons mûri et demain encore je continuerai à apprendre de mes erreurs.
 
-Eux, c’est aussi des souvenirs, authentiques, nos victoires communes, les sacrifices, les longues absences, le vide et l’Amour certain.
+Eux, c’est aussi des souvenirs authentiques, nos victoires communes, les sacrifices, les longues attentes, le silence et surtout l’Amour; c’est certain.
 
+Nous avons beaucoup marché, côte à côte en direction du navire.
 
-
-Puis arrivera ce jour où nous marcherons côte à côte vers le navire.
-
-Ma mère marchera à ma gauche et mon père sera tout près d’elle.
-
-Me conduiront-ils jusqu’au quai, voudront-ils embarquer?
-
-Montesquieu disait: « Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour ».
+Iront-ils jusqu’au quais voudront-ils embarquer?
 
 ![null](/img/81eaa0a3-8220-4589-b897-357d3d9b6355.png)
 
-Des terres, des jours...; on a tant partagé, la  joie et bien au delà; de belles histoires et des envies de réussir à ne point en finir.
+J’ai hâte de retrouver les autres.
+
+Avec eux je partage mes joies et bien au delà; de belles histoires et des envies de réussir à ne point finir.
 
 Toutes celles qui seront là encore demain, les personnes qu’on ne prévient pas souvent, vous qui de loin ou de près n’hésitez pas à me prêter vos mains, vous m’avez rendue millionnaire; merci.
 
@@ -58,15 +54,15 @@ Il y a aussi des camarades et des cousines de coeur, celles qui nous aiment sans
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Si l’on vit pour améliorer les tires, je ne quitterai pas la mesure, j’aimerai d’un amour intarissable.
+Si l’on vit pour améliorer les tires, je ne quitterais pas la mesure.
 
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans cette charpe.
+Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans cette écharpe.
 
 Je conquiers ma liberté dans l’exacte mesure de sa couleur.
 
-Ma rose, si pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
+Ma rose, absolument pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
 
-C’est ma joie et mon espérance, c’est l’Amour au dessus de tout.
+C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
 
 Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
