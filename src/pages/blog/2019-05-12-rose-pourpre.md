@@ -16,31 +16,35 @@ Christian Bobin- la part manquante.
 
 C’était maintenant devenu mon fidèle compagnon.
 
-Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu’elle me tendit dans un sourire vertigineux.
+Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu’elle me tendit dans un sourire contagieux.
 
 Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
 
-Il y a longtemps, très longtemps, disons environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
+Il y a longtemps, très longtemps, environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
 
 Il y a bien des choses que l'on ne réussira pas à troquer.
 
-Il y a bien des situations que le temps ne réussira pas à éteindre; il y a souvenirs authentiques et puis il y a tous ces gestes, des vitaux.
+Il y a toutes ces situations que le temps ne saura éteindre; il y a souvenirs authentiques, des gestes, des vitaux.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie.
+Ma coupe déborde d’une immense gratitude pour les deux êtres formidables qui m’ont parée pour la vie.
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Puis viendra le jour où le navire m’attendra de l’autre côté, près de la mer.
+Eux, c’est aussi une vingtaine d’années de contradictions, des joutes de positions; c’etait incroyable; de véritables combats de coqs, silencieux, imparfaits.
 
-Ma mère marchera à côté de moi et mon père sera tout près d’elle.
+J’ai pris de la hauteur, j’aii mûri et demain encore je continuerai à apprendre de mes erreurs.
 
-Oseront-ils me conduire à quai, voudront-ils embarquer?
+Eux, c’est aussi des souvenirs, authentiques, nos victoires communes, les sacrifices, les longues absences, le vide et l’Amour certain.
 
-Me voilà, qui, chargée de nos victoires communes, de plus d’une vingtaine d’années de contradictions.
 
-J’aurai pris de la hauteur, j’aurai assez mûri et le lendemain encore je continuerai à apprendre de mes erreurs; de nos joutes de positions, c’etait incroyable, de véritables combats de coqs, silencieux, imparfaits.
+
+Puis arrivera ce jour où nous marcherons côte à côte vers le navire.
+
+Ma mère marchera à ma gauche et mon père sera tout près d’elle.
+
+Me conduiront-ils jusqu’au quai, voudront-ils embarquer?
 
 Montesquieu disait: « Heureux celui qui, connaissant tout le prix d'une vie douce et tranquille, repose son cœur au milieu de sa famille, et ne veut connaître d'autre terre, que celle qui lui a donné le jour ».
 
