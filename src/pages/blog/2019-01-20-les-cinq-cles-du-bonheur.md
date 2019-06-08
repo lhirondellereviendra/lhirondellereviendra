@@ -44,7 +44,7 @@ Il faut se donner la capacité d’être heureux en regardant tout, profondémen
 
 LA RECONNAISSANCE
 
-![null](/img/eb47b10b-8080-4db7-98a6-b3c8ede67a6d.png)
+![null](/img/cd40c0f1-f3e1-4f06-9411-d1fd694cb389.png)
 
 La vie est un présent pour lequel je ne cesserai de dire MERCI.
 
