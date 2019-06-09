@@ -90,13 +90,15 @@ D’autres mâles m’offriront leurs bras et des tas de baisers.
 
 Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
 
-Je traverserai des hivers de rêve jusqu’à enterrer notre quinzième sourire.
+Dans des hivers de rêve, nous te placerons dans le passé.
 
 Que ma volonté demeure sur l’étagère,
 
-Que ne m’achèvent pas, ces atroces plaisirs qui nous mènent à la catastrophe.
+Que ne m’achèvent pas ces atroces plaisirs,
 
-Quand nous serons morts mes instincts et moi.
+Ce quinzième sourire qui me mène à la catastrophe.
+
+ Quand nous serons morts mes instincts et moi.
 
 Néant, néant.
 
