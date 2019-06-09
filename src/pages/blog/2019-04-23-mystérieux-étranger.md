@@ -86,19 +86,19 @@ Que les chemins de l’amour parfois sont difficiles!
 
 ## Il fera chaud ces jours là sur les côtes de mon cœur.
 
-D’autres mâles m’offriront leurs bras et des tas de baisers.
+D’autres mâles m’offriront bras et un tas de baisers.
 
 Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
 
-Dans des hivers de rêve, nous te placerons dans le passé.
+Dans des hivers de rêve, toi, tu seras déjà du passé.
 
-Que ma volonté demeure sur l’étagère,
+Même si ma volonté demeurait sur l’étagère.
 
-Que ne m’achèvent pas ces atroces plaisirs,
+Même s’ils m’achevaient ces atroces plaisirs.
 
-Ce quinzième sourire qui me mène à la catastrophe.
+Ce quinzième sourire, cette catastrophe.
 
- Quand nous serons morts mes instincts et moi.
+ Muets, mes instincts et moi.
 
 Néant, néant.
 
