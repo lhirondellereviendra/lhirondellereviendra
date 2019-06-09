@@ -3,10 +3,7 @@ templateKey: blog-post
 title: ROSE POURPRE
 urlphoto: 'https://lhirondellereviendra.com/img/78fa0eb6-9181-4e26-bf79-7a348661e2a3.png'
 date: 2019-05-12T18:32:07.388Z
-description: >-
-  Ce n’est pas pour devenir écrivain qu’on écrit. C’est pour rejoindre en
-  silence cet amour qui manque à tout amour. C’est pour rejoindre le sauvage,
-  l’écorché, le limpide.
+description: "«\_Ce n’est pas pour devenir écrivain qu’on écrit. C’est pour rejoindre en silence cet amour qui manque à tout amour. C’est pour rejoindre le sauvage, l’écorché, le limpide\_»."
 tags:
   - Vie
 ---
@@ -32,33 +29,29 @@ C’est grâce à eux si vous m’avez connue et appréciée.
 
 Nous avons passé une vingtaine d’années de contradictions, eu des joutes de positions; c’était incroyable: de véritables combats de coqs, silencieux, imparfaits.
 
-Nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs.
+Ensemble, nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs.
 
-Nos victoires communes, les sacrifices, l’essentiel dans le désert, les longues attentes, le silence et le plus certain: l’Amour.
+De toutes nos victoires communes, les sacrifices des uns et des autres, de l’essentiel dans le désert, des longues attentes, du silence.
 
-Quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement côte à côtes, en direction du navire.
+Puis quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement côte à côtes, en direction du navire.
 
 Viendront-ils jusqu’au quais, voudront-ils embarquer?
 
-
-
-À l’autre bord, je brillerai encore de souvenirs, authentiques.
+Je suis certaine qu’a l’autre bord, je brillerai encore de tous ces authentiques souvenirs.
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Je ne quitterais pas la mesure.
-
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de mon  écharpe.
+Je ne quitterai pas la mesure car ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de mon  écharpe.
 
 Je conquiers ma liberté dans l’exacte mesure de sa couleur.
 
-Ma rose pourpre, mon équilibre; la douceur et la féminité; ma victoire, ma virilité.
+Ma rose pourpre, mon équilibre; ma douceur-féminité, ma victoire-virilité.
 
 C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
 
 Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
-J’y vois du vert et de nouvelles semences, j’y vois tout, du rouge, du bleu et du jaune.
+J’y vois du vert et de nouvelles semences, j’y vois de tout, rouge, bleu et jaune...
 
 Il est vrai que le temps perdu ne se corrige pas et ce que nous ne voulons pas changer ne changera pas non plus.
 
