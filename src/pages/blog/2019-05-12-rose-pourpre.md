@@ -31,17 +31,17 @@ Nous avons passé une vingtaine d’années de contradictions, eu des joutes de 
 
 Ensemble, nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs.
 
-De toutes nos victoires communes, les sacrifices des uns et des autres, de l’essentiel dans le désert, des longues attentes, du silence.
+De toutes nos victoires communes, les sacrifices, de l’essentiel dans le désert, des longues attentes, du silence.
 
 Puis quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement côte à côtes, en direction du navire.
 
-Viendront-ils jusqu’au quais, voudront-ils embarquer?
+Viendront-ils à quai, voudront-ils embarquer?
 
-Je suis certaine qu’a l’autre bord, je brillerai encore de tous ces authentiques souvenirs.
+Je suis certaine que je jaugerai; je brillerai de tous ces authentiques souvenirs.
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
-Je ne quitterai pas la mesure car ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de mon  écharpe.
+Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de ce présent.
 
 Je conquiers ma liberté dans l’exacte mesure de sa couleur.
 
@@ -51,7 +51,7 @@ C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
 
 Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
-J’y vois du vert et de nouvelles semences, j’y vois de tout, rouge, bleu et jaune...
+J’y vois du vert et de nouvelles semences, j’y vois de tout, du rouge, du bleu etc.
 
 Il est vrai que le temps perdu ne se corrige pas et ce que nous ne voulons pas changer ne changera pas non plus.
 
