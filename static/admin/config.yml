@@ -6,7 +6,7 @@ backend:
     - editor
 
 media_folder: static/img
-logo_url: https://lhirondellereviendra.com/static/f8659f1f0ed66316c724057c286d2ec6/d4214/lhr_logo.png
+logo_url: ../img/lhr_logo.png
 public_folder: /img
 display_url: https://lhirondellereviendra.fr
 site_url: https://lhirondellereviendra.fr
