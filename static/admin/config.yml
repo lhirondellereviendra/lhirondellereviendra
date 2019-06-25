@@ -7,6 +7,10 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+show_preview_links: false
+display_url: HOME
+site_url: https://lhirondellereviendra.fr
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
@@ -17,7 +21,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Entrer l'url de la photo de couverture", name: "urlphoto", widget: "string"}
+      - {label: "Choisir une photo de couverture", name: "urlphoto", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -39,22 +43,22 @@ collections:
           fields:
               - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
               - {label: Title, name: title, widget: hidden, default: "L'hirondelle reviendra"}
-              - {label: "Image Accueil", name: image, widget: string}
+              - {label: "Chosir une image d'accueil", name: image, widget: image}
               - {label: Description, name: description, widget: string}
               - {label: "A propos", name: about, widget: object, 
                     fields: [
                       {label: Titre, name: titre, widget: string}, 
                       {label: Description, name: description, widget: text}, 
-                      {label: "Image URL", name: image, widget: string}
+                      {label: " Choisir une image URL", name: image, widget: image}
                       ]
                 }
-              - {label: "Categorie", name: categoriehome, widget: list, 
+              - {label: "Catégorie", name: categoriehome, widget: list, 
                     fields: [
                       {label: "Titre Categorie", name: titrecat, widget: string}, 
                       {label: "Description" , name: descriptioncat, widget: string}, 
                       {label: "Lien Categorie", name: liencat, widget: string}, 
                       {label: "Nom bouton", name: nombouton, widget: string}, 
-                      {label: "Image URL", name: image, widget: string}
+                      {label: "Chosir une image pour illustrer la catégorie", name: image, widget: image}
                       ]
                 }
 
