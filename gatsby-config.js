@@ -44,7 +44,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/lhr_logo.png',
+        //icon: 'https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/lhr_logo.png',
       },
     },
     {
