@@ -44,7 +44,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/img/logo.svg', // This path is relative to the root of the site.
+        icon: 'https://lhirondellereviendra.com/56721090-3e15-403a-b642-9615e6269e1b',
       },
     },
     {
