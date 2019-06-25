@@ -11,7 +11,7 @@ display_url: https://lhirondellereviendra.fr
 site_url: https://lhirondellereviendra.fr
 publish_mode: editorial_workflow
 show_preview_links: true
-logo_url: https://lhirondellereviendra.com/56721090-3e15-403a-b642-9615e6269e1b
+logo_url: https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/master/static/img/lhr_logo.png
 collections:
   - name: "blog"
     label: "Blog"
