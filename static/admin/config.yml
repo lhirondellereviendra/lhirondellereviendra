@@ -8,9 +8,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 show_preview_links: false
-display_url: HOME
+display_url: https://lhirondellereviendra.fr
 site_url: https://lhirondellereviendra.fr
 publish_mode: editorial_workflow
+show_preview_links: true
 
 collections:
   - name: "blog"
