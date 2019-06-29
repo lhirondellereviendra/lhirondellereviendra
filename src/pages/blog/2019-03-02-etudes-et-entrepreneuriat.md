@@ -80,7 +80,7 @@ Et si tu as la réponse, il faut **ensuite penser à la gestion du temps** comme
 
 Ce qui déconcentre le plus en ce moment c'est internet pour ne pas dire les réseaux sociaux. Il faudra les utiliser et non le contraire c’est à dire en faire un outils d’informations et de divertissement et non une jungle dans laquelle tu te perds.
 
-Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela. Plusieurs font cette erreur de passer plus de temps sur les réseaux à faire de la pub pour un produit: service qui n'existe même pas encore.  
+Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela.  
 
 **Enfin, il faut entraîner son mental;** être fort sinon en cas d’échecs dans l’entreprise cela peut avoir des répercussions sur les études et vise versa.
 
