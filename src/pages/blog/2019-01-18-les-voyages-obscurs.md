@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: LES VOYAGES OBSCURS
-urlphoto: 'blob:https://lhirondellereviendra.com/3b7d9c7e-1e62-4bc2-9d58-e0ebe32aa9fa'
+urlphoto: /img/064c5e62-cd3d-488a-bcbb-1cb4f0635d88.jpeg
 date: 2019-01-18T22:05:09.878Z
 description: >-
   Je voyage à travers le monde tantôt fuyant la guerre et la précarité tantôt
@@ -12,7 +12,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/064c5e62-cd3d-488a-bcbb-1cb4f0635d88.jpeg)
+![null]()
 
 C’est dommage de devoir quitter le bercail de cette manière. C’est fatal toutes les âmes englouties au fond de la mer Méditerranée. 
 
