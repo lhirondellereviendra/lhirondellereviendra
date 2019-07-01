@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 
 export const BlogPostTemplate = ({
   content,
@@ -78,16 +77,6 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         urlphoto={post.frontmatter.urlphoto}
 
-      />
-      <CommentCount
-        identifier={post.frontmatter.id}
-        title={post.frontmatter.title}
-        url={post.fields.slug}
-      />
-      <Disqus 
-        identifier={post.frontmatter.id}
-        title={post.frontmatter.title}
-        url={post.fields.slug}
       />
     </Layout>
   )
