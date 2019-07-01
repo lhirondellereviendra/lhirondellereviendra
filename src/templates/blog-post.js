@@ -50,7 +50,7 @@ export const BlogPostTemplate = ({
             ) : null}
             <Disqus.CommentCount shortname={disqusShortname} config={disqusConfig} />
             <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
-s
+
           </div>
         </div>
       </div>
