@@ -18,11 +18,11 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  const disqusShortname = 'https-lhirondellereviendra-com-1';
+  const disqusShortname = 'https-lhirondellereviendra-com-blog';
   const disqusConfig = {
     url: "www.massavo.com"+slug,
     identifier: id,
-    title: title
+    title: title,
 };
 
   return (
