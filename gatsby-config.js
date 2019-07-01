@@ -33,6 +33,12 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `https-lhirondellereviendra-com-1`
+      }
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
