@@ -20,7 +20,7 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
   const disqusShortname = 'https-lhirondellereviendra-com-1';
   const disqusConfig = {
-    url: slug,
+    url: "www.massavo.com"+slug,
     identifier: id,
     title: title
 };
@@ -50,7 +50,7 @@ export const BlogPostTemplate = ({
             ) : null}
             <Disqus.CommentCount shortname={disqusShortname} config={disqusConfig} />
             <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
-
+s
           </div>
         </div>
       </div>
