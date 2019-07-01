@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import Disqus from 'disqus-react';
+import { DiscussionEmbed, CommentCount, CommentEmbed } from 'disqus-react';
 
 export const BlogPostTemplate = ({
   content,
@@ -47,9 +47,9 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-            <Disqus.CommentCount shortname={disqusShortname} config={disqusConfig} />
-            <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+            <CommentCount shortname={disqusShortname} config={disqusConfig} />
             <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+            <CommentEmbed shortname={disqusShortname} config={disqusConfig} />
 
           </div>
         </div>
