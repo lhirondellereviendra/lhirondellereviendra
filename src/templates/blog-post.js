@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Disqus from 'disqus-react';
 
 export const BlogPostTemplate = ({
   content,
@@ -12,10 +13,17 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  urlphoto,
+  slug,
+  id,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  const disqusShortname = 'https-lhirondellereviendra-com-1';
+  const disqusConfig = {
+    url: slug,
+    identifier: id,
+    title: title
+};
 
   return (
     <section className="section">
@@ -40,6 +48,9 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <Disqus.CommentCount shortname={disqusShortname} config={disqusConfig} />
+            <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+
           </div>
         </div>
       </div>
@@ -53,11 +64,13 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   urlphoto: PropTypes.string,
+  id: PropTypes.string,
+  slug: PropTypes.string,
   helmet: PropTypes.object,
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -76,6 +89,8 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         urlphoto={post.frontmatter.urlphoto}
+        id={post.id}
+        slug={post.fields.slug}
 
       />
     </Layout>
