@@ -129,7 +129,6 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      <p>{disqusConfig.url}</p>
       <BlogPostTemplate
         urlphoto={post.frontmatter.urlphoto}
         content={post.html}
@@ -150,7 +149,11 @@ const BlogPost = ({ data }) => {
         slug={post.fields.slug}
 
       />
-      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+       <div className="container content">
+        <div className="columns">
+            <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+          </div>
+        </div>
     </Layout>
   )
 }
