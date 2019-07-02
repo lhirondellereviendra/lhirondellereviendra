@@ -1,5 +1,5 @@
 import React, {Component} from 'react' /* eslint-disable */
-import { graphql,Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import Layout from '../components/Layout.js'
 import Footer from '../components/Footer.js'
@@ -103,7 +103,7 @@ Blogpage.propTypes = {
   }),
 }
 
-export const BlogQuery = graphql`
+export const pageQuery = graphql`
 
 query BlogQuery($skip: Int!, $limit: Int!) {
   allMarkdownRemark(
@@ -118,7 +118,6 @@ query BlogQuery($skip: Int!, $limit: Int!) {
     }
     edges {
       node {
-        excerpt(pruneLength: 400)
         id
         fields {
           slug
