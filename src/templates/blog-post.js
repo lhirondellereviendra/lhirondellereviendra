@@ -13,18 +13,11 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  slug,
-  id,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content
-  const disqusShortname = 'https-lhirondellereviendra-com'
 
-  const disqusConfig = {
-    url: 'www.massavo.com'+slug,
-    identifier: id,
-    title: title,
-};
+  const PostContent = contentComponent || Content
+
 
   return (
     <section className="section">
@@ -50,7 +43,6 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-              <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
           </div>
         </div>
       </div>
@@ -71,6 +63,13 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
+  const disqusShortname = 'https-lhirondellereviendra-com'
+
+  const disqusConfig = {
+    url: 'www.massavo.com'+post.fields.slug,
+    identifier: post.id,
+    title: post.frontmatter.title,
+  };
 
   return (
     <Layout>
@@ -93,6 +92,7 @@ const BlogPost = ({ data }) => {
         slug={post.fields.slug}
 
       />
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
     </Layout>
   )
 }
