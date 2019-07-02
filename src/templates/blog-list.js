@@ -13,7 +13,7 @@ class Blogpage extends Component{
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? "/blog" : (currentPage - 1).toString()
+    const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
     const nextPage = (currentPage + 1).toString()
     return(
       <div>
@@ -71,14 +71,14 @@ class Blogpage extends Component{
                 <div className="columns" style={{marginTop:"100px"}}>
                   <div className="column">
                     {!isFirst && (
-                      <a href={`/blog${prevPage}`} className="button is-medium is-rounded is-primary" rel="prev">
+                      <a href={`/blog/${prevPage}`} className="button is-medium is-rounded is-primary" rel="prev">
                         ← Articles précédent
                       </a>
                     )}
                   </div>
                   <div className="column">
                     {!isLast && (
-                      <a href={`/blog${nextPage}`} className="button is-medium is-rounded is-primary" rel="next">
+                      <a href={`/blog/${nextPage}`} className="button is-medium is-rounded is-primary" rel="next">
                         Plus d'articles →
                       </a>
                     )}
