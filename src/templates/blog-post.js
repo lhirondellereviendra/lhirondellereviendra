@@ -56,7 +56,7 @@ export const BlogPostTemplate = ({
             <div style={{ marginTop: `2rem` }}>
                 <h4>Partager l'article :</h4>
                 <FacebookShareButton 
-                  style={{ marginRight: `1rem`, color: `#3B5998`}} 
+                  style={{ marginRight: `1rem`, marginTop: `1rem`, color: `#3B5998`}} 
                   url={`https://lhirondellereviendra.com/${slug}`} 
                   image={urlphoto}
                   quote={description} 
@@ -67,14 +67,14 @@ export const BlogPostTemplate = ({
                   </span>
                   <span className="text">Facebook</span>
                 </FacebookShareButton>
-                <TwitterShareButton style={{ marginRight: `1rem`,color: `#1A7DBA`}} url={`https://lhirondellereviendra.com/${slug}`} className="button is-outlined is-rounded twitter-share" >
+                <TwitterShareButton style={{ marginRight: `1rem`, marginTop: `1rem`,color: `#1A7DBA`}} url={`https://lhirondellereviendra.com/${slug}`} className="button is-outlined is-rounded twitter-share" >
                   <span>
                     <i class="fab fa-twitter"></i>
                   </span>
                   <span className="text">Twitter</span>
                 </TwitterShareButton>
                 <LinkedinShareButton 
-                  style={{ marginRight: `1rem`, color:`#0077B5` }} 
+                  style={{ marginRight: `1rem`, marginTop: `1rem`, color:`#0077B5` }} 
                   url={`https://lhirondellereviendra.com/${slug}`} 
                   className="button is-outlined is-rounded linkedin-share" 
                   title={title} 
@@ -86,7 +86,7 @@ export const BlogPostTemplate = ({
                   <span className="text">LinkedIn</span>
                 </LinkedinShareButton>
                 <EmailShareButton 
-                  style={{ marginRight: `1rem`, color:`#e5aa22` }} 
+                  style={{ marginRight: `1rem`, marginTop: `1rem`, color:`#e5aa22` }} 
                   url={`https://lhirondellereviendra.com/${slug}`} 
                   className="button is-outlined is-rounded linkedin-share"
                   subject={`Partage de l'article: ${title} L'hirondelleReviendra.com`}
@@ -149,11 +149,11 @@ const BlogPost = ({ data }) => {
         slug={post.fields.slug}
 
       />
-       <div className="container content">
-        <div className="columns">
-            <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
-          </div>
+      <section className="section">
+        <div className="container">
+              <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
+      </section>
     </Layout>
   )
 }
