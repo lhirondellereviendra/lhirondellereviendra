@@ -14,11 +14,12 @@ export const HomePageTemplate = ({
   categoriehome,
 }) => (
     <div>
-        <div>
-        <img src={image} alt="image" />
-        </div>
+      <section className=" section  has-text-centered is-medium">
+          <div className="container">
 
-        <section className=" section  has-text-centered is-medium">
+            <div>
+            <img src={image} alt="image" />
+            </div>
 
             <p className="has-text-justified text-intro has-text-centered	is-size-5 is-size-6-mobile" >
             {description}
@@ -33,25 +34,25 @@ export const HomePageTemplate = ({
                         <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i className="fab fa-twitter "></i> </a>
                 </div>
             </nav>
+          </div>
         </section>
         <section className=" section secteurdark has-text-centered is-medium" id="about">
+          <div className="container">
             <h1 className="title titlewhite is-size-4-mobile"> {about.titre} </h1>
 
             <div className=" article aboutpart">
                   <div className="">
                     <img src={about.image} alt="image-accueil" />
                   </div>
-
-                  <div className="">
-                    
+                  <div> 
                     <p className="has-text-justified text is-size-5	is-size-6-mobile">{about.description} </p>
-
                   </div>
              </div> 
              <a class="button is-black button is-medium is-rounded" href="/apropos">En savoir plus sur moi >></a>
-          </section>
+          </div>
+        </section>
         <CategorieHome categoriehome={categoriehome} />
-    </div>    
+      </div>
 )
 
 HomePageTemplate.propTypes = {
@@ -78,7 +79,8 @@ const HomePage = ({ data }) => {
         categoriehome={frontmatter.categoriehome}
       />
       <section style={{marginBottom:"50px"}} className=" section secteurdark has-text-centered is-medium" id="blog">
-        <h1 className="title titlewhite is-size-4-mobile"> MES DERNIERS articles </h1>
+        <div className="container">
+          <h1 className="title titlewhite is-size-4-mobile"> MES DERNIERS articles </h1>
           <div className="tile is-ancestor"style={{marginTop:"50px"}}>
                         {
                           posts .map(({ node: post }) => (
@@ -94,8 +96,9 @@ const HomePage = ({ data }) => {
                             </div>
                           ))
                         }
+            </div>
+            <a class="button is-black button is-medium is-rounded" href="/blog">Voir plus d'articles >></a>
           </div>
-          <a class="button is-black button is-medium is-rounded" href="/blog">Voir plus d'articles >></a>
       </section>
       <Footer/>
 

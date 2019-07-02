@@ -5,6 +5,7 @@ import React from 'react'   /* eslint-disable */
 const Footer = () => (
     <div>
             <section className=" section secteurdark has-text-centered is-medium" id="contact">
+                <div className="container">
                     <h1 className="title titlewhite is-size-4-mobile"> ME SUIVRE </h1>
                     <a aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/"><h1 className="title titlewhite has-text-left is-size-5 ">@lhirondellereviendra </h1></a>
                     <div className="level" style={{marginTop: "40px"}}>
@@ -15,15 +16,16 @@ const Footer = () => (
                     
                     <nav className="navbar">
                         <div className="navbar" >
-                                <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
                                 <p className="navbar-item-trait"> / </p>                            
 
-                                <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/" >INSTAGRAM </a>
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/" >INSTAGRAM </a>
 
                                 <p className="navbar-item-trait"> / </p>                            
-                                <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://twitter.com/LReviendra">TWITTER </a>
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://twitter.com/LReviendra">TWITTER </a>
                         </div>  
                     </nav>
+                </div>
             </section>
 
             <footer className="footer">
