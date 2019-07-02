@@ -3,7 +3,6 @@ import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import Layout from '../components/Layout.js'
 import Footer from '../components/Footer.js'
-
 import { kebabCase } from 'lodash'
 
 class Blogpage extends Component{
