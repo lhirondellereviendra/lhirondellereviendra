@@ -71,14 +71,14 @@ class Blogpage extends Component{
                 <div className="columns" style={{marginTop:"100px"}}>
                   <div className="column">
                     {!isFirst && (
-                      <a href={prevPage} className="button is-medium is-rounded is-primary" rel="prev">
+                      <a href={`/blog${prevPage}`} className="button is-medium is-rounded is-primary" rel="prev">
                         ← Articles précédent
                       </a>
                     )}
                   </div>
                   <div className="column">
                     {!isLast && (
-                      <a href={nextPage} className="button is-medium is-rounded is-primary" rel="next">
+                      <a href={`/blog${nextPage}`} className="button is-medium is-rounded is-primary" rel="next">
                         Plus d'articles →
                       </a>
                     )}
