@@ -103,7 +103,7 @@ Blogpage.propTypes = {
   }),
 }
 
-export const pageQuery = graphql`
+export const BlogQuery = graphql`
 
 query BlogQuery($skip: Int!, $limit: Int!) {
   allMarkdownRemark(
