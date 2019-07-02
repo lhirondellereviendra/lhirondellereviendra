@@ -1,5 +1,5 @@
 import React, {Component} from 'react' /* eslint-disable */
-import { graphql } from 'gatsby'
+import { graphql,Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import Layout from '../components/Layout.js'
 import Footer from '../components/Footer.js'
@@ -11,6 +11,11 @@ class Blogpage extends Component{
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark  
     const {group} = data.allMarkdownRemark
+    const { currentPage, numPages } = this.props.pageContext
+    const isFirst = currentPage === 1
+    const isLast = currentPage === numPages
+    const prevPage = currentPage - 1 === 1 ? "/blog" : (currentPage - 1).toString()
+    const nextPage = (currentPage + 1).toString()
     return(
       <div>
 
@@ -25,7 +30,7 @@ class Blogpage extends Component{
                   <h1 className=" title is-size-4 is-bold-light">Catégories:</h1>
                   <ul className="taglist ">
                     {group.map(tag => (
-                      <button className="button is-success" style={{marginRight:"10px",}}>
+                      <button className="button is-success" style={{marginRight:"10px", marginTop:"10px"}}>
                         <li key={tag.fieldValue}>
                           <a style={{paddingLeft:"25px"}}href={`/tags/${kebabCase(tag.fieldValue)}/`}>
                             <b>{tag.fieldValue}</b> ({tag.totalCount})
@@ -53,7 +58,7 @@ class Blogpage extends Component{
                                                         </figure>
                                                         <p className="title is-size-4 is-size-5-mobile">{post.frontmatter.title}</p>
                                                         <p className=" is-size-6 is-size-5-mobile">{post.frontmatter.description}</p>
-                                                        <a className="button is-medium" to={post.fields.slug}>
+                                                        <a className="button" style={{marginTop:"20px"}} to={post.fields.slug}>
                                                               Lire la suite →
                                                         </a>
                                                     </div>
@@ -63,6 +68,22 @@ class Blogpage extends Component{
                               }
 
 
+                </div>
+                <div className="columns" style={{marginTop:"100px"}}>
+                  <div className="column">
+                    {!isFirst && (
+                      <a href={prevPage} className="button is-medium is-rounded is-primary" rel="prev">
+                        ← Articles précédent
+                      </a>
+                    )}
+                  </div>
+                  <div className="column">
+                    {!isLast && (
+                      <a href={nextPage} className="button is-medium is-rounded is-primary" rel="next">
+                        Plus d'articles →
+                      </a>
+                    )}
+                  </div>
                 </div>
          </section>
          <Footer/>
@@ -84,11 +105,12 @@ Blogpage.propTypes = {
 
 export const pageQuery = graphql`
 
-query BlogQuery {
-
+query BlogQuery($skip: Int!, $limit: Int!) {
   allMarkdownRemark(
-    sort: { order: DESC, fields: [id]},
+    sort: { fields: [frontmatter___date], order: DESC }
     filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+    limit: $limit
+    skip: $skip
   ) {
     group(field: frontmatter___tags) {
       fieldValue

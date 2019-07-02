@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Footer from '../components/Footer.js'
 import { DiscussionEmbed } from 'disqus-react'
 import {
   FacebookShareButton,
@@ -154,6 +155,7 @@ const BlogPost = ({ data }) => {
               <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
       </section>
+      <Footer/>
     </Layout>
   )
 }
@@ -168,7 +170,8 @@ export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(
+      id: { eq: $id }) {
       id
       html
       fields {

@@ -38,7 +38,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'l hirondelle reviendra',
+        name: 'lhirondelle reviendra',
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',

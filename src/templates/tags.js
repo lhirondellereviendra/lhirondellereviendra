@@ -1,13 +1,12 @@
 import React from 'react'/* eslint-disable */
 import Helmet from 'react-helmet'
-import { kebabCase } from 'lodash'
 
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Footer from '../components/Footer.js'
 
 class TagRoute extends React.Component {
   render() {
-    const { data } = this.props
     const posts = this.props.data.allMarkdownRemark.edges
 
     const postLinks = posts.map(post => (
@@ -31,10 +30,21 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `Il y a ${totalCount} article${
       totalCount === 1 ? '' : 's'
-    } dans la catégorie: ${tag}`
+    } dans la catégorie :  ${tag}`
 
     return (
       <Layout>
+        <section className="hero is-success">
+            <div className="hero-body">
+              <div className="container">
+                  <div className="columns is-centered">
+                    <div className="column ">
+                      <h5 className="subtitle is-primary">{tagHeader}</h5>
+                    </div>
+                  </div>
+              </div>
+            </div>
+        </section>
         <section className="section">
           <Helmet title={`${tag} | ${title}`} />
 
@@ -42,22 +52,25 @@ class TagRoute extends React.Component {
             <div className="columns">
               <div
                 className="column is-10 is-offset-1"
-                style={{ marginBottom: '6rem' }}
+                style={{ marginBottom: '1rem' }}
               >
-              <div className="tile is-ancestor is-vertical " >
-
-                      <h3 className="title is-size-6 is-bold-light">{tagHeader}</h3>
-              </div>
                 <ul className="taglist">{postLinks}</ul>
-
-                
-                <p>
-                  <Link to="/blog">Voir tous les autres articles</Link>
-                </p>
               </div>
             </div>
           </div>
         </section>
+        <section className="hero">
+          <div className="hero-body">
+            <div className="container">
+                <div className="columns is-centered">
+                  <div className="column is-half">
+                    <a href="/blog" className="button is-medium is-rounded is-primary is-fullwidth">Voir plus d'articles</a>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section>
+        <Footer/>
       </Layout>
     )
   }
