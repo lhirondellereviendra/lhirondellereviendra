@@ -66,7 +66,7 @@ const BlogPost = ({ data }) => {
   const disqusShortname = 'https-lhirondellereviendra-com'
 
   const disqusConfig = {
-    url: 'www.massavo.com/test/page-du-site-fr',
+    url: 'www.massavo.com/',
     identifier: post.id,
     title: 'Page du site fr',
   };
