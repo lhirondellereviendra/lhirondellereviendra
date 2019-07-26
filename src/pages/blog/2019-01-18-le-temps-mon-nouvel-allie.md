@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'LE TEMPS, MON NOUVEL ALLIE'
-urlphoto: 'blob:https://lhirondellereviendra.com/d6ae7427-c492-46e0-a5a6-53428eabd4b1'
+urlphoto: /img/e0267ee1-db24-44ee-aeca-ae9d3feec76e.jpeg
 date: 2019-01-18T19:59:30.773Z
 description: >-
   Ce monde va de plus en plus vite et on se demande comment garder le rythme
@@ -12,8 +12,6 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/e0267ee1-db24-44ee-aeca-ae9d3feec76e.jpeg)
-
 Je prends du recul, une question me hante : du temps, en avons-nous suffisamment? Sinon pourquoi n'arrivons nous pas à bien gérer le peu qui nous est gracieusement accordé ?
 
 Le temps se décrit comme une durée plus ou moins définie dont quelqu'un dispose. Très tôt, Lénine écrivait <<le temps n'attend pas.>> Sais tu pourquoi le temps ne s'arrête jamais? Peut-être que non. Mais tu sais sûrement pourquoi tu attends le temps! J'ai lu quelque part que le temps n'attend pas parce qu'il doit s'envoler, olala !
