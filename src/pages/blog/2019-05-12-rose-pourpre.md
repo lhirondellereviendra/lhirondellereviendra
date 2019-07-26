@@ -51,6 +51,8 @@ C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
 
 Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
+![](/img/5a924288-a347-4eb8-afc9-719baf5a9cb5.png)
+
 J’y vois de nouvelles semences, j’y vois de tout, du rouge, du bleu etc.
 
 Il est vrai que le temps perdu ne se corrige pas et ce que nous ne voulons pas changer ne changera pas non plus.
