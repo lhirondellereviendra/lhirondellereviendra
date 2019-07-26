@@ -11,7 +11,7 @@ description: |-
 tags:
   - Réflexions
 ---
-![null](/img/da3af72e-ccce-4324-8273-6749c0720514.jpeg)
+![null]()
 
 J’étais à la recherche d’un mentor, ce genre de personne dont la gamme et le parcours pouvaient braiser et recarder mes gigantesques ambitions.
 
@@ -59,7 +59,7 @@ Je m’amusais à fouiller des curriculum vitae sur le site internet des univers
 
 Vous avez compris!
 
-![null](/img/3546d3de-7889-4f7b-83b3-cccd07370d07.jpeg)
+![null]()
 
 Il fallait absolument que je quitte le #Bénin; mes racines, ma mère, cette femme que je ne connaîtrais donc jamais! mon père, mon seul véritable ami, mes habitudes ainsi que ma culture.
 
@@ -131,7 +131,7 @@ Folie des hommes!
 
 Je mets les mots sur toutes ces choses car elles n’ont plus aucun pouvoir sur moi à l’heure actuelle; j’ai tout bradé.
 
-![null](/img/96b4c45f-1c4e-4e51-bca2-0028b266553e.jpeg)
+![null](/img/51942461_334362493847650_8757343707004403712_n.jpg)
 
 J’ai aussi profité pour apprendre à rire.
 
@@ -201,7 +201,7 @@ Que j’excelle aujourd’hui ou que la vie me reprenne, demain, certaines faveu
 
 Avec, d’avance, j’ai gagné toutes les bonnes guerres.
 
-À toutes mes copines inoubliables, celles qui se cherchent encore, celles qui se sont trouvées, celles qui élèvent et éduquent des enfants, vous les entrepreneuses, les battantes, des toutes petites filles jusqu’aux faiseurs de présidents, toutes celles dont les histoires m’inspirent...
+À vous toutes dont les histoires m’inspirent,
 
 Avec toute ma persévérance.💋
 
