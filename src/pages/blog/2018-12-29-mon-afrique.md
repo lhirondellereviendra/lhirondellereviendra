@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'JEUNE, L'' AFRIQUE A BESOIN DE TOI'
-urlphoto: /img/0873a86c-c2e6-444e-849a-ebd10f86724b.png
+urlphoto: /img/e05aa5e6-3e34-4875-9fad-65a27eccb65d.png
 date: 2018-12-29T18:33:49.670Z
 description: >-
   A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
@@ -17,8 +17,6 @@ Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rag
 Mais à quoi sert-elle réellement? Si au final on enregistre malheureusement beaucoup plus de frustrations et de frayeurs que d’actions pertinentes. I am african, i am proud; and so?
 
 Quel plan pour l’Afrique ? quel est donc le devenir de l’Afrique?
-
-![null](/img/e05aa5e6-3e34-4875-9fad-65a27eccb65d.png)
 
 J’ai bien peur qu’elle soit elle-même un projet dont le plan de financement se trouve encore au brouillon.
 
@@ -38,7 +36,7 @@ Aujourd'hui les plus braves sont prêts à troquer leur liberté contre une séc
 
 # Venez! Joignons nos voix à celles qui s’élèvent déjà pour la libération de notre peuple.
 
-Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits.**_ Pour que nous décollions enfin, il urge de continuer à travailler._** Il est évident que rien n'est fait tant qu’il reste à faire. Les européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
+Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits. _**Pour que nous décollions enfin, il urge de continuer à travailler.**_ Il est évident que rien n'est fait tant qu’il reste à faire. Les européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
 
 Déjà un demi siècle; la jeunesse africaine est mise au défi. Au lieu de continuer à rêver d’un filon facile, chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun,
 
