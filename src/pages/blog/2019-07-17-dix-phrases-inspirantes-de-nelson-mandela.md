@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Dix phrases inspirantes de Nelson Mandela '
+title: 'DIX PHRASES INSPIRANTES DE NELSON MANDELA '
 urlphoto: /img/50248134_2257862741204398_7263835453353099264_n.jpg
 date: 2019-07-17T19:50:37.659Z
 description: >-
