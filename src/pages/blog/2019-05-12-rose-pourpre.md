@@ -27,15 +27,13 @@ Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont par
 
 C’est grâce à eux si vous m’avez connue et appréciée.
 
-Nous avons passé une vingtaine d’années de contradictions, eu des joutes de positions; c’était incroyable: de véritables combats de coqs, silencieux, imparfaits.
+Nous avons passé une vingtaine d’années de contradictions, c’était  incroyable; de véritables combats de coqs, silencieux, imparfaits.
 
-Ensemble, nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs.
+Ensemble, nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs; de toutes nos victoires communes, les sacrifices, l’essentiel dans le désert, les longues attentes, le silence.
 
-De toutes nos victoires communes, les sacrifices, de l’essentiel dans le désert, des longues attentes, du silence.
+Puis quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement en direction du navire.
 
-Puis quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement côte à côtes, en direction du navire.
-
-Viendront-ils à quai, voudront-ils embarquer?
+Viendront-ils sur le quai, voudront-ils embarquer?
 
 Je suis certaine que je jaugerai; je brillerai de tous ces authentiques souvenirs.
 
