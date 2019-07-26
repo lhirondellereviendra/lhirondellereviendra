@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ETUDES ET ENTREPRENEURIAT
-urlphoto: 'blob:https://lhirondellereviendra.com/77e0c3af-3098-441a-99c2-4f6e0563e717'
+urlphoto: /img/1886e625-49a4-486e-b096-7c2485bfc1f2.jpeg
 date: 2019-03-02T10:19:40.760Z
 description: >
   Quand on est jeune étudiant, plein d’entrain et que l’on souhaite constamment
@@ -9,8 +9,6 @@ description: >
 tags:
   - Actu
 ---
-![null](/img/faf07a81-998c-4303-a0f1-2a6ef245b7c8.jpeg)
-
 Arrives-tu à concilier ton blog et tes études? Quelles sont les difficultés que tu rencontres? Sinon quels sont les conseils que tu peux donner? Voilà les questions récurrentes.
 
 Vu mon grand intérêt pour l'entrepreneuriat,  j’avoue,  j’ai moi-même cogité assez souvent.
@@ -41,7 +39,7 @@ Posez la question à un ami entrepreneur qui a du succès, si vous en connaissez
 
 S’il est honnête avec vous, il vous regardera d'un air suffisant puis vous répondra que, évidemment, ses diplômes universitaires lui sont accessoires ( ils ne servent qu'à orner le placard) et pourtant dans votre entourage immédiat se trouve un autre qui témoigne de son regret d’avoir abandonné les cours trop tôt au profit d’une affaire qui n’a pas du tout l’air de fonctionner.
 
-**Voyez-vous, cette ambivalence nous interpelle tous et démontre clairement le fait que ce n’est pas toujours évident de parfaire la conciliation études-entrepreneuriat. **
+**Voyez-vous, cette ambivalence nous interpelle tous et démontre clairement le fait que ce n’est pas toujours évident de parfaire la conciliation études-entrepreneuriat.** 
 
 ## CELA SUFFIRAIT-IL A TAIRE LES AVANTAGES D'ENTREPRENDRE?
 
@@ -65,8 +63,8 @@ Par exemple, tenir une petite boutique en ligne quand on est dans une école de 
 
 Vous convenez avec moi que dans ces cas, l’étudiant ne sort pas totalement du cadre universitaire; il vit la pratique de ce qu’il étudie et ça lui permet de s’exercer, de se perfectionner et de faire un pas plus que ses camarades. 
 
-**Mais plus encore nous pouvons nous pencher sur le fait qu'entreprendre permet de développer certaines qualités et aptitudes.
-**
+**Mais plus encore nous pouvons nous pencher sur le fait qu'entreprendre permet de développer certaines qualités et aptitudes.**
+
 
 En l’occurrence, être bien organisé, prendre des décisions rapidement, savoir gérer le stress et son temps, collaborer avec d’autres personnes, mieux écouter, donner des directives sont autant d’atouts et de compétences dont le développement aide certainement dans la gestion de la vie quotidienne pour ne pas dire estudiantine. 
 
@@ -74,13 +72,13 @@ En l’occurrence, être bien organisé, prendre des décisions rapidement, savo
 
 Commence par te poser certaines questions fondamentales.
 
-**D'abord, pourquoi tu veux entreprendre ? **cela te permettra de distinguer une simple envie d’avoir des revenus d’un besoin de faire quelque chose d’utile.
+**D'abord, pourquoi tu veux entreprendre ?** cela te permettra de distinguer une simple envie d’avoir des revenus d’un besoin de faire quelque chose d’utile.
 
 Et si tu as la réponse, il faut **ensuite penser à la gestion du temps** comme par exemple quitter le mode automatique c'est à dire planifier, tout planifier.
 
 Ce qui déconcentre le plus en ce moment c'est internet pour ne pas dire les réseaux sociaux. Il faudra les utiliser et non le contraire c’est à dire en faire un outils d’informations et de divertissement et non une jungle dans laquelle tu te perds.
 
-Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela. Plusieurs font cette erreur de passer plus de temps sur les réseaux à faire de la pub pour un produit: service qui n'existe même pas encore.  
+Si tu proposes un produit, concentre toi sur sa fabrication et son perfectionnement et laisse tes "clients satisfaits" faire la publicité ou paie une agence spécialisée pour cela.  
 
 **Enfin, il faut entraîner son mental;** être fort sinon en cas d’échecs dans l’entreprise cela peut avoir des répercussions sur les études et vise versa.
 
@@ -88,8 +86,8 @@ Et si c’est l’entreprise qui marche au détriment des études, cela peut cr�
 
 En tout état de cause, l’entrepreneuriat est un domaine intéressant, à explorer surtout par la jeunesse africaine, c’est l’un des moyens par lesquels elle peut garder cet envol pris ces dernières années tout en demeurant éveillée et autonome; telle est ma vision des choses.
 
-**Avoir son propre business qui fonctionne, c’est s'assurer une liberté financière, c’est  garantir l’éducation de ses enfants tout au moins financièrement.
-**
+**Avoir son propre business qui fonctionne, c’est s'assurer une liberté financière, c’est  garantir l’éducation de ses enfants tout au moins financièrement.**
+
 
 ![null](/img/50721801_2268297113182638_4123909816731041792_n.png)
 
@@ -104,3 +102,13 @@ Voilà!
 En espérant vous avoir fourni des éléments de réponses, je vous embrasse.
 
 Entrepreneurialement,
+
+\#business
+
+\#law
+
+\#massavo
+
+\#wewilldoitsoon
+
+\#janvier2019
