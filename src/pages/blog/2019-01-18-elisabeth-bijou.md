@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ELISABETH-BIJOU
-urlphoto: 'https://lhirondellereviendra.com/img/1b1dd375-967f-4d04-a098-2beafe230433.jpeg'
+urlphoto: /img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg
 date: 2019-01-18T21:34:10.476Z
 description: >-
   Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent, c'est
@@ -10,7 +10,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/1b1dd375-967f-4d04-a098-2beafe230433.jpeg)
+![null]()
 
 C’ est le prénom qui me raconte mieux car je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
@@ -18,7 +18,7 @@ Bijou est une coquille et Elisabeth la substance.
 
 Les deux me vont si bien, tels le marteau et l'enclume, je me réserve ainsi d'un quelconque choix.
 
-![null](/img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg)
+![null]()
 
 En ce qui concerne ce blog, c'est un rêve d'ado. Mes potes m'ont surnommée Bijou la blogueuse car je répétais que je voulais être blogueuse sans même connaître la définition de ce mot. Aujourd'hui je ne peux plus attendre, je veux écrire, me raconter et mettre en œuvre ma créativité. Essentiellement, je voudrais pouvoir faire découvrir je ne sais encore quoi exactement. Je me lance quand même sans me soucier de demain car à coup sûr il est rempli de perspectives encore largement inexplorées.
 
@@ -33,3 +33,9 @@ Si tout se passe bien, je vous parlerai d'entraide, de bonheur, joie,de passion,
 D'ici là et en espérant vous revenir très vite, dites moi vous, est ce que votre prénom vous parle ?
 
 Quels sont vos rêves en vue ou récemment réalisés ?
+
+\#blog
+
+\#rêve
+
+\#fevrier2018
