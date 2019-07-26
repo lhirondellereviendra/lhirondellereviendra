@@ -56,4 +56,10 @@ Bien heureusement, nous sommes à l'ère du savoir, la connaissance est à port�
 
 Le réseau social, cet outils de communication telle une arme à double tranchant ( ...) grâce à lui, plusieurs personnes se sont réalisées, moi il m'a permis de vous rencontrer, par son biais certains se sont emmerdés et de manière réussie d'autres ne cessent de se noyer... Qu'est ce qu'il a le pouvoir de nous mener! Surtout que de plus en plus il nous prend autant de temps.
 
-Et si on l'utilisait à bon escient  ?
+Et si on l'utilisait à bon escient?
+
+\#birthdaygift
+
+\#Avril2018
+
+\#inlove
