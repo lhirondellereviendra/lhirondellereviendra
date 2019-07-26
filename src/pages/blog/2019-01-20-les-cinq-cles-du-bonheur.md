@@ -28,7 +28,7 @@ description: >
 tags:
   - Réflexions
 ---
-![null](/img/img_0042.jpg)
+![null]()
 
  Et dire que souvent nous cherchons loin ce qui se trouve à proximité. Le bonheur a t-il de saison ?
 
