@@ -11,7 +11,7 @@ description: >+
 tags:
   - Vie
 ---
-![null](/img/img_0015.jpg)
+![null]()
 
 De l’Afrique jusqu'en Europe, entre les études de droit et mes défis quotidiens: les voyages, ma véritable ressource(...).
 
@@ -47,7 +47,7 @@ Exactement comme le faisait ta grand-mère; on se comprenait si bien.
 
 ![null](/img/design-sans-titre.png)
 
-**Il faut dire que j’aie beaucoup de chance de l’avoir. **
+**Il faut dire que j’aie beaucoup de chance de l’avoir.** 
 
 **De loin, je ne vois aucune complication chez cette femme, ma mère; l’être le plus tolérant que je connaisse, hyper gentille et tenace**.
 
@@ -63,17 +63,17 @@ Je te veux pour construire des voies, je te veux instruite et réfléchie.
 
 **_Quand tu auras trente ans et que tu auras compris tous les pourquoi, parce que ces samedi soirs enfin, ton père ne sera plus mécontent de mon corps et mes tissus, modifiés et brisés depuis que je t’ai dessinée; quand tu deviendras moi, plus droite, plus apte, ma boussole: je vais m’en assurer_.**
 
-**Être éducatrice est plus qu'un métier et être mère représente un sacerdoce. **
+**Être éducatrice est plus qu'un métier et être mère représente un sacerdoce.** 
 
 **Sans réclamer d’être rémunérées, les femmes l’accomplissent avec tellement de dévotion.**
 
 Indéniablement, elles sont la lumière et toutes ces petites représentent l’avenir.
  Femmes fortes, filles équilibrées, femmes averties, filles mieux éduquées. 
 
-_**
-L’éducation est notre passeport pour l’avenir et **clairement l'école a illuminé ma vie._
 
-_ C’est cette chance que je vous souhaite à toutes puisque c’est seulement sur _**de telles pierres que nous réussirons à rebâtir le monde. **
+**_L’éducation est notre passeport pour l’avenir et_** _clairement l'école a illuminé ma vie._
+
+ _C’est cette chance que je vous souhaite à toutes puisque c’est seulement sur_ **de telles pierres que nous réussirons à rebâtir le monde.** 
 
 Posez les vôtres quelques soient leurs modèles. 
 
