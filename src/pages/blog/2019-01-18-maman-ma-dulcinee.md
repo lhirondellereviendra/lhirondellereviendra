@@ -31,7 +31,7 @@ Moi ma dulcinée est un ange, Elle veille sur toute la maisonnée. Elle est trè
 
 Comprenez qu’en son absence, mon cœur pleure.
 
-![null](/img/b546abd3-b871-40a1-bfbf-a02bca059fe2.jpeg)
+![null]()
 
 D'où toutes nos rencontres secrètes!
 
@@ -41,7 +41,7 @@ A chaque fois c'était de douloureuses séparations; maman me cachait ses larmes
 
 Finalement, je rentrais bredouille puisqu'elle s’en allait avec tout et pour essayer d'aller mieux, je la rappelais aussitôt pour écouter sa voix, recherchant déjà son odeur. 
 
-![null](/img/d9aeb36b-a221-4b3c-a9f3-886cec0960e5.jpeg)
+![null]()
 
 Nous ne pouvions nous empêcher de libérer nos larmes, elles étaient chaudes venant de nos âmes et amères coulant sur nos lèvres.
 
