@@ -37,3 +37,9 @@ Le continent lumière, celle méjugée par une partie du monde, celle dont ils p
 J’ai bouclé ma valise.
 
 Je vais faire un grand tour pour trouver de quoi crier futiles, les nombreuses raisons qui poussent à fuir le seul endroit sur terre encore comparable à un paradis.
+
+\#immigration
+
+\#Africains
+
+\#fevrier2019
