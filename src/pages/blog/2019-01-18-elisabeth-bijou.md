@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ELISABETH-BIJOU
-urlphoto: 'https://lhirondellereviendra.com/img/1b1dd375-967f-4d04-a098-2beafe230433.jpeg'
+urlphoto: /img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg
 date: 2019-01-18T21:34:10.476Z
 description: >-
   Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent, c'est
@@ -10,7 +10,7 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg)
+![null]()
 
 C’ est le prénom qui me raconte mieux car je me retrouve parfaitement dans toutes les dimensions de sa signification, partant de la générosité, loyauté jusqu'à la volonté de rendre service et de protéger les plus faibles. Cependant je me suis déjà comportée comme un bijou; cet objet insolite dont le caractère précieux n'est pas sans faille. Disons que l'attribution de sa valeur est subjective et variable suivant son histoire, l'attachement, l'importance qu'on lui accorde ou tout simplement selon son utilité.
 
@@ -33,3 +33,9 @@ Si tout se passe bien, je vous parlerai d'entraide, de bonheur, joie,de passion,
 D'ici là et en espérant vous revenir très vite, dites moi vous, est ce que votre prénom vous parle ?
 
 Quels sont vos rêves en vue ou récemment réalisés ?
+
+\#blog
+
+\#rêve
+
+\#fevrier2018
