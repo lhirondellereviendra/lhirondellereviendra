@@ -58,8 +58,6 @@ Le réseau social, cet outils de communication telle une arme à double tranchan
 
 Et si on l'utilisait à bon escient?
 
-\#birthdaygift
+\#notimetoplay
 
-\#Avril2018
-
-\#inlove
+\#mars2018
