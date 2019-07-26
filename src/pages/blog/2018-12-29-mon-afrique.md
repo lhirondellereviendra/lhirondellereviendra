@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: 'JEUNE, L'' AFRIQUE A BESOIN DE TOI'
-urlphoto: >-
-  https://lhirondellereviendra.com/img/50512674_310707526244301_5610208916236402688_n.jpg
+urlphoto: /img/e05aa5e6-3e34-4875-9fad-65a27eccb65d.png
 date: 2018-12-29T18:33:49.670Z
 description: >-
   A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
@@ -11,8 +10,6 @@ description: >-
 tags:
   - Réflexions
 ---
-![null](/img/50512674_310707526244301_5610208916236402688_n.jpg)
-
 Pour lui parler de ma rage à moi, je lui ai conté mon histoire: d’où je viens, un enfant a déterré un baobab. Je remonte à la fondation de l'empire mandingue, j’admire rage et détermination, acte de bravoure, l’intelligence et la force extraordinaire de Soundiata, l’une des plus belles épopées africaines.
 
 Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rage surtout, se renouvelle au fil des générations. Elle déborde face aux maux qui minent nos sociétés et aiguisent nos perpétuelles batailles.
@@ -20,8 +17,6 @@ Il faut avouer qu'aujourd'hui le continent regorge de toutes ces valeurs. La rag
 Mais à quoi sert-elle réellement? Si au final on enregistre malheureusement beaucoup plus de frustrations et de frayeurs que d’actions pertinentes. I am african, i am proud; and so?
 
 Quel plan pour l’Afrique ? quel est donc le devenir de l’Afrique?
-
-![](/img/e05aa5e6-3e34-4875-9fad-65a27eccb65d.png)
 
 J’ai bien peur qu’elle soit elle-même un projet dont le plan de financement se trouve encore au brouillon.
 
@@ -37,15 +32,15 @@ Aujourd'hui les plus braves sont prêts à troquer leur liberté contre une séc
 
 **Je tenais tout de même à dire que dans leurs yeux, j’ai vu trop de déceptions; dans nos cœurs, le besoin de franchir le pas et alors ma tête pense travail et développement du continent.** La nouvelle devise d’une entreprise commune; celle au sein de laquelle chacun devra occuper une fonction et bosser avec RIGUEUR.
 
-![](/img/50311049_325361278073614_8866716221723115520_n.png)
+![null](/img/50311049_325361278073614_8866716221723115520_n.png)
 
 # Venez! Joignons nos voix à celles qui s’élèvent déjà pour la libération de notre peuple.
 
-Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits._** Pour que nous décollions enfin, il urge de continuer à travailler.**_ Il est évident que rien n'est fait tant qu’il reste à faire. Les européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
+Contrairement à ce qu’on peut imaginer, ces actions commencent dans vos maisons, sur vos lieux de travail, dans vos esprits. _**Pour que nous décollions enfin, il urge de continuer à travailler.**_ Il est évident que rien n'est fait tant qu’il reste à faire. Les européens ont dû se reconstruire après les nombreuses séquelles laissées par la seconde guerre. Inutile de vous redire les tristes épisodes de Nagasaki et d'Hiroshima; le Japon a relevé la pente.
 
 Déjà un demi siècle; la jeunesse africaine est mise au défi. Au lieu de continuer à rêver d’un filon facile, chacun devrait s’attribuer une ou plusieurs missions en prenant part à l’avancement de l'édifice commun,
 
-![](/img/b2eecb03-a8b4-42ae-88ac-354c2dd9191e.png)
+![null](/img/b2eecb03-a8b4-42ae-88ac-354c2dd9191e.png)
 
 ## l'éducation des femmes et un nouveau regard sur l’enfance pour une Afrique mieux aguerrie et unie.
 
