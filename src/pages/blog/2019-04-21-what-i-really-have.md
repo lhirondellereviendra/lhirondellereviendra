@@ -43,7 +43,7 @@ De toutes façons, j’avais moi aussi mes propres rêves alors!.
 
 Interprête ou journaliste voilà ce que je me voyais faire.
 
-Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître #marie Elise GBEDO.
+Je me rappelle que j’ai été quelques fois séduite aussi bien par la beauté physique que par la toge de maître marie Elise G.
 
 Puis par cette jeune avocate, Virginie, l’héroïne d’un des best-sellers de feu #Jean Pliya.
 
