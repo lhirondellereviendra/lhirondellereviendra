@@ -52,9 +52,14 @@ class Blogpage extends Component{
                                           <div className="tile is-10  is-parent articleblog">
                                               <a className="has-text-primary" href={post.fields.slug}>
                                                     <div className="tile is-child box" key={post.id}>
+                                                      { post.frontmatter.urlphoto != undefined ?
                                                         <figure>
-                                                            <img  className="imgpost"src={post.frontmatter.urlphoto}/>
+                                                          <img  className="imgpost"src={post.frontmatter.image}/>
                                                         </figure>
+                                                      :
+                                                        <></>
+                                                      }
+
                                                         <p className="title is-size-4 is-size-5-mobile">{post.frontmatter.title}</p>
                                                         <p className=" is-size-6 is-size-5-mobile">{post.frontmatter.description}</p>
                                                         <a className="button" style={{marginTop:"20px"}} to={post.fields.slug}>
@@ -123,7 +128,7 @@ query BlogQuery($skip: Int!, $limit: Int!) {
         }
         frontmatter {
           title
-          urlphoto
+          image
           templateKey
           description
         }
