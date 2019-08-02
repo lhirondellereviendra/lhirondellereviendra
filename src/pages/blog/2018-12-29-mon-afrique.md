@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'JEUNE, L'' AFRIQUE A BESOIN DE TOI'
-urlphoto: /img/e05aa5e6-3e34-4875-9fad-65a27eccb65d.png
+urlphoto: 'https://ucarecdn.com/484c41c1-2696-422a-b06b-6535d1d55caf/'
 date: 2018-12-29T18:33:49.670Z
 description: >-
   A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
