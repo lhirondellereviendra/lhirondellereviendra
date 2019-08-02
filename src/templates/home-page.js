@@ -27,11 +27,11 @@ export const HomePageTemplate = ({
             <h4 className="has-text-justified is-size-4 title sociaux-barre"> Suivez-moi: </h4>
             <nav className="navbar sociaux-barre" >
                 <div className="navbar" >
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
+                        <a   className="navbar-item is-size-4 " target="_blank" rel="noopener" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/"><i className="fab fa-facebook "></i> </a> 
                         <p className="navbar-item-trait"> / </p>                            
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="https://www.instagram.com/elisabeth_aht/" ><i className="fab fa-instagram "></i> </a>
+                        <a   className="navbar-item is-size-4 " target="_blank" rel="noopener" aria-hidden="true" href="https://www.instagram.com/elisabeth_aht/" ><i className="fab fa-instagram "></i> </a>
                         <p className="navbar-item-trait"> / </p>                            
-                        <a   className="navbar-item is-size-4 " target="_blank" aria-hidden="true" href="#"><i className="fab fa-twitter "></i> </a>
+                        <a   className="navbar-item is-size-4 " target="_blank"  rel="noopener" aria-hidden="true" href="https://twitter.com/LReviendra"><i className="fab fa-twitter "></i> </a>
                 </div>
             </nav>
           </div>

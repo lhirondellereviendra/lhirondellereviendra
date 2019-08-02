@@ -16,13 +16,13 @@ const Footer = () => (
                     
                     <nav className="navbar">
                         <div className="navbar" >
-                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener" aria-hidden="true" href="https://www.facebook.com/LHIRONDELLEREVIENDRA/">FACEBOOK </a> 
                                 <p className="navbar-item-trait"> / </p>                            
 
-                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/" >INSTAGRAM </a>
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener" aria-hidden="true" href="https://www.instagram.com/lhirondellereviendra/" >INSTAGRAM </a>
 
                                 <p className="navbar-item-trait"> / </p>                            
-                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener noreferrer" aria-hidden="true" href="https://twitter.com/LReviendra">TWITTER </a>
+                                <a   className="navbar-item is-size-4 " target="_blank" rel="noopener" aria-hidden="true" href="https://twitter.com/LReviendra">TWITTER </a>
                         </div>  
                     </nav>
                 </div>
