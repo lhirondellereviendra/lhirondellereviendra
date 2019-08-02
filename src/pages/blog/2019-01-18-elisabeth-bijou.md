@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ELISABETH-BIJOU
+title: 'ELISABETH-BIJOU '
 urlphoto: /img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg
 date: 2019-01-18T21:34:10.476Z
 description: >-
