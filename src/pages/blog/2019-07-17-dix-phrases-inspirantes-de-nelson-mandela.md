@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'DIX PHRASES INSPIRANTES DE NELSON MANDELA '
-urlphoto: /img/50248134_2257862741204398_7263835453353099264_n.jpg
+urlphoto: 'https://ucarecdn.com/4e7a2997-40d5-4089-aa41-74233ee7cb65/'
 date: 2019-07-17T19:50:37.659Z
 description: >-
   Pour reprendre des vagues d’optimisme, pour raviver l’espérance et retrouver
