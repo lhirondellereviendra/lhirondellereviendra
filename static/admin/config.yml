@@ -5,9 +5,17 @@ backend:
     - admin
     - editor
 
-media_folder: static/img
-logo_url: ../img/lhr_logo.png
-public_folder: /img
+media_library:
+  name: uploadcare
+  config:
+    publicKey: be7a1d5dcc818457d21d
+    tabs: file url facebook gdrive gphotos instagram
+    effects: crop,rotate,mirror,flip,enhance,sharp,blur,grayscale,invert
+    imageOnly: true
+    previewStep: true
+    clearable: true
+    progressive: true
+
 display_url: https://lhirondellereviendra.fr
 site_url: https://lhirondellereviendra.fr
 publish_mode: editorial_workflow
