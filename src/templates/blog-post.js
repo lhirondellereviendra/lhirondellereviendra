@@ -130,28 +130,6 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      {post.frontmatter.urlphoto == null ?
-
-        <BlogPostTemplate
-          content={post.html}
-          contentComponent={HTMLContent}
-          description={post.frontmatter.description}
-          helmet={
-            <Helmet
-              titleTemplate="%s | Blog"
-            >
-              <title>{`${post.frontmatter.title}`}</title>
-              <meta name="description" content={`${post.frontmatter.description}`} />
-            </Helmet>
-          }
-          tags={post.frontmatter.tags}
-          title={post.frontmatter.title}
-          urlphoto={post.frontmatter.image}
-          id={post.id}
-          slug={post.fields.slug}
-
-        />
-        :
         <BlogPostTemplate
         urlphoto={post.frontmatter.urlphoto.publicURL}
         content={post.html}
@@ -172,7 +150,6 @@ const BlogPost = ({ data }) => {
         slug={post.fields.slug}
 
       />
-      }
       
       <section className="section">
         <div className="container">
