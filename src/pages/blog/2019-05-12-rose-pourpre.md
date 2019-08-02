@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ROSE POURPRE
-urlphoto: 'https://lhirondellereviendra.com/img/78fa0eb6-9181-4e26-bf79-7a348661e2a3.png'
+urlphoto: 'https://ucarecdn.com/a61537d3-eee6-48de-b174-e942b46b1512/'
 date: 2019-05-12T18:32:07.388Z
 description: "«\_Ce n’est pas pour devenir écrivain qu’on écrit. C’est pour rejoindre en silence cet amour qui manque à tout amour. C’est pour rejoindre le sauvage, l’écorché, le limpide\_»."
 tags:
