@@ -131,7 +131,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
         <BlogPostTemplate
-        urlphoto={post.frontmatter.urlphoto.publicURL}
+        urlphoto={post.frontmatter.urlphoto}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -181,9 +181,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        urlphoto{
-          publicURL
-        }
+        urlphoto
         description
         tags
       }

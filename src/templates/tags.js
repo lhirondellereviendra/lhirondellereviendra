@@ -14,7 +14,7 @@ class TagRoute extends React.Component {
                 <a className="has-text-primary" href={post.node.fields.slug}>
                       <div className="tile is-child box" >
                           <figure>
-                              <img  className="imgpost"src={post.node.frontmatter.image}/>
+                              <img  className="imgpost"src={post.node.frontmatter.urlphoto}/>
                           </figure>
                           <p className="title is-size-4 is-size-5-mobile">{post.node.frontmatter.title}</p>
                           <p className=" is-size-6 is-size-5-mobile">{post.node.frontmatter.description}</p>
@@ -99,7 +99,7 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
-            image
+            urlphoto
             templateKey
             description
           }
