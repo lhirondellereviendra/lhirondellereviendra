@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'ELISABETH-BIJOU '
-urlphoto: /img/330858aa-bab0-406e-8001-2cc5b6f58e92.jpeg
+urlphoto: 'https://ucarecdn.com/98291787-e951-4a92-aa4c-c9474dd80110/'
 date: 2019-01-18T21:34:10.476Z
 description: >-
   Bijou AHOTON, c'est à cette appellation que je réponds le plus souvent, c'est
