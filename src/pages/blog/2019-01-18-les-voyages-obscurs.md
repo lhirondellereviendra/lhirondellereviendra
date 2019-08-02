@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: LES VOYAGES OBSCURS
-urlphoto: /img/064c5e62-cd3d-488a-bcbb-1cb4f0635d88.jpeg
+urlphoto: 'https://ucarecdn.com/8f821449-b2cb-403a-afa5-4e8fe8f7dd69/'
 date: 2019-01-18T22:05:09.878Z
 description: >-
   Je voyage à travers le monde tantôt fuyant la guerre et la précarité tantôt
