@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ETUDES ET ENTREPRENEURIAT
-urlphoto: /img/1886e625-49a4-486e-b096-7c2485bfc1f2.jpeg
+urlphoto: 'https://ucarecdn.com/b0eb32de-7da3-43da-afc1-2d94a73785be/'
 date: 2019-03-02T10:19:40.760Z
 description: >
   Quand on est jeune étudiant, plein d’entrain et que l’on souhaite constamment
