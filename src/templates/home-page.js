@@ -87,9 +87,14 @@ const HomePage = ({ data }) => {
                             <div className="tile is-4 is-parent posthome">
                                 <a className="has-text-primary" href={post.fields.slug}>
                                       <div className="tile is-child box posthome" key={post.id}>
+                                        {
+                                          post.frontmatter.urlphoto == null ?
+                                          <> </>
+                                          :
                                           <figure>
-                                              <img  className="imgposthome"src={post.frontmatter.image}/>
+                                              <img  className="imgposthome"src={post.frontmatter.urlphoto.publicURL}/>
                                           </figure>
+                                        }
                                           <p className="title is-size-4 is-size-5-mobile ">{post.frontmatter.title}</p>
                                       </div>
                                 </a>
@@ -155,7 +160,9 @@ query HomePage ($id: String!) {
           }
           frontmatter {
             title
-            image
+            urlphoto{
+              publicURL
+            }
             templateKey
           }
         }

@@ -130,8 +130,30 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
-      <BlogPostTemplate
-        urlphoto={post.frontmatter.image}
+      {post.frontmatter.urlphoto == null ?
+
+        <BlogPostTemplate
+          content={post.html}
+          contentComponent={HTMLContent}
+          description={post.frontmatter.description}
+          helmet={
+            <Helmet
+              titleTemplate="%s | Blog"
+            >
+              <title>{`${post.frontmatter.title}`}</title>
+              <meta name="description" content={`${post.frontmatter.description}`} />
+            </Helmet>
+          }
+          tags={post.frontmatter.tags}
+          title={post.frontmatter.title}
+          urlphoto={post.frontmatter.image}
+          id={post.id}
+          slug={post.fields.slug}
+
+        />
+        :
+        <BlogPostTemplate
+        urlphoto={post.frontmatter.urlphoto.publicURL}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -145,11 +167,13 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        urlphoto={post.frontmatter.urlphoto}
+        urlphoto={post.frontmatter.image}
         id={post.id}
         slug={post.fields.slug}
 
       />
+      }
+      
       <section className="section">
         <div className="container">
               <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
@@ -180,7 +204,9 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        image
+        urlphoto{
+          publicURL
+        }
         description
         tags
       }

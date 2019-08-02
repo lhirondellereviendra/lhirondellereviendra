@@ -54,7 +54,7 @@ class Blogpage extends Component{
                                                     <div className="tile is-child box" key={post.id}>
                                                       { post.frontmatter.urlphoto != undefined ?
                                                         <figure>
-                                                          <img  className="imgpost"src={post.frontmatter.image}/>
+                                                          <img  className="imgpost"src={post.frontmatter.urlphoto.publicURL}/>
                                                         </figure>
                                                       :
                                                         <></>
@@ -128,7 +128,9 @@ query BlogQuery($skip: Int!, $limit: Int!) {
         }
         frontmatter {
           title
-          image
+          urlphoto{
+            publicURL
+          }
           templateKey
           description
         }
