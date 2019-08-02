@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 title: L'hirondelle reviendra
-image: /img/52692361_2180580968906777_2732147452831334400_n.jpg
+image: 'https://ucarecdn.com/ef90ea39-c647-4f72-aadf-b9cd0ce44297/'
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre: l’Afrique, l’espoir. Tous ces petits à qui nous donnons la vie, seule l’éducation les fera naître de nouveau(...)'
 about:
-  image: /img/52090409_2390778644501202_2442365816096686080_n.jpg
+  image: 'https://ucarecdn.com/735148fe-58f8-4783-993a-97f24e7d0096/'
   description: >-
     Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
     temps.
@@ -48,8 +48,7 @@ categoriehome:
       soulignait Waresquiel. Devrais-je rajouter que le voyage est indissociable
       de la vie? chaque jour je me familiarise avec cette curiosité qui me
       pousse à sortir de l'ordinaire.
-    image: >-
-      https://raw.githubusercontent.com/lhirondellereviendra/lhirondellereviendra/test/static/img/51745060_658847431197855_5425431035091353600_n.jpg
+    image: 'https://ucarecdn.com/38105625-a422-423b-890b-dbca10bd8935/'
     liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
     titrecat: MES VOYAGES
@@ -65,7 +64,7 @@ categoriehome:
       pas de vérité absolue affirmait VIKTOR Vincent, allez donc trouver la
       vôtre, celle que vous méritez  puis vivez la en voyageant, telle une
       hirondelle, avec agilité et amabilité. 
-    image: ''
+    image: 'https://ucarecdn.com/3a452149-d265-4622-a37e-ed7fd8cf54d2/'
     liencat: 'https://lhirondellereviendra.com/tags/reflexions'
     nombouton: Réflexions
     titrecat: REFLEXIONS
