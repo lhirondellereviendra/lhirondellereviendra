@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'SUR LES CHEMINS DE LA PERSÉVÉRANCE '
-urlphoto: 'https://ucarecdn.com/891e173b-96b9-4fdf-8283-fa452aec4b9f/'
+urlphoto: 'https://ucarecdn.com/d87187e2-2c8c-4f69-a011-9b427f585e52/'
 date: 2019-04-21T16:14:17.774Z
 description: |-
   Insomniaque!
@@ -20,7 +20,7 @@ Trajet de combattants!
 
 Il m’a fallu deux interminables années pour accepter que je ne suis pas faite pour le métier. 
 
-Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes plus grandes vertus, enchaîner des pro-bono: c’etait ça le projet, mes gens démunies et défavorisées.
+Pourtant, l’éloquence, j’avais matière à travailler tout comme la compassion reste l’une de mes plus grandes vertus, enchaîner des pro-bono: c’etait ça le projet, mes gens démunis et défavorisés.
 
 ![null](/img/a4b6c1b4-0ee1-4c4d-a9de-d769ce759355.png)
 
@@ -78,7 +78,8 @@ En premier, je vais vous parler de #Lupita Nyong'o, face au naturel de cette jeu
 
 À mon avis, cela ne m’a pas rendue plus belle; ne cherchez pas à comprendre: c’est tout simplement une question d’ADN. 
 
-Vous connaissez sans doute #Angélique Kidjo, l’énergie et la vivacité de toute une nation et #Oprah Winfrey alors? (Sourire) la puissance des puissances.
+1. ![](https://ucarecdn.com/592645c1-c5f5-4511-bce9-07fb0dcd04aa/)
+   Vous connaissez sans doute #Angélique Kidjo, l’énergie et la vivacité de toute une nation et #Oprah Winfrey alors? (Sourire) la puissance des puissances.
 
 Puis #Fatou Diome, entre ses lignes, il y a quelque chose qui nourrit mon âme, ma soeur de Niodior, si je l’avais connue des années plus tôt, j’aurais choisi d’étudier les lettres pour apprendre à écrire.
 
