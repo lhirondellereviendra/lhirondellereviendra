@@ -83,23 +83,11 @@ Mes yeux sur la poignée, te supplient de rentrer.
 
 Que les chemins de l’amour parfois sont difficiles!
 
-## Il fera chaud ces jours là sur les côtes de mon cœur.
+## Il fera chaud ces jours là sur les côtes de mon cœur
 
-D’autres mâles m’offriront bras et un tas de baisers.
+Dans des soirées napolitaines, quand tu parleras d’anéantir mes malheurs.
 
-Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
-
-Dans des hivers de rêve, toi, tu seras déjà du passé.
-
-Même si ma volonté demeurait sur l’étagère.
-
-Même s’ils m’achevaient ces atroces plaisirs.
-
-Ce quinzième sourire, cette catastrophe.
-
- Muets, mes instincts et moi.
-
-Néant, néant.
+Dans des hivers de rêve, mes peines seront déjà du passé.
 
  Il fera beau pour toujours ✨ (...) 
 
