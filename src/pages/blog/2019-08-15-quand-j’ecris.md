@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: QUAND J’ECRIS
-urlphoto: 'https://ucarecdn.com/eb338681-cbc5-4b83-ac3a-4d803121ac5b/'
+urlphoto: 'https://ucarecdn.com/2498e061-e83b-440a-80c2-97a7409990aa/'
 date: 2019-08-15T20:12:14.548Z
 description: >-
   Longtemps coincée entre les mots et la violence, j’ai fini par choisir le
@@ -19,7 +19,7 @@ C’est là-bas que je me réfugiais pour passer du temps avec moi même; pour u
 
 **Je le savais: je voulais écrire**. 
 
-Je devais aller à l’école aussi et produire de bonnes notes; des notes, juste ça; pas la danse ni le foot et mal an, de plus en plus. Dans ma dimension esthétique, je partais à la recherche de la vérité, déployant toute la beauté de mon imagination et de mes mains jusqu’à atteindre un réel degré de transparence.
+Je devais aller à l’école aussi et produire de bonnes notes; des notes, juste ça; pas la danse ni le foot et bon an, mal an, de plus en plus. Dans ma dimension esthétique, je partais à la recherche de la vérité, déployant toute la beauté de mon imagination et de mes mains jusqu’à atteindre un réel degré de transparence.
 
 **Quand j’écris, je sais que je vis.**
 
