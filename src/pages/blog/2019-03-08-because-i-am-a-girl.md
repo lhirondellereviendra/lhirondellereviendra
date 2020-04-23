@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: GIRL. P O W E R
+title: KABDATI
 urlphoto: 'https://ucarecdn.com/4d375cd7-5a04-4a68-837e-7391a2b5ceaf/'
 date: 2019-03-08T19:58:22.094Z
 description: >+
