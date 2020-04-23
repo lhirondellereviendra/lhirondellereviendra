@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: QUAND J’ECRIS
+title: QUAND J’ÉCRIS
 urlphoto: 'https://ucarecdn.com/2498e061-e83b-440a-80c2-97a7409990aa/'
 date: 2019-08-15T20:12:14.548Z
 description: >-
@@ -39,9 +39,7 @@ Audacieuse, remplacer des phrases pour m’alléger l’existence.
 
 Dites-moi, voulez-vous bien, comment je peux prêter attention à quoique ce soit d’autres?
 
-et même si pour de vrai, les vérités ne sont pas toutes, bonnes à dire, avant qu’elle n’éclatent au grand jour, j’écrirai toujours pour libérer, nous libérer de l’homme. 
-
-Protégée par les mots, j’écris pour ne pas subir.
+et même si pour de vrai, les vérités ne sont pas toutes bonnes à dire, avant qu’elles n’éclatent au grand jour, j’écrirai toujours pour libérer, j'écris pour ne pas subir.
 
 J’écris pour rejoindre les gens normaux dans mon anormalité.
 
@@ -53,13 +51,7 @@ Maintenant je puis décrire en grand tout ce qui m’a longtemps semblé petit .
 
 **Ma plume se durcit.**
 
-Elle prend des aspects qui m’entraînent au delà de mon moi, dans des chemins où, une grave jonkie, je n’ai plus de pouvoir sur le reste.
-
-J’ai écrit ces lignes à Dublin, une bouteille de Guiness à la main pendant que je traversais le chemin du paradis en Polynésie avant de rejoindre Vancouver. 
-
-Pour plus tard, pour acquiescer à Monaco et célébrer au Bénin.
-
-Avant que nos corps luisent de miel face à la lune et les tortues géantes de Seychelles.
+Elle prend des aspects qui m’entraînent au delà de mon moi, dans des chemins où, une grave junkie, je n’ai plus de pouvoir sur le reste.
 
 **Seulement quand j’écris, je sais que choisir.**
 
