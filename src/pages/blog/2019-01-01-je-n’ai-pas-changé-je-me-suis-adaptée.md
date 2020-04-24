@@ -75,6 +75,6 @@ D'aucuns ont pensé pareil après avoir reçu deux à trois sourires tout faux; 
 
 Ce soir, j'ai juste envie de dire: papa ta fille n'a pas changé; elle s'est juste adaptée.
 
-  Papa💙 
+  Papa...💙 
 
 A quand remonte votre plus long voyage?
