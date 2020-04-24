@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: 'JEUNE, L'' AFRIQUE A BESOIN DE TOI'
+title: 'QUEL PLAN POUR L''AFRIQUE? '
 urlphoto: 'https://ucarecdn.com/484c41c1-2696-422a-b06b-6535d1d55caf/'
 date: 2018-12-29T18:33:49.670Z
 description: >-
-  A paris, un jeune indien me demandait ceci: pensez-vous qu'un homme enragé
-  puisse soulever une baleine bleue? silence radio. Quand vous connaissez le
-  poids de l'animal, vous ne partagez pas forcément cet avis.
+  A paris, un jeune me demandait ceci: pensez-vous qu'un homme enragé puisse
+  soulever une baleine bleue? silence radio. Quand vous connaissez le poids de
+  l'animal, vous ne partagez pas forcément cet avis.
 tags:
   - Réflexions
 ---
