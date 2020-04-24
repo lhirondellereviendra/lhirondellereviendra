@@ -85,14 +85,22 @@ Que les chemins de l’amour parfois sont difficiles!
 
 ## Il fera chaud ces jours là sur les côtes de mon cœur
 
-Dans des soirées napolitaines, quand tu parleras d’anéantir mes malheurs.
+D'autres mâles, d'autres bras et un tas de baisers.
 
-Dans des hivers de rêve, mes peines seront déjà du passé.
+Dans des soirées napolitaines, quand ils parleront d’anéantir mes malheurs.
 
- Il fera beau pour toujours ✨ (...) 
+Dans des hivers de rêve, toi, tu seras déjà du passé.
+
+Même si ma volonté demeurait sur l'étagère.
+
+Même s'il m'achevaient ces atroces plaisirs, un quinzième sourire, cette catastrophe .
+
+Muets, mes instincts et moi.
+
+Néant, néant, 
+
+Il fera beau de l'intérieur ✨ (...) 
 
 \#Avril2019
 
-\#selflove
-
-\#G I R L P O W E R
+\#loveislove
