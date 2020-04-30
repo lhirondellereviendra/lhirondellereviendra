@@ -34,10 +34,6 @@ about:
     uniquement aux invités de marque.
 
 
-    Je ne sais du jour au lendemain, ni plaire, ni paraître car authentique,
-    authentique; je m'appelle Elisabeth.
-
-
 
      
   titre: QUI SUIS-JE?
