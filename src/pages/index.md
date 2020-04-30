@@ -32,7 +32,7 @@ about:
      
   titre: QUI SUIS-JE?
 categoriehome:
-  - descriptioncat: 'Le voyage est un retour vers l''essentiel '
+  - descriptioncat: 'Le voyage est un retour vers l''essentiel. '
     image: 'https://ucarecdn.com/38105625-a422-423b-890b-dbca10bd8935/'
     liencat: 'https://lhirondellereviendra.com/tags/voyages'
     nombouton: Mes Voyages
