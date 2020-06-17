@@ -47,11 +47,7 @@ J’écris, en marche vers la vie allez je peux mourir en paix.
 
 Sous le poids de ma plume, j’ai réussi à cristalliser mon attachement à certaines vraies valeurs, petit à petit j’ai triomphé de mes peurs et illustré superbement ce qui me tenait à cœur.
 
-Maintenant je puis décrire en grand tout ce qui m’a longtemps semblé petit .
-
-**Ma plume se durcit.**
-
-Elle prend des aspects qui m’entraînent au delà de mon moi, dans des chemins où, une grave junkie, je n’ai plus de pouvoir sur le reste.
+Maintenant je puis décrire en grand tout ce qui m’a longtemps semblé petit.
 
 **Seulement quand j’écris, je sais que choisir.**
 
