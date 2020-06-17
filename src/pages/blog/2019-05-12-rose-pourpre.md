@@ -3,39 +3,67 @@ templateKey: blog-post
 title: ROSE POURPRE
 urlphoto: 'https://ucarecdn.com/a61537d3-eee6-48de-b174-e942b46b1512/'
 date: 2019-05-12T18:32:07.388Z
-description: "«\_Ce n’est pas pour devenir écrivain qu’on écrit. C’est pour rejoindre en silence cet amour qui manque à tout amour. C’est pour rejoindre le sauvage, l’écorché, le limpide\_»."
+description: >+
+  C’était maintenant devenu mon fidèle compagnon.
+
+  Ce jour là, elle sortit un paquet de l’enveloppe et retira le contenu qu’elle
+  me tendit dans un sourire contagieux.
+
+  Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit
+  d’une rencontre amoureuse. 
+
 tags:
   - Vie
 ---
-Christian Bobin- la part manquante.
+Il y a longtemps, très longtemps, environ 5110 jours que cet objet me chérit et sait attendre, patiemment.
+
+Nous avons passé une vingtaine d’années de contradictions, ce fût incroyable; de véritables combats de coqs, silencieux; imparfaits.
+
+Ensemble, nous avions réussi à prendre de la hauteur et demain encore je continuerai à apprendre de mes erreurs; de toutes nos victoires communes, des sacrifices, de l’essentiel dans le désert, des longues attentes et du silence.
+
+Puis quand sonneront les heures critiques, celles de la nouveauté et du déracinement, nous marcheront timidement en direction du navire.
+
+Viendra t-elle sur le quai, voudra-t-elle embarquer?
 
 ![null](/img/78fa0eb6-9181-4e26-bf79-7a348661e2a3.png)
 
-C’était maintenant devenu mon fidèle compagnon.
+Je suis certaine que moi je jaugerai. Je brillerai de tous ces authentiques souvenirs.
 
-Ce jour là, ma mère sortit le paquet de l’enveloppe et retira le contenu qu’elle me tendit dans un sourire contagieux.
+Car ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de ce présent.
 
-Ensuite elle m’invita à l’essayer et ce fût un coup de coeur comme on le dit d’une rencontre amoureuse.
+Je conquiers ma liberté dans l’exacte mesure de sa couleur.
 
-Il y a longtemps, très longtemps, environ 5110 jours que cet objet me chérit et sait m’attendre, patiemment.
+Ma rose pourpre, mon équilibre; ma douceur, féminité; ma victoire, virilité.
 
-Il y a bien des situations que le temps ne réussira pas à éteindre; il y a tous ces gestes, des vitaux.
+C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
+
+Mais voici les temps sont durs.
+
+Depuis ce matin tout est silencieux, le train n’est pas passé à six heures et les chevaux n’ont pas henni du tout.
+
+ Pour ma reine, j’ai fait un bouquet généreusement garni de roses, de tulipes pour témoigner la pureté et la simplicité qui la caractérisent, le tout autour de quelques orchidées, ses préférées.
 
 ![null](/img/01a6be96-f302-4c6b-98dc-bdfb7185ce9a.png)
 
-Ma coupe déborde d’une immense gratitude pour les deux êtres qui m’ont parée pour la vie.
+Je ferme les yeux et je revois les traits de son visage. Ses mains manquent à mes caresses alors je ris autant que je pleure.
 
-C’est grâce à eux si vous m’avez connue et appréciée.
+J’observe en blanc et noir son regard inoffensif, sa coupe de cheveux carrée et cette robe de couleur beige qui sublimait son corps. 
 
-Nous avons passé une vingtaine d’années de contradictions, c’était  incroyable; de véritables combats de coqs, silencieux, imparfaits.
+Si loin, toutes nos soirées au clair de lune où de si belles histoires éveillaient ma curiosité.
 
-Ensemble, nous avons pris de la hauteur et demain encore je continuerai à apprendre de mes erreurs; de toutes nos victoires communes, les sacrifices, l’essentiel dans le désert, les longues attentes, le silence.
+Souvent j’ai le sentiment d’avoir déjà vécu ici avec elle et tout en ce jour me rappelle notre histoire; le silence du soleil s’apparente à son sourire à la fois discret et complet; cette musique résonne tout doucement, elle me console, j’ai comme l’impression de l’entendre prier.
 
-Puis quand sonneront les heures critiques, celles de la nouveauté, le déracinement, l’oubli, nous marcheront timidement en direction du navire.
+Je refuse de croire qu’autant de kilomètres nous séparent; espérant qu’elle revienne du marché le soir, comme avant, comme quand j’avais dix ans; espérant qu’à nouveau elle me fasse entendre un de ses inspirants récits.
 
-Viendront-ils sur le quai, voudront-ils embarquer?
+Tellement vous avez tout mères! tellement le sel est doux.
 
-Je suis certaine que je jaugerai; je brillerai de tous ces authentiques souvenirs.
+Vous qui aimez délicieusement nos pères et intensément nos frères.
+
+En son absence, mon cœur pleure.
+
+
+
+
 
 ![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
 
@@ -51,16 +79,18 @@ Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qu
 
 ![](/img/5a924288-a347-4eb8-afc9-719baf5a9cb5.png)
 
-J’y vois de nouvelles semences, j’y vois de tout, du rouge, du bleu etc.
+De toutes nos rencontres secrètes. 
 
-Il est vrai que le temps perdu ne se corrige pas et ce que nous ne voulons pas changer ne changera pas non plus.
+Quand elle me cachait sa peine, j’en faisais autant. Sans souffle, elle faisait un lourd départ pendant que moi étiolée, je m’efforçais de retourner à la case départ.
 
-Mais surtout, il y a toutes ces choses qui nous ont fait souffrir dans le passé et qui aujourd’hui ne peuvent plus nous anéantir.
+Nous ne pouvions nous empêcher de libérer nos larmes, elles étaient chaudes venant de nos âmes et amères coulant sur nos lèvres.
 
-Bisous💋
+J’aurais voulu monter à bord pour qu’on aille ensemble, pour qu’on parte très loin en restant proches.
+
+Mère (s) 
 
 \#rosepourpre
 
-\#mai2019
+\#juin 2019
 
 \#Bonne fête des mères
