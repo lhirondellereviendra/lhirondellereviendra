@@ -53,6 +53,10 @@ Si loin, toutes nos soirées au clair de lune où de si belles histoires éveill
 
 Souvent j’ai le sentiment d’avoir déjà vécu ici avec elle et tout en ce jour me rappelle notre histoire; le silence du soleil s’apparente à son sourire à la fois discret et complet; cette musique résonne tout doucement, elle me console, j’ai comme l’impression de l’entendre prier.
 
+
+
+![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
+
 Je refuse de croire qu’autant de kilomètres nous séparent; espérant qu’elle revienne du marché le soir, comme avant, comme quand j’avais dix ans; espérant qu’à nouveau elle me fasse entendre un de ses inspirants récits.
 
 Tellement vous avez tout mères! tellement le sel est doux.
@@ -60,22 +64,6 @@ Tellement vous avez tout mères! tellement le sel est doux.
 Vous qui aimez délicieusement nos pères et intensément nos frères.
 
 En son absence, mon cœur pleure.
-
-
-
-
-
-![null](/img/931c849d-ef8d-44a6-9bfb-9c7ef96042d7.png)
-
-Ma force est robuste et ma détermination de taille à chaque fois que je me plonge dans les secrets de ce présent.
-
-Je conquiers ma liberté dans l’exacte mesure de sa couleur.
-
-Ma rose pourpre, mon équilibre; ma douceur-féminité, ma victoire-virilité.
-
-C’est ma force et mon espérance, c’est l’Amour au dessus de tout.
-
-Elle qui m’a longtemps entraînée dans l’illusion de mes émotions, elle qui me place à présent là où rien ne me fait peur.
 
 ![](/img/5a924288-a347-4eb8-afc9-719baf5a9cb5.png)
 
