@@ -4,30 +4,19 @@ title: L'hirondelle reviendra
 image: 'https://ucarecdn.com/ef90ea39-c647-4f72-aadf-b9cd0ce44297/'
 description: ' J’ai construit ce fastueux cachot dans lequel je viens souvent me poser pour mettre encore plus de soleil dans mes pensées et jauger ma créativité. D’ici, je peux regarder par dessus le monde et essayer de comprendre...'
 about:
-  image: 'https://ucarecdn.com/735148fe-58f8-4783-993a-97f24e7d0096/'
+  image: 'https://ucarecdn.com/a6a4ed30-be74-4e0e-8c54-40785f7a5236/'
   description: >-
-    Pour avoir changé souvent, je peux manquer de mots pour me décrire dans le
-    temps.
+    Longtemps coincée entre les mots et la violence, j'ai choisi les premiers. 
 
-    Néanmoins, vous trouverez peintes sur ces murs, quelques figures fidèles et
-    intactes.
+    J'ai appris à lire avec Mamadou Bineta, Agatha Christie, des magazines
+    papiers, et tout ce que ma main touchait. Des images, des sons, des
+    sentiments et surtout une véritable liberté...
 
-    Dans mon portefeuille, se trouve l'image d’une Afrique nouvelle et émergée:
-    mes rêves sont ce que j’ai de plus précieux, je les garde sous les yeux pour
-    ne pas oublier de prier. 
+    Par la suite, des auteurs comme Pierre Corneille, Ken Bugul, Emile Zola,
+    Fyodor Dostoevsky et Olympe Bhêly Quenum m'ont donné envie d'écrire. 
 
-    Je m'inspire de ces joyaux qui passent de mères en filles et dont la valeur
-    sentimentale surpasse le prix du marché.
-
-
-    Sur mon front, je laisse couler mes charmes; elles se décomposent souvent,
-    parfois s'abîment et même se brisent de désespoir.
-
-    Mais déjà, le soir et goûte à goûte, je cède à la persévérance.
-
-    Avec, d'avance, j'ai gagné toutes les bonnes guerres. 
-
-
+    À l'âge de 12 ans, j'écrivais déjà la lumière, Londres, les femmes et les
+    oiseaux. 
 
      
   titre: QUI SUIS-JE?
